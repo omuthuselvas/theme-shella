@@ -1,0 +1,38 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, shrink-to-fit=no, user-scalable=no">
+<meta name="theme-color" content="{{ settings.color_theme }}">
+<link rel="canonical" href="{{ canonical_url }}">
+{%- if settings.favicon != blank -%}
+    <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x32' }}" type="image/png">
+{%- endif -%}
+{%- capture seo_title -%}
+    {{ page_title }}
+    {%- if current_tags -%}
+        {% assign meta_tags = current_tags | join: ', ' %} &ndash; {{ 'general.meta.tags' | t: tags: meta_tags }}
+    {%- endif -%}
+    {%- if current_page != 1 -%}
+        &ndash; {{ 'general.meta.page' | t: page: current_page }}
+    {%- endif -%}
+    {%- unless page_title contains shop.name -%}
+        &ndash; {{ shop.name }}
+    {%- endunless -%}
+{%- endcapture -%}
+{%- if template contains 'gift_card' -%}
+    {%- assign formatted_initial_value = gift_card.initial_value | money_without_trailing_zeros: gift_card.currency -%}
+    {%- assign formatted_initial_value_stripped = formatted_initial_value | strip_html -%}
+    <title>{{ 'gift_cards.issued.title' | t: value: formatted_initial_value_stripped, shop: shop.name }}</title>
+    <meta name="description" content="{{ 'gift_cards.issued.subtext' | t }}">
+{%- else -%}
+    <title>{{ seo_title }}</title>
+    {%- if page_description -%}
+        <meta name="description" content="{{ page_description | escape }}">
+    {%- endif -%}
+{%- endif -%}
+{% render 'head-get-social-meta-tags' %}
+{% render 'css-bootstrap' %}
+{% include 'css-start' %}
+{% render 'js-start' %}
+<script>
+    window.page = { default: {} };
+</script>

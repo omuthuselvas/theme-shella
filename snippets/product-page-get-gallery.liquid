@@ -1,0 +1,376 @@
+{%- if product.selected_variant -%}
+    {%- assign current_image = current_variant.featured_media -%}
+{%- else -%}
+    {%- assign current_image = product.media.first -%}
+{%- endif -%}
+{%- if settings.product_format_pjpg -%}
+    {%- assign image_format = 'pjpg' -%}
+{%- else -%}
+    {%- assign image_format = null -%}
+{%- endif -%}
+{%- if layout != '5' -%}
+    {% capture images_html %}
+        {%- assign id_index = '[' -%}
+        {%- assign zoom_images = '[' -%}
+        {%- for media in product.media -%}
+            {% capture id_index %}{{ id_index }}{% unless forloop.first %},{% endunless %}{{ media.id }}{% endcapture %}
+            {%- case media.media_type -%}
+                {% when 'image' %}
+                    {% capture zoom_images %}{{ zoom_images }}{% unless forloop.first %},{% endunless %}"{{ media.src | product_img_url: '1920x', format: image_format }}"{% endcapture %}
+                    {%- if media.id == current_image.id -%}
+                        {%- assign first_load_image = forloop.index0 -%}
+                    {%- endif -%}
+                    <a href="{{ media.src | product_img_url: '510x', format: image_format, scale: 2 }}" data-full="{{ media.src | product_img_url: '1920x', format: image_format }}"></a>
+                {% when 'video' %}
+                    {% capture zoom_images %}{{ zoom_images }}{% unless forloop.first %},{% endunless %}null{% endcapture %}
+                    {%- assign video_id = media.id -%}
+                    {%- assign video = media.sources | where: 'format', 'mp4' | first -%}
+                    <div class="fotorama__video_bg d-flex align-items-center h-100" data-video="true">
+                        <video muted playsinline controls{% if video_autoplay %} autoplay loop{% endif %}{% if media.preview_image.src != blank %} poster="{{ media.preview_image.src | img_url: '510x', format: image_format, scale: 2 }}"{% endif %} preload="auto" class="w-100">
+                            <source src="{{ video.url }}" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
+                {% when 'external_video' %}
+                    {% capture zoom_images %}{{ zoom_images }}{% unless forloop.first %},{% endunless %}null{% endcapture %}
+                    {%- assign video_id = media.id -%}
+                    <div class="fotorama__video_bg d-flex align-items-center h-100" data-video="true">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe src="https://www.youtube.com/embed/{{ media.external_id }}?rel=0&amp;controls=1&amp;showinfo=0{% if video_autoplay %}&amp;autoplay=1&amp;loop=1&amp;mute=1{% endif %}" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen class="embed-responsive-item"></iframe>
+                        </div>
+                    </div>
+                {% when 'model' %}
+                    {% capture zoom_images %}{{ zoom_images }}{% unless forloop.first %},{% endunless %}null{% endcapture %}
+                    <div class="product-page-gallery__main_model position-relative w-100" data-video="true" data-gallery-model>
+                        {{ media | model_viewer_tag }}
+                    </div>
+            {%- endcase -%}
+        {%- else -%}
+            {%- assign first_load_image = 0 -%}
+            <a href="{{ image | img_url: '510x', format: 'pjpg' }}" data-full="{{ image | img_url: '1920x', format: 'pjpg' }}"></a>
+            {% capture zoom_images %}"{{ image | img_url: '510x', format: 'pjpg' }}"{% endcapture %}
+        {%- endfor -%}
+        {%- assign id_index = id_index | append: ']' -%}
+        {%- assign zoom_images = zoom_images | append: ']' -%}
+    {% endcapture %}
+{%- endif -%}
+{%- case layout -%}
+{%- when '1' -%}
+    <div class="product-page-gallery mx-auto pb-20" data-js-product-gallery data-active-image="{{ first_load_image }}">
+        <div class="d-flex">
+            {%- if product.media.size > 0 -%}
+                <div class="product-page-gallery__preview product-page-gallery__thumbnails position-relative d-none d-lg-block mr-10">
+                    <div class="h-100 invisible" data-js-product-gallery-preview{% if sidebar != 'off' %} data-slides-to-show="4"{% endif %}>
+                        {%- for media in product.media -%}
+                            <div class="product-page-gallery__thumbnail position-relative mb-10 cursor-lg-pointer" data-js-product-gallery-preview-image data-js-product-gallery-image-id="{{ media.id }}">
+                                {% render 'rimage' with image: media size: '70x' height_procent: settings.product_info_gallery_height_percent format: image_format scale: 2 stretch_size: 'contain' alt: media.alt %}
+                                {%- if media.media_type == 'video' or media.media_type == 'external_video' -%}
+                                    <div class="product-page-gallery__thumbnail_bg absolute-stretch d-flex flex-center">
+                                        <i class="position-absolute mr-3">{% render 'icon-theme-211' %}</i>
+                                    </div>
+                                {%- elsif media.media_type == 'model' -%}
+                                    <div class="product-page-gallery__thumbnail_bg absolute-stretch d-flex flex-center">
+                                        <i class="position-absolute mr-3">{% render 'icon-theme-322' %}</i>
+                                    </div>
+                                {%- endif -%}
+                            </div>
+                        {%- endfor -%}
+                    </div>
+                    <div class="product-page-gallery__preview-arrows position-absolute bottom-0 w-100 d-flex flex-center">
+                        <div class="d-flex cursor-lg-pointer" data-js-product-gallery-preview-btn-prev><i>{% render 'icon-theme-230' %}</i></div>
+                        <div class="d-flex cursor-lg-pointer" data-js-product-gallery-preview-btn-next><i>{% render 'icon-theme-229' %}</i></div>
+                    </div>
+                </div>
+            {%- endif -%}
+            <div class="product-page-gallery__main">
+                <div class="position-relative invisible">
+                    <div data-js-product-gallery-main
+                         data-arrows="{{ show_arrows }}"
+                         data-fullscreen="{{ show_btn_fullscreen }}"
+                         data-ratio="100/{{ settings.product_info_gallery_height_percent }}"
+                         data-video-autoplay="{{ video_autoplay }}"
+                         data-index-id='{{ id_index }}'
+                        {% if enable_zoom -%}
+                        data-zoom-images='{{ zoom_images }}'
+                        {%- endif %}
+                         data-zoom="{{ enable_zoom }}">
+                        {{ images_html }}
+                    </div>
+                    {%- if enable_zoom -%}
+                        <div class="absolute-stretch d-none" data-js-product-gallery-zoom></div>
+                    {%- endif -%}
+                    {%- if show_arrows and product.media.size > 1 -%}
+                        <div class="product-page-gallery__main-arrow position-absolute d-flex flex-center left-0 ml-10 rounded-circle overflow-hidden cursor-pointer" data-js-product-gallery-main-btn-prev><i class="position-relative mr-1">{% render 'icon-theme-006' %}</i></div>
+                        <div class="product-page-gallery__main-arrow position-absolute d-flex flex-center right-0 mr-10 rounded-circle overflow-hidden cursor-pointer" data-js-product-gallery-main-btn-next><i class="position-relative ml-4">{% render 'icon-theme-007' %}</i></div>
+                    {%- endif -%}
+                </div>
+            </div>
+        </div>
+        {%- if show_btn_fullscreen or show_btn_video and video_id -%}
+            <div class="product-page-gallery__control d-none d-lg-flex justify-content-end align-items-center mt-20">
+                {%- if show_btn_fullscreen -%}
+                    <div class="d-flex align-items-center cursor-pointer mb-3" data-js-product-gallery-btn-fullscreen><i class="mr-3">{% render 'icon-theme-166' %}</i>{{ 'products.product.button_zoom' | t }}</div>
+                {%- endif -%}
+                {%- if show_btn_video and video_id -%}
+                    <div class="ml-20 cursor-pointer" data-js-product-gallery-btn-video data-media-id="{{ video_id }}"><i>{% render 'icon-theme-211' %}</i></div>
+                {%- endif -%}
+            </div>
+        {%- endif -%}
+    </div>
+    <script>
+        Loader.require({type: "style", name: "plugin_fotorama"});
+        Loader.require({type: "style", name: "plugin_slick"});
+        Loader.require({type: 'script', name: 'plugin_fotorama'});
+    </script>
+{%- when '2' -%}
+    <div class="product-page-gallery product-page-gallery--centered mx-auto pb-20 pb-lg-30" data-js-product-gallery data-active-image="{{ first_load_image }}">
+        <div class="product-page-gallery__main product-page-gallery__main--single">
+            <div class="position-relative invisible">
+                <div data-js-product-gallery-main
+                     data-arrows="{{ show_arrows }}"
+                     data-fullscreen="{{ show_btn_fullscreen }}"
+                     data-ratio="100/{{ settings.product_info_gallery_height_percent }}"
+                     data-video-autoplay="{{ video_autoplay }}"
+                     data-index-id='{{ id_index }}'
+                    {% if enable_zoom -%}
+                    data-zoom-images='{{ zoom_images }}'
+                    {%- endif %}
+                     data-zoom="{{ enable_zoom }}">
+                    {{ images_html }}
+                </div>
+                {%- if enable_zoom -%}
+                    <div class="absolute-stretch d-none" data-js-product-gallery-zoom></div>
+                {%- endif -%}
+                {%- if show_arrows and product.media.size > 1 -%}
+                    <div class="product-page-gallery__main-arrow position-absolute d-flex flex-center left-0 ml-10 rounded-circle overflow-hidden cursor-pointer" data-js-product-gallery-main-btn-prev><i class="position-relative mr-1">{% render 'icon-theme-006' %}</i></div>
+                    <div class="product-page-gallery__main-arrow position-absolute d-flex flex-center right-0 mr-10 rounded-circle overflow-hidden cursor-pointer" data-js-product-gallery-main-btn-next><i class="position-relative ml-4">{% render 'icon-theme-007' %}</i></div>
+                {%- endif -%}
+            </div>
+        </div>
+        {%- if product.media.size > 0 -%}
+            <div class="product-page-gallery__collage product-page-gallery__thumbnails row d-none d-lg-flex" data-js-product-gallery-collage>
+                {%- for media in product.media -%}
+                    <div class="col px-5 mt-10">
+                        <div class="product-page-gallery__thumbnail position-relative cursor-lg-pointer" data-js-product-gallery-preview-image data-js-product-gallery-image-id="{{ media.id }}">
+                            {% render 'rimage' with image: media size: '70x' height_procent: settings.product_info_gallery_height_percent format: image_format scale: 2 stretch_size: 'contain' alt: media.alt %}
+                            {%- if media.media_type == 'video' or media.media_type == 'external_video' -%}
+                                <div class="product-page-gallery__thumbnail_bg absolute-stretch d-flex flex-center">
+                                    <i class="position-absolute mr-3">{% render 'icon-theme-211' %}</i>
+                                </div>
+                            {%- elsif media.media_type == 'model' -%}
+                                <div class="product-page-gallery__thumbnail_bg absolute-stretch d-flex flex-center">
+                                    <i class="position-absolute mr-3">{% render 'icon-theme-322' %}</i>
+                                </div>
+                            {%- endif -%}
+                        </div>
+                    </div>
+                {%- endfor -%}
+            </div>
+        {%- endif -%}
+        {%- if show_btn_fullscreen or show_btn_video and video_id -%}
+            <div class="product-page-gallery__control d-none d-lg-flex align-items-center mt-20">
+                {%- if show_btn_fullscreen -%}
+                    <div class="d-flex align-items-center cursor-pointer mb-3" data-js-product-gallery-btn-fullscreen><i class="mr-3">{% render 'icon-theme-166' %}</i>{{ 'products.product.button_zoom' | t }}</div>
+                {%- endif -%}
+                {%- if show_btn_video and video_id -%}
+                    <div class="ml-20 cursor-pointer" data-js-product-gallery-btn-video data-media-id="{{ video_id }}"><i>{% render 'icon-theme-211' %}</i></div>
+                {%- endif -%}
+            </div>
+        {%- endif -%}
+    </div>
+    <script>
+        Loader.require({type: "style", name: "plugin_fotorama"});
+        Loader.require({type: 'script', name: 'plugin_fotorama'});
+    </script>
+{%- when '3' -%}
+    <div class="product-page-gallery mx-auto pb-20 pb-lg-30" data-js-product-gallery data-active-image="{{ first_load_image }}">
+        <div class="product-page-gallery__main product-page-gallery__main--single {% if show_btn_fullscreen %}position-lg-absolute pointer-events-lg-none invisible-lg{% else %}d-lg-none{% endif %}">
+            <div class="position-relative invisible">
+                <div data-js-product-gallery-main{% unless show_btn_fullscreen %}="mobile"{% endunless %}
+                     data-arrows="{{ show_arrows }}"
+                     data-fullscreen="{{ show_btn_fullscreen }}"
+                     data-ratio="100/{{ settings.product_info_gallery_height_percent }}"
+                     data-video-autoplay="{{ video_autoplay }}"
+                     data-index-id='{{ id_index }}'
+                        {% if enable_zoom -%}
+                            data-zoom-images='{{ zoom_images }}'
+                        {%- endif %}
+                     data-zoom="{{ enable_zoom }}">
+                    {{ images_html }}
+                </div>
+                {%- if enable_zoom -%}
+                    <div class="absolute-stretch d-none" data-js-product-gallery-zoom></div>
+                {%- endif -%}
+                {%- if show_arrows and product.media.size > 1 -%}
+                    <div class="product-page-gallery__main-arrow position-absolute d-flex flex-center left-0 ml-10 rounded-circle overflow-hidden cursor-pointer" data-js-product-gallery-main-btn-prev><i class="position-relative mr-1">{% render 'icon-theme-006' %}</i></div>
+                    <div class="product-page-gallery__main-arrow position-absolute d-flex flex-center right-0 mr-10 rounded-circle overflow-hidden cursor-pointer" data-js-product-gallery-main-btn-next><i class="position-relative ml-4">{% render 'icon-theme-007' %}</i></div>
+                {%- endif -%}
+            </div>
+        </div>
+        {%- if product.media.size > 0 -%}
+            <div class="product-page-gallery__sheet d-none d-lg-block">
+                {%- for media in product.media -%}
+                    <div class="{% if forloop.index0 != 0 %}mt-10{% endif %}" data-js-product-gallery-preview-image data-js-product-gallery-image-id="{{ media.id }}">
+                        {%- case media.media_type -%}
+                            {% when 'image' %}
+                                {% render 'rimage' with image: media size: '600x' format: image_format alt: media.alt %}
+                            {% when 'video' %}
+                                {%- assign video = media.sources | where: 'format', 'mp4' | first -%}
+                                <video muted playsinline preload="none" controls preload="auto" class="w-100">
+                                    <source src="{{ video.url }}" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                            {% when 'external_video' %}
+                                <div class="embed-responsive embed-responsive-16by9 mb-10">
+                                    {% comment %}
+                                    <iframe src="https://youtu.be/{{ media.external_id }}" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" class="embed-responsive-item"></iframe>
+                                    {% endcomment %}
+                                    {{ media | external_video_tag }}
+                                </div>
+                            {% when 'model' %}
+                                <div class="product-page-gallery__sheet_model position-relative w-100">
+                                    {{ media | model_viewer_tag }}
+                                </div>
+                        {%- endcase -%}
+                    </div>
+                {%- endfor -%}
+            </div>
+        {%- endif -%}
+        {%- if show_btn_fullscreen -%}
+            <div class="product-page-gallery__control d-none d-lg-flex align-items-center mt-20">
+                <div class="d-flex align-items-center cursor-pointer mb-3" data-js-product-gallery-btn-fullscreen><i class="mr-3">{% render 'icon-theme-166' %}</i>{{ 'products.product.button_zoom' | t }}</div>
+            </div>
+        {%- endif -%}
+    </div>
+    <script>
+        Loader.require({type: "style", name: "plugin_fotorama"});
+        Loader.require({type: 'script', name: 'plugin_fotorama'});
+    </script>
+{%- when '4' -%}
+    {%- for img in product.images -%}
+        {%- if img.variants[0].title != blank -%}
+            {%- assign has_own_variant = true -%}
+            {%- break -%}
+        {%- endif -%}
+    {%- endfor -%}
+    <div class="product-page-gallery mx-auto pb-20 pb-lg-30" data-js-product-gallery data-active-image="{{ first_load_image }}">
+        <div class="product-page-gallery__main product-page-gallery__main--single invisible-lg position-lg-absolute top-lg-0 left-lg-0 pointer-events-lg-none">
+            <div class="position-relative invisible">
+                <div data-js-product-gallery-main
+                     data-arrows="{{ show_arrows }}"
+                     data-fullscreen="{{ show_btn_fullscreen }}"
+                     data-ratio="100/{{ settings.product_info_gallery_height_percent }}"
+                     data-video-autoplay="{{ video_autoplay }}"
+                     data-index-id='{{ id_index }}'
+                     data-zoom="false">
+                    {{ images_html }}
+                </div>
+                {%- if show_arrows and product.media.size > 1 -%}
+                    <div class="product-page-gallery__main-arrow position-absolute d-flex flex-center left-0 ml-10 rounded-circle overflow-hidden cursor-pointer" data-js-product-gallery-main-btn-prev><i class="position-relative mr-1">{% render 'icon-theme-006' %}</i></div>
+                    <div class="product-page-gallery__main-arrow position-absolute d-flex flex-center right-0 mr-10 rounded-circle overflow-hidden cursor-pointer" data-js-product-gallery-main-btn-next><i class="position-relative ml-4">{% render 'icon-theme-007' %}</i></div>
+                {%- endif -%}
+            </div>
+        </div>
+        {%- if product.media.size > 0 -%}
+            <div class="product-page-gallery__variable row d-none d-lg-flex position-lg-relative" data-js-product-gallery-variable>
+                {%- if product.media.size > 0 -%}
+                    {%- for img in product.images -%}
+                        {%- if has_own_variant -%}
+                            {%- if img.variants[0].title != blank -%}
+                                {%- assign for_option_split = img.variants[0].title | split: ' / ' -%}
+                                {%- assign for_option = for_option_split[0] -%}
+                            {%- endif -%}
+                            {%- unless for_option -%}
+                                {%- continue -%}
+                            {%- endunless -%}
+                        {%- endif -%}
+                        <div class="col-6 px-5 mb-10{% if has_own_variant and current_variant.option1 != for_option %} d-none{% endif %}"{% if has_own_variant %} data-js-for-option="{% render 'product-get-options-strip-symbols' with value: for_option %}"{% endif %}>
+                            <div class="position-relative">
+                                <div data-js-product-gallery-preview-image data-js-product-gallery-image-id="{{ img.id }}">
+                                    {% render 'rimage' with image: img size: '100x' format: image_format alt: img.alt %}
+                                </div>
+                                {%- if show_btn_fullscreen -%}
+                                    <div class="product-page-gallery__variable_btn_fullscreen d-none d-lg-flex absolute-stretch" data-js-product-gallery-btn-fullscreen></div>
+                                {%- endif -%}
+                            </div>
+                        </div>
+                    {%- endfor -%}
+                    {%- for media in product.media -%}
+                        {%- if media.media_type == 'video' or media.media_type == 'external_video' or media.media_type == 'model' -%}
+                            <div class="col-12 px-5 mb-10">
+                                <div class="position-relative">
+                                    <div data-js-product-gallery-preview-image data-js-product-gallery-image-id="{{ media.id }}">
+                                        {%- case media.media_type -%}
+                                            {% when 'video' %}
+                                                {%- assign video = media.sources | where: 'format', 'mp4' | first -%}
+                                                <video muted playsinline preload="none" controls preload="auto" class="w-100">
+                                                    <source src="{{ video.url }}" type="video/mp4">
+                                                    Your browser does not support the video tag.
+                                                </video>
+                                            {% when 'external_video' %}
+                                                <div class="embed-responsive embed-responsive-16by9 mb-10">
+                                                    {% comment %}
+                                                    <iframe src="https://youtu.be/{{ media.external_id }}" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" class="embed-responsive-item"></iframe>
+                                                    {% endcomment %}
+                                                    {{ media | external_video_tag }}
+                                                </div>
+                                            {% when 'model' %}
+                                                <div class="product-page-gallery__sheet_model position-relative w-100">
+                                                    {{ media | model_viewer_tag }}
+                                                </div>
+                                        {%- endcase -%}
+                                    </div>
+                                </div>
+                            </div>
+                        {%- endif -%}
+                    {%- endfor -%}
+                {%- endif -%}
+            </div>
+        {%- endif -%}
+    </div>
+    <script>
+        Loader.require({type: "style", name: "plugin_fotorama"});
+        Loader.require({type: 'script', name: 'plugin_fotorama'});
+    </script>
+{%- when '5' -%}
+    <div class="product-page-gallery mx-auto pb-20 pb-lg-30 overflow-hidden" data-js-product-gallery data-active-image="{{ first_load_image }}">
+        {%- if product.media.size > 0 -%}
+            <div class="product-page-gallery__panorama position-relative">
+                <div class="invisible" data-js-product-gallery-preview data-type="panorama">
+                    {%- for media in product.media -%}
+                        <div class="cursor-lg-pointer" data-js-product-gallery-preview-image data-js-product-gallery-image-id="{{ img.id }}">
+                            {%- case media.media_type -%}
+                                {% when 'image' %}
+                                    {% render 'rimage' with image: media size: '400x' format: image_format alt: img.alt %}
+                                {% when 'video' %}
+                                    {%- assign video = media.sources | where: 'format', 'mp4' | first -%}
+                                    <video muted playsinline preload="none" controls preload="auto" class="w-100">
+                                        <source src="{{ video.url }}" type="video/mp4">
+                                        Your browser does not support the video tag.
+                                    </video>
+                                {% when 'external_video' %}
+                                    <div class="embed-responsive embed-responsive-16by9 mb-10">
+                                        {% comment %}
+                                        <iframe src="https://youtu.be/{{ media.external_id }}" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" class="embed-responsive-item"></iframe>
+                                        {% endcomment %}
+                                        {{ media | external_video_tag }}
+                                    </div>
+                                {% when 'model' %}
+                                    <div class="product-page-gallery__sheet_model position-relative w-100">
+                                        {{ media | model_viewer_tag }}
+                                    </div>
+                            {%- endcase -%}
+                        </div>
+                    {%- endfor -%}
+                </div>
+                {%- if show_arrows and product.media.size > 1 -%}
+                    <div class="product-page-gallery__main-arrow position-absolute d-flex flex-center left-0 ml-10 rounded-circle overflow-hidden cursor-pointer" data-js-product-gallery-preview-btn-prev><i class="position-relative mr-1">{% render 'icon-theme-006' %}</i></div>
+                    <div class="product-page-gallery__main-arrow position-absolute d-flex flex-center right-0 mr-10 rounded-circle overflow-hidden cursor-pointer" data-js-product-gallery-preview-btn-next><i class="position-relative ml-4">{% render 'icon-theme-007' %}</i></div>
+                {%- endif -%}
+            </div>
+        {%- endif -%}
+    </div>
+    <script>
+        Loader.require({type: "style", name: "plugin_slick"});
+    </script>
+{%- endcase -%}

@@ -1,0 +1,191 @@
+{%- if content_for_header contains 'Shopify.designMode' or page_title == 'Challenge' -%}
+  {%- assign is_design_mode = true -%}
+{%- endif -%}
+<!doctype html>
+<!--[if IE 9]> <html class="ie9 no-js supports-no-cookies" lang="{{ shop.locale }}"{% if settings.layout_enable_rtl %} dir="rtl"{% endif %}> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js supports-no-cookies" lang="{{ shop.locale }}"{% if settings.layout_enable_rtl %} dir="rtl"{% endif %}> <!--<![endif]-->
+{% capture document %}
+  
+<head>
+
+
+  
+<!-- to no index shopping insurnace pages! by S.B. -->
+  {% if product.url contains 'insurance' %}
+  	<meta name="robots" content="noindex" />
+  {% endif %}
+  
+  {% if current_page > 1 %}
+  
+  <meta name="robots" content="noindex">
+  {% endif %}
+  {% if current_tags %}
+    <meta name="robots" content="noindex">
+  {% endif %}
+  {% include 'head' %}
+  {%- if settings.app_language == 'weglot' -%}
+    {% capture weglot_includes %}
+      {% include 'weglot_hreftags' %}
+      {% include 'weglot_switcher' %}
+    {% endcapture %}
+  {%- endif -%}
+  {%- if weglot_includes contains "Liquid error" -%}
+    {%- assign weglot_includes = '' -%}
+  {%- endif -%}
+  {%- if is_design_mode -%}
+    {{ content_for_header }}
+    {{ weglot_includes }}
+  {%- else -%}
+    {% capture get_content_for_header %}
+      {{ content_for_header }}
+      {{ weglot_includes }}
+    {% endcapture %}
+  {%- endif -%}
+
+  {% render 'shogun-head' %}
+  
+  <!-- Hotjar Tracking Code for https://www.haircompounds.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1643073,hjsv:6};
+        a=o.getElementsByTagName('head')[0]; 
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+  
+  
+<link rel="preload" type="image/jpg" as="image" href="https://cdn.shopify.com/s/files/1/0570/2057/files/hair.progressive_1288e7a6-2ce2-4fdd-914a-0c9a571624c4_1760x.progressive.jpg" />
+<link rel="preload" type="image/jpg" as="image" href="https://cdn.shopify.com/s/files/1/0570/2057/files/hair.progressive_1288e7a6-2ce2-4fdd-914a-0c9a571624c4_1760x.progressive.jpg?v=1651217845" />
+<link rel="preload" type="image/jpg" as="image" href="https://cdn.shopify.com/s/files/1/0570/2057/files/progressive_762x.progressive.jpg" /> 
+<link rel="preload" type="image/jpg" as="image" href="https://cdn.shopify.com/s/files/1/0570/2057/files/progressive_762x.progressive.jpg?v=1651213015" />
+<link rel="preload" type="image/jpg" as="image" href="https://cdn.shopify.com/s/files/1/0570/2057/collections/ColorRing_640x.progressive.png.jpg?v=1598892265" />
+<link rel="preload" type="image/jpg" as="image" href="https://cdn.shopify.com/s/files/1/0570/2057/collections/ColorRing_360x.progressive.png.jpg?v=1598892265" />
+<link rel="preload" type="image/jpg" as="image" href="https://cdn.shopify.com/s/files/1/0570/2057/products/CopperLinks_320x.progressive.png.jpg?v=1605211013" />
+  
+<link rel="preload" type="font/woff" as="woff" href="https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrcVIT9d0c8.woff" crossorigin="anonymous" />
+  
+  
+<link rel="preconnect" as="script" href="https://connect.facebook.net/signals/config/1804658053197246?v=2.9.57&r=stable">
+<link rel="preconnect" as="script" href="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+<link rel="preconnect" as="script" href="https://script.hotjar.com/modules.baa1e9f436cbc137492e.js">
+<link rel="preconnect" as="script" href="https://files-shpf.mageworx.com/productfees/source.js?mw_productfees_t=1631736541&shop=hair-compounds-inc.myshopify.com">
+<link rel="preconnect" as="script" href="https://dev.visualwebsiteoptimizer.com/web/djIkdGU6Ny4wOmFzeW5jJWdxdWVyeQ==/tag-446ada51520465c641c2a23635f50489.js">
+<link rel="preconnect" as="script" href="https://cdn.shopify.com/s/files/1/0570/2057/t/19/assets/vendor.min.js?v=16512876448560050048">
+ 
+<link rel="preconnect" as="script" href="https://www.google-analytics.com/gtm/optimize.js?id=OPT-WMDJQQB">
+<link rel="preconnect" as="script" href="https://cdn.getshogun.com/5/619c0dba84e30d00fb38701f.js">
+<link rel="preconnect" as="script" href="https://cdn.getshogun.com/60930badcc645d00e233a849.js">
+  
+  
+  
+<link rel="preconnect" as="script" href="https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js">
+<link rel="preconnect" as="script" href="https://cdn.shopify.com/s/files/1/0570/2057/t/19/assets/section.carousel-reviews.min.js?v=6238829272891009929">
+<link rel="preconnect" as="script" href="https://cdn.shopify.com/s/files/1/0570/2057/t/19/assets/section.home-builder.min.js?v=8324564149193511662">
+<link rel="preconnect" as="script" href="https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js">  
+
+<link rel="preconnect" as="script" href="https://cdn.shopify.com/s/trekkie.storefront.c8c3bbe78ed07708fd467f41f1f47f0bb6fd219f.min.js">
+<link rel="preconnect" as="script" href="https://script.hotjar.com/modules.baa1e9f436cbc137492e.js">
+<link rel="preconnect" as="script" href="https://cdn.getshogun.com/60930badcc645d00e233a849.js"> 
+
+  
+  
+{% render 'product-datalayer.liquid' %}  
+
+
+  </head>
+
+<body{% render 'layout-get-body-attributes' %}>
+{%- if settings.layout_enable_preloader -%}
+  {% render 'layout-get-preloader' with is_fixed: true %}
+{%- endif -%}
+{%- if settings.product_enable_variants_section -%}
+  {% section 'product-variants' %}
+{%- endif -%}
+{% section 'header' %}
+
+  
+  
+  
+  <!-- Google Tag Manager (noscript)  
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5339BB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
+<!-- End Google Tag Manager (noscript) -->
+<main id="MainContent">
+  {{ content_for_layout }}
+</main>
+{% section 'footer' %}
+{% include 'popups' %}
+{% include 'footbar' %}
+{%- if settings.presentation_enable or template == 'product' and settings.product_info_page_show_usage_info_sidebar -%}
+  {% include 'fixed-sidebar' %}
+{%- endif -%}
+{% include 'templates' %}
+{% include 'layout-get-includes' %}
+{% render 'layout-get-version' %}
+{% endcapture %}
+{%- if is_design_mode -%}
+  {{ document }}
+{%- else -%}
+  {{ document | replace: '   ', ' ' | replace: '  ', ' ' }}
+{%- endif -%}
+{% capture get_content_for_header %}
+  {%- if settings.dev_enable_content_for_header -%}
+    {%- unless settings.javascript_loader_jquery_first -%}
+      {%- assign get_content_for_header = get_content_for_header | replace: "window.addEventListener('load', asyncLoad, false);", "window.addEventListener('theme.loaded.scripts.plugin_jquery', asyncLoad, false);" | replace: "window.attachEvent('onload', asyncLoad);", "window.attachEvent('theme.loaded.scripts.plugin_jquery', asyncLoad);" -%}
+    {%- endunless -%}
+    {{ get_content_for_header }}
+  {%- endif -%}
+  {{ weglot_includes }}
+{% endcapture %}
+{%- unless is_design_mode -%}
+  {{ get_content_for_header | replace: '   ', ' ' | replace: '  ', ' ' }}
+{%- endunless -%}
+<!-- START APPS -->
+{%- if settings.app_klarna_enable and template.name == 'product' -%}
+  <!-- start Klarna app -->
+  <script>window.KlarnaThemeGlobals={};{%case template.name%} {%when"product"%} window.KlarnaThemeGlobals.data_purchase_amount={{product.first_available_variant.price}};window.KlarnaThemeGlobals.productVariants={{product.variants|json}};window.KlarnaThemeGlobals.documentCopy=document.cloneNode(true);{%when"cart"%} window.KlarnaThemeGlobals.data_purchase_amount={{cart.total_price}};window.KlarnaThemeGlobals.documentCopy=document.cloneNode(true);{%endcase%}</script>
+  <script async src="https://na-library.klarnaservices.com/lib.js" data-client-id=""></script>
+  <script>
+    window.KlarnaOnsiteService = window.KlarnaOnsiteService || [];
+    window.KlarnaOnsiteService.push({ eventName: 'refresh-placements' });
+  </script>
+  
+  <!-- end Klarna app -->
+{%- endif -%}
+{%- if settings.app_growave_enable -%}
+  <!-- start Growave app -->
+  {% capture the_snippet_content %}{% render 'socialshopwave-helper' %}{% endcapture %}
+  {%- unless the_snippet_content contains 'Liquid error' -%}
+    {{ the_snippet_content }}
+  {%- endunless -%}
+  <script>
+    sswRun(function(){
+      var intervalId = setInterval(function(){
+        if(ssw('.ssw-stars.ssw-stars-large').length){
+          ssw('.ssw-stars.ssw-stars-large').on('click', function() {
+            ssw('.product-page__tabs .tabs__btn[data-tab="reviews"]').click();
+            ssw('html, body').animate({
+              scrollTop: ssw("#ssw-widget-recommends-html").offset().top - 200
+            }, 100);
+          });
+          clearInterval(intervalId);
+        }
+      },1000);
+    });
+  </script>
+  <!-- end Growave app -->
+{%- endif -%}
+<!-- END APPS -->
+  
+
+
+{% include 'mw_fees_objects' %}</body>
+</html>
+
+<style type="text/css">
+#my_centered_buttons { display: flex; justify-content: center; }
+</style>
+ 

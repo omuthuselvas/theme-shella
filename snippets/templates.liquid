@@ -1,0 +1,23 @@
+<template id="template-popup-search-ajax">
+    <div class="col-12 col-lg-2">
+        {% include 'product-search' with product: null %}
+    </div>
+</template>
+<template id="template-search-ajax">
+    <div class="col-12 mb-10">
+        {% include 'product-search-2' with product: null %}
+    </div>
+</template>
+<template id="template-cart-ajax">
+    <div>
+        {% include 'product-cart' with product: null %}
+    </div>
+</template>
+{%- assign namespaces = 'wishlist,compare' | split: ',' -%}
+{%- for namespace in namespaces -%}
+    <template id="template-{{ namespace }}-ajax">
+        <div>
+            {% include 'product-store-lists' %}
+        </div>
+    </template>
+{%- endfor -%}

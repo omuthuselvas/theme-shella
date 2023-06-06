@@ -1,0 +1,9 @@
+{% render 'shogun-products', content: product %}
+{{product.metafields.shogun.above}}
+{% include 'elspw_product' %}
+{% include 'breadcrumbs' %}
+{% section 'product' %}
+{%- if settings.product_info_page_show_related_products -%}
+    {% section 'carousel-related-products' %}
+{%- endif -%}
+{{product.metafields.shogun.below}}

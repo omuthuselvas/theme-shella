@@ -1,0 +1,14 @@
+<div class="rvideo" style="{% unless responsive_height != blank %}padding-top: 56.25%;{% endunless %}{% if min_height != blank %} min-height: {{ min_height }}px;{% endif %}">
+    {%- if responsive_height != blank -%}
+        {%- assign responsive_height_arr = responsive_height | split: ',' -%}
+        <div class="d-sm-none" style="padding-top: {{ responsive_height_arr[4] }};"></div>
+        <div class="d-none d-sm-block d-md-none" style="padding-top: {{ responsive_height_arr[3] }};"></div>
+        <div class="d-none d-md-block d-lg-none" style="padding-top: {{ responsive_height_arr[2] }};"></div>
+        <div class="d-none d-lg-block d-xl-none" style="padding-top: {{ responsive_height_arr[1] }};"></div>
+        <div class="d-none d-xl-block" style="padding-top: {{ responsive_height_arr[0] }};"></div>
+    {%- endif -%}
+    <video class="rvideo__video" preload="auto" muted playsinline{% if video_controls %} controls{% endif %}{% if video_autoplay %} autoplay loop{% endif %}{% if poster != blank %} poster="{{ poster | img_url: poster_size }}"{% endif %}>
+        <source src="{{ video }}" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
