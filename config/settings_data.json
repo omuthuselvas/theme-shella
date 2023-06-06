@@ -1,1 +1,3097 @@
-{"current":{"purchase_code":"acf9e35e-1063-477a-beb2-92febcd7bff4","presentation_enable":false,"logo_types":"image","logo_svg_file":"","logo_image":"shopify:\/\/shop_images\/web_logo_2.png","logo_width":70,"logo_mobile_svg_file":"svg-logo-mobile","logo_mobile_image":"shopify:\/\/shop_images\/HAIR__COMPOUND_LOGO_MH01_1000x1000_CROPED_DOWN.png","logo_mobile_width":152,"logo_sticky_svg_file":"svg-logo-sticky","logo_sticky_image":"shopify:\/\/shop_images\/HC_Logo_Small_Cropped_22ae09f4-034f-4fdc-b7de-57fe506b7c8f.jpg","logo_sticky_width":42,"logo_footer_svg_file":"","logo_footer_image":"","logo_footer_width":64,"logo_footer_mobile_svg_file":"","logo_footer_mobile_image":"","logo_footer_mobile_width":64,"favicon":"shopify:\/\/shop_images\/HC_Logo_Small_Cropped_22ae09f4-034f-4fdc-b7de-57fe506b7c8f.jpg","layout_container":"fullwidth","layout_show_breadcrumbs":true,"layout_pagination_type":"infinite_scroll","layout_enable_rtl":false,"layout_images_lazyload":true,"layout_settings_file":"home-18","layout_age_confirmation":false,"layout_age_confirmation_image":"","layout_age_confirmation_image_width":600,"layout_age_confirmation_checkbox":true,"color_skin":"home-18","color_theme_primary":"","color_theme_body":"","color_theme_popups_bg":"rgba(0,0,0,0)","color_theme_c":"rgba(0,0,0,0)","color_theme_paragraph_c":"","color_theme_head_c":"","color_theme_link_c":"","color_theme_link_act_c":"","color_theme":"","color_theme2":"","color_theme3":"","color_theme4":"","color_theme5":"","color_theme6":"","color_theme7":"","color_theme8":"","color_theme9":"","color_theme10":"","color_theme11":"","color_theme12":"","typography_skin":"default","font_base":"basic_commercial_n4","font_base_apply_to_all":true,"font_base_type":"none","font_size_body":13,"font_heading":"basic_commercial_n4","font_heading_type":"none","font_size_h1":44,"font_size_h2":32,"font_size_h3":24,"font_size_h4":18,"font_size_h5":15,"font_size_h6":13,"font_button":"basic_commercial_n4","font_size_button":13,"font_size_input":13,"font_menu":"basic_commercial_n4","font_size_menu":13,"font_size_menu_list":13,"font_size_menu_title":15,"font_size_menu_mobile":15,"font_load_alternative":false,"font_alternative":"basic_commercial_n4","font_alternative_type":"none","collection_show_sidebar":"desktop_and_mobile","collection_sidebar_position":"left","collection_enable_sticky":true,"collection_tag_filters_logic":"and","collection_only_available":false,"collection_enable_fullwidth_head_section":false,"collection_enable_product_carousel_section":true,"collection_builder_mode":"","product_format_pjpg":true,"product_show_review_loading":false,"product_cursor":"","product_show_custom_options":true,"product_enable_variants_section":true,"product_hide_options_without_availability_variants":false,"product_variant_auto_select":"enable","product_auto_selected_options":"","product_variant_change_on_hover":false,"product_options_listing_visibility":"all","product_options_type_circle_color":"","product_options_type_circle_image":"","product_options_type_square_color":"","product_options_type_square_image":"Material 2","product_options_type_select":"Select|Color|Text","product_options_type_large_text":"Size","product_collection_image_height_percent":128,"product_collection_image_size":"contain","product_collection_image_border_radius":0,"product_replace_images_hover":true,"product_collection_show_label_in_stock":false,"product_collection_show_label_pre_order":true,"product_collection_show_label_out_stock":true,"product_collection_show_label_sale":false,"product_collection_show_label_new":true,"product_collection_show_label_hot":true,"product_collection_centered_info":true,"product_collection_more_info_type":"hide","product_collection_show_title":true,"product_collection_show_price":true,"product_collection_show_button_quick_view":false,"product_collection_show_countdown":true,"product_collection_show_images_navigation":true,"product_collection_show_options":true,"product_collection_show_quantity":true,"product_collection_show_button_add_to_cart":true,"product_collection_show_button_add_to_wishlist":false,"product_collection_show_button_add_to_compare":false,"product_collection_show_reviews":false,"product_collection_hide_reviews_counter":true,"product_collection_hide_reviews_mobile_counter":true,"product_collection_hide_empty_reviews":true,"product_collection_show_sku":false,"product_collection_show_barcode":false,"product_collection_show_availability":true,"product_collection_show_type":true,"product_collection_show_vendor":false,"product_collection_show_description":true,"product_collection_list_show_quantity":true,"product_info_layout":"1","product_info_show_arrows":true,"product_info_show_btn_fullscreen":true,"product_info_show_btn_video":true,"product_info_video_autoplay":true,"product_info_enable_zoom":true,"product_info_gallery_height_percent":128,"product_info_show_label_in_stock":true,"product_info_show_label_pre_order":true,"product_info_show_label_out_stock":true,"product_info_show_label_sale":false,"product_info_show_label_new":false,"product_info_show_label_hot":false,"product_info_show_collections":false,"product_info_show_title":true,"product_info_description_place":"tabs","product_info_show_price":true,"product_info_show_sale_details":true,"product_info_show_taxes":false,"product_info_show_sku":false,"product_info_show_barcode":false,"product_info_show_availability":false,"product_info_show_type":false,"product_info_show_vendor":false,"product_info_show_reviews":false,"product_info_hide_reviews_counter":false,"product_info_hide_empty_reviews":true,"product_info_show_countdown":false,"product_info_show_options":true,"product_info_show_notes":true,"product_info_show_size_guide":false,"product_info_size_guide_page_content":"","product_info_show_delivery_return":false,"product_info_delivery_return_page_content":"return-policy","product_info_show_message":false,"product_info_show_quantity":true,"product_info_button_layout":"3","product_info_show_button_add_to_cart":true,"product_button_addtocart_size":"default","product_info_show_button_add_to_wishlist":false,"product_info_show_button_add_to_compare":false,"product_info_show_payments":true,"product_info_show_social_share_buttons":false,"product_info_social_share_buttons_type":"1","product_info_page_enable_sticky_gallery":true,"product_info_page_show_button_dynamic_checkout":false,"product_info_page_show_dynamic_checkout_confirmation":false,"product_info_page_styled_dynamic_checkout":false,"product_info_page_show_related_products":true,"product_info_page_show_usage_info_sidebar":true,"product_info_page_sidebar":"off","product_info_page_enable_sticky_sidebar":true,"product_footbar_enable":true,"product_footbar_show_title":true,"product_footbar_show_price":true,"product_footbar_show_reviews":true,"product_footbar_show_options":true,"product_footbar_show_quantity":true,"product_footbar_show_button_add_to_cart":true,"product_info_quick_show_full_details":true,"product_info_show_stock_countdown":true,"product_info_show_stock_countdown_range":false,"product_stock_countdown_min":10,"product_info_show_text_countdown":false,"product_text_countdown_reset_time":2,"product_text_countdown_delivery_time":3,"product_text_countdown_delivery_format":"Day DD\/MM\/YYYY","product_text_countdown_delivery_excludes":"Saturday, Sunday","product_info_show_visitors":false,"product_visitors_min":10,"product_visitors_max":25,"product_visitors_stroke":4,"product_visitors_interval_min":2,"product_visitors_interval_max":6,"search_show":true,"search_show_only_products":false,"search_ajax":true,"price_show_sale_separator":false,"show_multiple_currencies":false,"currency_format":"money_with_currency_format","supported_currencies":"USD EUR GBP","supported_currencies_short_names":"US($)|UE(€)|BP(£)","supported_currencies_full_names":"USD - US Dollar|EUR - Euro|GBP - British Pound","default_currency":"USD","cart_show_header_button":true,"cart_popup_enable":true,"cart_ajax":true,"cart_icon":"","cart_show_vendor":false,"cart_show_notes":true,"cart_show_free_shipping":false,"cart_free_shipping_value":"","shipping_calculator":"Disabled","shipping_calculator_default_country":"United States","wishlist_type":"disable","compare_type":"disable","compare_show_description":true,"compare_show_collection":true,"compare_show_availability":true,"compare_show_product_type":true,"compare_show_vendor":true,"compare_show_sku":true,"compare_show_barcode":true,"compare_show_options":true,"compare_description_max_size":100,"social_share_image":"shopify:\/\/shop_images\/Frame_7.1_2.png","social_facebook":"https:\/\/www.facebook.com\/haircompounds","social_twitter":"","social_instagram":"https:\/\/instagram.com\/haircompounds","social_pinterest":"https:\/\/www.pinterest.com\/HairCompounds","social_youtube":"https:\/\/www.youtube.com\/channel\/UCcdj-Xp-W5yMS7KZhXXx3ow?sub_confirmation=1","social_behance":"https:\/\/behance.net\/mpthemes01c0","social_skype":"https:\/\/dribbble.com\/mpithemes","social_share_enable_facebook":true,"social_share_enable_twitter":true,"social_share_enable_pinterest":true,"social_share_enable_linkedin":true,"social_share_enable_buffer":true,"social_share_enable_reddit":true,"subscription_method":"mailchimp","subscription_mailchimp_form_action":"https:\/\/haircompounds.us8.list-manage.com\/subscribe\/post?u=0dfee384974796751857215bd&amp;id=4db02877ef","subscription_popup_enable":false,"subscription_popup_layout":"4","subscription_popup_show_icon":true,"subscription_popup_text_line_01":"Heyyy there...  <br><b> Hair and Compounds is very happy to welcome back in person shopping!<\/b>","subscription_popup_text_line_02":"","subscription_popup_text_line_03":"All of our local state clients who would like to purchase in person may now schedule!","subscription_popup_text_line_04":"<iframe width=\"328\" height=\"270\" src=\"https:\/\/www.youtube.com\/embed\/NsuIAuNru88\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>","subscription_popup_show_form":false,"subscription_popup_text_input_placeholder":"Enter Please Your Email Address","subscription_popup_text_submit_button_text":"SUBSCRIBE!","subscription_popup_text_button":"Order NOW","subscription_popup_text_dont_show_again":"Don't show again","subscription_popup_text_close":"Close Window","subscription_popup_image_width":600,"subscription_popup_image_format_pjpg":false,"subscription_popup_insert_image_width":200,"subscription_popup_insert_image_format_pjpg":false,"subscription_popup_link":"shopify:\/\/collections","subscription_popup_show_once":"false","subscription_popup_delay":2,"subscription_popup_cookies_life":"7","subscription_confirmation_popup_enable":true,"subscription_confirmation_popup_success_message":"Thanks for subscribing!","subscription_confirmation_popup_success_button":"Continue shopping","blog_show_sidebar":"desktop_and_mobile","blog_sidebar_position":"right","blog_enable_sticky":true,"article_show_sidebar":"desktop_and_mobile","article_sidebar_position":"right","article_enable_sticky":true,"account_show_header_button":true,"account_popup_enable":true,"account_popup_sign_up_info_page_content":"","account_popup_show_subscription":false,"account_page_sing_up_page_content":"create-an-account","account_growave_social_login_enable":false,"services_show_header_button":false,"services_popup_enable":true,"services_popup_page_content":"shipping-returns","javascript_loader_jquery_first":false,"app_language":"links_list","app_language_link_list":"languages","button_border_radius":0,"input_border_radius":0,"promobox_image_border_radius":0,"promobox_format_pjpg":true,"notification_cookies_enable":false,"notification_cookies_button_information_link":"","notification_cookies_delay":0,"notification_cookies_show_once":false,"notification_cookies_cookies_life":"1","notification_products_enable":true,"notification_products_collection":"featured","notification_products_range_min":2,"notification_products_range_max":20,"notification_products_delay":8,"notification_products_interval_min":10,"notification_products_interval_max":18,"notification_products_time_life":14,"layout_enable_preloader":false,"layout_preloader_image":"","layout_preloader_image_size":100,"layout_preloader_opacity":0.8,"promobox_animation_duration":0.5,"tooltips_enable":true,"tooltips_animation_type":"scale","header_animation_sticky_opacity":0.9,"header_tape_animation_duration":0,"product_hover_animation_type":"fade","buttons_animation_icon_enable":true,"dev_enable_custom_css":true,"dev_enable_custom_js":true,"dev_enable_content_for_header":true,"checkout_logo_image":"","checkout_logo_position":"left","checkout_logo_size":"medium","checkout_body_background_image":"","checkout_body_background_color":"#fff","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":"","checkout_sidebar_background_color":"#fafafa","checkout_heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_body_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_accent_color":"#197bbd","checkout_button_color":"#197bbd","checkout_error_color":"#e32c2b","product_info_payments_type":"dark","wishlist_enable":true,"compare_enable":true,"payment_footer_sequence":"1,2,3,4,5,6,7,8,9","payment_product_sequence":"10,11,12,1,2,3,4,5,6,7,8,9","payment_icon_1_show":true,"payment_icon_1_code":"","payment_icon_1_image":"","payment_icon_1_url":"","payment_icon_1_tooltip":"","payment_icon_2_show":true,"payment_icon_2_code":"","payment_icon_2_image":"","payment_icon_2_url":"","payment_icon_2_tooltip":"","payment_icon_3_show":true,"payment_icon_3_code":"","payment_icon_3_image":"","payment_icon_3_url":"","payment_icon_3_tooltip":"","payment_icon_4_show":true,"payment_icon_4_code":"","payment_icon_4_image":"","payment_icon_4_url":"","payment_icon_4_tooltip":"","payment_icon_5_show":true,"payment_icon_5_code":"","payment_icon_5_image":"","payment_icon_5_url":"","payment_icon_5_tooltip":"","payment_icon_6_show":true,"payment_icon_6_code":"","payment_icon_6_image":"","payment_icon_6_url":"","payment_icon_6_tooltip":"","payment_icon_7_show":true,"payment_icon_7_code":"","payment_icon_7_image":"","payment_icon_7_url":"","payment_icon_7_tooltip":"","payment_icon_8_show":true,"payment_icon_8_code":"","payment_icon_8_image":"","payment_icon_8_url":"","payment_icon_8_tooltip":"","payment_icon_9_show":true,"payment_icon_9_code":"","payment_icon_9_image":"","payment_icon_9_url":"","payment_icon_9_tooltip":"","payment_icon_10_show":true,"payment_icon_10_code":"","payment_icon_10_image":"","payment_icon_10_url":"","payment_icon_10_tooltip":"","payment_icon_11_show":true,"payment_icon_11_code":"","payment_icon_11_image":"","payment_icon_11_url":"","payment_icon_11_tooltip":"","payment_icon_12_show":true,"payment_icon_12_code":"","payment_icon_12_image":"","payment_icon_12_url":"","payment_icon_12_tooltip":"","social_share_facebook":"#","social_share_twitter":"#","social_share_pinterest":"#","social_share_linkedin":"#","social_share_buffer":"#","social_share_reddit":"#","subscription_confirmation_popup_button_type":"1","product_info_show_free_shipping":true,"show_free_shipping":true,"social_google":"","sections":{"product-variants":{"type":"product-variants","settings":{}},"header":{"type":"header","blocks":{"854a06f2-d3b3-430f-9c26-8675e6aae1ba":{"type":"tape","settings":{"style":"1","content":"<small><b>SAME DAY SHIPPING CUT OFF TIME: 1PM PST ( 2PM MST, 3PM CST, 4PM EST )   ~BUSINESS HOURS: MON - FRI 8AM - 5PM PST~<\/b><\/small>"}},"4223dea4-7aae-4dc3-95c3-70d0131693bf":{"type":"info_line","settings":{"style":"1","page_content":"","show_social_media":true,"show_facebook":true,"show_twitter":false,"show_instagram":true,"show_pinterest":true,"show_youtube":true,"show_behance":false,"show_skype":false}}},"block_order":["854a06f2-d3b3-430f-9c26-8675e6aae1ba","4223dea4-7aae-4dc3-95c3-70d0131693bf"],"settings":{"type":"3","style":"3","menu":"main-menu-2023","show_menu_arrows":true,"show_menu_hover_underline":true,"vertical_menu":"","fixed_vertical_menu":false,"additional_line_info_page_content":"","sticky":"desktop_and_mobile","desktop_sticky_type":"slim"}},"footer":{"type":"footer","blocks":{"17593b72-0c0f-435d-8714-710389a4286c":{"type":"social_media","settings":{"title":"Follow us","show_facebook":true,"show_twitter":true,"show_instagram":true,"show_pinterest":true,"show_youtube":true,"show_behance":false,"show_skype":false}},"5fb4d16d-dded-4306-a551-b2ad186062a2":{"type":"menu","settings":{"title":"","show_title_on_desktop":true,"menu":"blogs","size":5,"rows_limit":0}},"7ada4a8f-6fdf-4444-9f70-d64895f595ec":{"type":"menu","settings":{"title":"More","show_title_on_desktop":true,"menu":"shella-footer-2","size":5,"rows_limit":0}}},"block_order":["17593b72-0c0f-435d-8714-710389a4286c","5fb4d16d-dded-4306-a551-b2ad186062a2","7ada4a8f-6fdf-4444-9f70-d64895f595ec"],"settings":{"type":"1","style":"1","show_logo":true,"show_button_back_to_top":true,"enable_fixed":true}},"1586279708879":{"type":"home-builder","blocks":{"66f81e9e-7f62-430f-adf9-3cda613df81a":{"type":"slick_slider","settings":{"height":"preset_1","min_height":0,"size_of_column":"auto","arrows":false,"bullets":true,"speed":7}},"d8ffe1eb-85c8-41ff-81ce-5f664b25ed3e":{"type":"slick_slide","disabled":true,"settings":{"url":"","image":"shopify:\/\/shop_images\/hair2646_copy_1760x_16b3fdcf-0203-4a45-b191-9a90b6e769e1.jpg","image_size":700,"image_mobile":"shopify:\/\/shop_images\/progressive.jpg","image_mobile_size":200,"image_position_x":50,"color_image_mask":"","image_mask_opacity":0.5,"text_line_1":"For Over 25 Years","text_line_2":"Stylist-Driven Innovators","text_line_3":"","style":"2","button_1":"Apply for Pro-Access","button_1_url":"https:\/\/www.haircompounds.com\/pages\/create-an-account?promo_name=banner_1&promo_id=1&promo_position=Top_banner","color_button_type_1":"secondary","button_2":"Button #2 text Shop Now","button_2_url":"","color_button_type_2":"default","custom_html":"","video_external_url":"","video_mp4_url":"","video_autoplay":false,"video_controls":false,"type":"type-1","content_position":"bottom_left","content_align":"center","add_container":false,"content_width":100,"text_width":0,"animation_text":"none","customization_class":""}},"ad2b9799-914f-4106-a7a8-565b04542a5c":{"type":"slick_slide","disabled":true,"settings":{"url":"","image_size":700,"image_mobile":"shopify:\/\/shop_images\/mobile-banner2.png","image_mobile_size":200,"image_position_x":50,"color_image_mask":"rgba(0,0,0,0)","image_mask_opacity":0.1,"text_line_1":"<b>For Your Clients Imagination<\/b>","text_line_2":"Create Stunning Customized Looks","text_line_3":"Straight From Our Production House","style":"4","button_1":"Get Inspiration","button_1_url":"https:\/\/www.haircompounds.com\/pages\/how-to-custom-order-hair-extensions?promo_name=banner_2&promo_id=2&promo_position=Top_banner","color_button_type_1":"default","button_2":"Button #2 text","button_2_url":"","color_button_type_2":"default","custom_html":"","video_external_url":"","video_mp4_url":"","video_autoplay":false,"video_controls":false,"type":"type-1","content_position":"bottom_left","content_align":"center","add_container":false,"content_width":100,"text_width":0,"animation_text":"scale-out","customization_class":""}},"1f24f8b9-f05b-45a9-932f-d18e4b81d886":{"type":"slick_slide","settings":{"url":"","image":"shopify:\/\/shop_images\/frontA.jpg","image_size":700,"image_mobile_size":200,"image_position_x":50,"color_image_mask":"","image_mask_opacity":0.5,"text_line_1":"","text_line_2":"Real Hair, Real Textures","text_line_3":"","style":"5","button_1":"ALL INFORMATION BEGINS HERE","button_1_url":"shopify:\/\/pages\/explore","color_button_type_1":"clean","button_2":"Button #2 text","button_2_url":"","color_button_type_2":"default","custom_html":"","video_external_url":"","video_mp4_url":"","video_autoplay":true,"video_controls":false,"type":"type-1","content_position":"center","content_align":"center","add_container":false,"content_width":100,"text_width":0,"animation_text":"none","customization_class":""}}},"block_order":["66f81e9e-7f62-430f-adf9-3cda613df81a","d8ffe1eb-85c8-41ff-81ce-5f664b25ed3e","ad2b9799-914f-4106-a7a8-565b04542a5c","1f24f8b9-f05b-45a9-932f-d18e4b81d886"],"settings":{"title":"","container":"fullwidth","size_of_columns":"1","margins_for_columns":"none","align_of_columns":"center","disable_column_paddings":false,"precedence":"","customization_class":""}},"1586280453180":{"type":"home-builder","blocks":{"1586280489479":{"type":"promobox","settings":{"url":"shopify:\/\/collections\/curly-hair","image":"shopify:\/\/shop_images\/Curly_1.jpg","image_size":400,"image_mobile_size":200,"image_position_x":50,"color_image_mask":"","image_mask_opacity":0.3,"text_line_1":"NATURALLY CURLY","text_line_2":"","text_line_3":"Text line #3","style":"5","button_1":"","button_1_url":"","color_button_type_1":"clean","button_2":"Button #2 text","button_2_url":"","color_button_type_2":"default","list_1":"list-for-promobox","custom_html":"","video_external_url":"","video_mp4_url":"","video_autoplay":true,"video_controls":false,"type":"type-1-curtain-2","content_position":"center","content_align":"center","add_container":false,"content_width":100,"text_width":0,"height":"auto","min_height":0,"size_of_column":"auto","visible":"desktop_mobile","parallax":"disable","animation_to":"center","animation_from":"none","animation_opacity":"none","animation_text":"none","customization_class":""}},"1586280492143":{"type":"promobox","settings":{"url":"shopify:\/\/collections\/extra-body-wave","image":"shopify:\/\/shop_images\/EBW_8db56803-3eab-46d5-9ca9-3f1f7d402abc.jpg","image_size":650,"image_mobile_size":200,"image_position_x":50,"color_image_mask":"","image_mask_opacity":0.5,"text_line_1":"EXTRA BODY WAVE","text_line_2":"","text_line_3":"Text line #3","style":"5","button_1":"","button_1_url":"","color_button_type_1":"clean","button_2":"Button #2 text","button_2_url":"","color_button_type_2":"default-transparent","list_1":"include-promo-box-list-mens","custom_html":"","video_external_url":"","video_mp4_url":"","video_autoplay":true,"video_controls":false,"type":"type-1-curtain-2","content_position":"center","content_align":"center","add_container":false,"content_width":100,"text_width":0,"height":"auto","min_height":0,"size_of_column":"auto","visible":"desktop_mobile","parallax":"disable","animation_to":"center","animation_from":"none","animation_opacity":"none","animation_text":"none","customization_class":""}},"1586280494368":{"type":"promobox","settings":{"url":"shopify:\/\/collections\/finish-layered","image":"shopify:\/\/shop_images\/Layered.jpg","image_size":400,"image_mobile_size":200,"image_position_x":50,"color_image_mask":"","image_mask_opacity":0.5,"text_line_1":"LAYERED NATURAL WAVE","text_line_2":"","text_line_3":"Text line #3","style":"5","button_1":"","button_1_url":"","color_button_type_1":"clean","button_2":"Button #2 text","button_2_url":"","color_button_type_2":"default-transparent","list_1":"include-promo-box-list-accessories","custom_html":"","video_external_url":"","video_mp4_url":"","video_autoplay":true,"video_controls":false,"type":"type-1-curtain-2","content_position":"center","content_align":"center","add_container":false,"content_width":100,"text_width":0,"height":"auto","min_height":0,"size_of_column":"auto","visible":"desktop_mobile","parallax":"disable","animation_to":"center","animation_from":"none","animation_opacity":"none","animation_text":"none","customization_class":""}},"6eaea413-3ab7-465b-8660-a417e03ebf6f":{"type":"promobox","settings":{"url":"shopify:\/\/collections\/finish-premium","image":"shopify:\/\/shop_images\/Premium.jpg","image_size":1450,"image_mobile_size":550,"image_position_x":50,"color_image_mask":"","image_mask_opacity":0.5,"text_line_1":"PREMIUM NATURAL WAVE","text_line_2":"","text_line_3":"Text line #3","style":"5","button_1":"","button_1_url":"","color_button_type_1":"clean","button_2":"Button #2 text","button_2_url":"","color_button_type_2":"default-transparent","list_1":"","custom_html":"","video_external_url":"","video_mp4_url":"","video_autoplay":false,"video_controls":false,"type":"type-1-curtain-2","content_position":"center","content_align":"center","add_container":false,"content_width":100,"text_width":0,"height":"auto","min_height":0,"size_of_column":"auto","visible":"desktop_mobile","parallax":"disable","animation_to":"center","animation_from":"none","animation_opacity":"none","animation_text":"none","customization_class":""}}},"block_order":["1586280489479","1586280492143","1586280494368","6eaea413-3ab7-465b-8660-a417e03ebf6f"],"settings":{"title":"<p><strong>SELECT AND DESIGN BY TEXTURE AND FINISH<\/strong><\/p>","container":"fullwidth","size_of_columns":"4","margins_for_columns":"preset_1","align_of_columns":"top_center","disable_column_paddings":false,"precedence":"","customization_class":""}},"1586282852274":{"type":"spacer","settings":{"margin_top":20,"margin_bottom":0,"margin_top_mobile":10,"margin_bottom_mobile":0,"container":"boxed","show_separator":false,"title":""}},"1586283433745":{"type":"carousel-brands","disabled":true,"blocks":{"1586283438841":{"type":"brand","settings":{"link":"\/collections\/all?q=vd_:calvin-klein"}},"1586283440593":{"type":"brand","settings":{"link":"\/collections\/all?q=vd_:chanel"}}},"block_order":["1586283438841","1586283440593"],"settings":{"title":"","layout":"slider","size_of_columns":"6","image_max_width":0,"bordered_links":true,"border_radius":"","autoplay":true,"speed":5,"infinite":true,"arrows":true,"bullets":false}},"1586284059940":{"type":"home-builder","blocks":{"1586284065628":{"type":"instagram","settings":{"user_name":"haircompounds","tag":"@haircompounds","show_post_details":true,"limit":12,"size_of_images":"6","inner_disable_paddings":true,"fixed_height":100,"disable_lazyload":false,"size_of_column":"auto"}},"1586284075152":{"type":"instagram_block","settings":{"image":"shopify:\/\/shop_images\/beautiful-golden-red-hair-extensions-before-and-after.jpg","image_size":195,"format_pjpg":true,"disable_lazyload":false,"url":"https:\/\/www.instagram.com\/p\/CGYpJ0SnBLv\/?utm_source=ig_web_copy_link","likes":"2708","comments":"26"}},"1586284077419":{"type":"instagram_block","settings":{"image":"shopify:\/\/shop_images\/Beautiful-silver-hand-tied-hair-extensions.jpg","image_size":195,"format_pjpg":true,"disable_lazyload":false,"url":"https:\/\/www.instagram.com\/p\/CCZvEGAnHd2\/?utm_source=ig_web_copy_link","likes":"90","comments":"21"}},"1586284080852":{"type":"instagram_block","settings":{"image":"shopify:\/\/shop_images\/natural-beaded-row-brown-hand-tied-weft-hair-extensions_233e35fd-6358-40a0-9c1e-3b5ffecd671b.jpg","image_size":195,"format_pjpg":true,"disable_lazyload":false,"url":"https:\/\/www.instagram.com\/p\/CIW07I4L6zj\/?utm_source=ig_web_copy_link","likes":"178","comments":"4"}},"1586284083626":{"type":"instagram_block","settings":{"image":"shopify:\/\/shop_images\/naturally-wavy-brown-hair-extensions.jpg","image_size":195,"format_pjpg":true,"disable_lazyload":false,"url":"https:\/\/www.instagram.com\/p\/CI4T7kcnPMm\/?utm_source=ig_web_copy_link","likes":"55","comments":"10"}},"1586284086290":{"type":"instagram_block","settings":{"image":"shopify:\/\/shop_images\/naturally-curly-black-hair-extensions.jpg","image_size":195,"format_pjpg":true,"disable_lazyload":false,"url":"https:\/\/www.instagram.com\/p\/CHrD9mArDz9\/?utm_source=ig_web_copy_link","likes":"200","comments":"14"}},"1586284088787":{"type":"instagram_block","settings":{"image":"shopify:\/\/shop_images\/Natural-wavy-blend-of-black-brown-hair-extensions.jpg","image_size":195,"format_pjpg":true,"disable_lazyload":false,"url":"https:\/\/www.instagram.com\/p\/CD5M3oljiqs\/?utm_source=ig_web_copy_link","likes":"109","comments":"16"}},"1586366161062":{"type":"instagram_block","settings":{"image":"shopify:\/\/shop_images\/natural-curly-hair-extensions-before-and-after.jpg","image_size":195,"format_pjpg":true,"disable_lazyload":false,"url":"https:\/\/www.instagram.com\/p\/CCUlgP0Ib2X\/?utm_source=ig_web_copy_link","likes":"164","comments":"10"}},"1586366165951":{"type":"instagram_block","settings":{"image":"shopify:\/\/shop_images\/natural-blonde-balayage-hair-extensions.jpg","image_size":195,"format_pjpg":true,"disable_lazyload":false,"url":"https:\/\/www.instagram.com\/p\/CDuwr5ylsF0\/?utm_source=ig_web_copy_link","likes":"86","comments":"6"}},"1586366171436":{"type":"instagram_block","settings":{"image":"shopify:\/\/shop_images\/beautiful-invisible-bead-extensions.jpg","image_size":195,"format_pjpg":true,"disable_lazyload":false,"url":"https:\/\/www.instagram.com\/p\/CDz7_N_IqLB\/?utm_source=ig_web_copy_link","likes":"124","comments":"5"}},"1586366174420":{"type":"instagram_block","settings":{"image":"shopify:\/\/shop_images\/invisible-bead-extensions-ash-hand-tied-weft-hair-extensions.jpg","image_size":195,"format_pjpg":true,"disable_lazyload":false,"url":"https:\/\/www.instagram.com\/p\/CEncH97Dm2-\/?utm_source=ig_web_copy_link","likes":"102","comments":"6"}},"1586366163574":{"type":"instagram_block","settings":{"image":"shopify:\/\/shop_images\/light-brunette-blonde-tones-hair_extensions.jpg","image_size":195,"format_pjpg":true,"disable_lazyload":false,"url":"https:\/\/www.instagram.com\/p\/CFI5iN6p8c3\/?utm_source=ig_web_copy_link","likes":"123","comments":"5"}},"1586366177575":{"type":"instagram_block","settings":{"image":"shopify:\/\/shop_images\/beautiful-blonde-hand-tied-weft-hair-extensions.jpg","image_size":195,"format_pjpg":true,"disable_lazyload":false,"url":"https:\/\/www.instagram.com\/p\/CEDZIA5jKsG\/?utm_source=ig_web_copy_link","likes":"243","comments":"13"}}},"block_order":["1586284065628","1586284075152","1586284077419","1586284080852","1586284083626","1586284086290","1586284088787","1586366161062","1586366165951","1586366171436","1586366174420","1586366163574","1586366177575"],"settings":{"title":"<p>Follow us on IG <a href=\"https:\/\/www.instagram.com\/haircompounds\/\" title=\"@haircompounds\" target=\"_blank\">@haircompounds<\/a> <\/p>","container":"boxed","size_of_columns":"1","margins_for_columns":"none","align_of_columns":"top_center","disable_column_paddings":false,"precedence":"","customization_class":""}},"collection-sidebar":{"type":"collection-sidebar","blocks":{"1530696013571":{"type":"current_filters","settings":{"title":"CURRENT FILTERS","default_state":"open","show_border":true}},"1530696164711":{"type":"collections","settings":{"title":"APPLICATION","default_state":"open","show_border":true,"menu":"application-type","collection_tags_select":"checkbox"}},"1530696190431":{"type":"filters","settings":{"title":"TIP SIZE","default_state":"close","show_border":true,"type":"tags","items":"Large|Small","show_all_from_collection":false,"direction":"rows","max_column_size":0,"columns":"2","for_collections":""}},"1530696245149":{"type":"filters","settings":{"title":"LENGTH","default_state":"close","show_border":true,"type":"tags","items":"14\"|16\"|18\"|20\"|22\"|","show_all_from_collection":false,"direction":"rows","max_column_size":8,"columns":"3","for_collections":""}},"1573803477486":{"type":"filters","settings":{"title":"FINISH","default_state":"close","show_border":true,"type":"tags","items":"Layered|Premium|Curly|EBW","show_all_from_collection":false,"direction":"rows","max_column_size":0,"columns":"2","for_collections":""}},"53a72eb1-0a21-4dca-896e-c55a57484fc7":{"type":"filters","disabled":true,"settings":{"title":"TEXTURE","default_state":"close","show_border":true,"type":"tags","items":"Texture: Curly Hair|Texture: Extra Body Wave","show_all_from_collection":false,"direction":"rows","max_column_size":0,"columns":"2","for_collections":""}},"3fb7f323-f1c3-4491-9ce7-88e3b9a790fc":{"type":"custom_html","disabled":true,"settings":{"title":"COLOR CHART","default_state":"fixed","show_border":false,"page_content":"our-hair-colors-2"}}},"block_order":["1530696013571","1530696164711","1530696190431","1530696245149","1573803477486","53a72eb1-0a21-4dca-896e-c55a57484fc7","3fb7f323-f1c3-4491-9ce7-88e3b9a790fc"],"settings":{"hide_blocks_without_filters":false}},"collection-head":{"type":"collection-head","blocks":{"1586289313748":{"type":"promobox","settings":{"for_collection":"womens","url":"\/collections\/womens","image_size":900,"image_mobile_size":900,"image_position_x":50,"color_image_mask":"","image_mask_opacity":0.5,"text_line_1":"","text_line_2":"FINAL CLEARANCE","text_line_3":"Take 20% off ‘Sale Must-Haves'","style":"2","button_1":"","button_1_url":"","color_button_type_1":"default-transparent","button_2":"","button_2_url":"","color_button_type_2":"default-transparent","list_1":"","custom_html":"","video_external_url":"","video_mp4_url":"","video_autoplay":true,"video_controls":false,"type":"type-1-3","content_position":"center","content_align":"center","add_container":false,"content_width":100,"text_width":0,"height":"auto","min_height":0,"size_of_column":"12","visible":"desktop_mobile","parallax":"disable","animation_to":"none","animation_from":"none","animation_opacity":"none","animation_text":"none","customization_class":""}},"1586289329527":{"type":"promobox","settings":{"for_collection":"mens","url":"\/collections\/mens","image_size":900,"image_mobile_size":900,"image_position_x":50,"color_image_mask":"","image_mask_opacity":0.5,"text_line_1":"NEW-SEASON ACCESSORIES","text_line_2":"Spring\/Summer 2019 Collection","text_line_3":"Text line #3","style":"3","button_1":"Button #1 text","button_1_url":"","color_button_type_1":"default-transparent","button_2":"Button #2 text","button_2_url":"","color_button_type_2":"default-transparent","list_1":"","custom_html":"","video_external_url":"","video_mp4_url":"","video_autoplay":true,"video_controls":false,"type":"type-3","content_position":"center","content_align":"center","add_container":false,"content_width":100,"text_width":0,"height":"auto","min_height":0,"size_of_column":"8","visible":"desktop","parallax":"disable","animation_to":"none","animation_from":"none","animation_opacity":"none","animation_text":"none","customization_class":""}},"1586289339594":{"type":"promobox","settings":{"for_collection":"mens","url":"\/collections\/mens","image_size":900,"image_mobile_size":900,"image_position_x":50,"color_image_mask":"","image_mask_opacity":0.5,"text_line_1":"SPECIAL OFFERS","text_line_2":"Get up to 20% off","text_line_3":"Text line #3","style":"3","button_1":"Button #1 text","button_1_url":"","color_button_type_1":"default-transparent","button_2":"Button #2 text","button_2_url":"","color_button_type_2":"default-transparent","list_1":"","custom_html":"","video_external_url":"","video_mp4_url":"","video_autoplay":true,"video_controls":false,"type":"type-3","content_position":"center","content_align":"center","add_container":false,"content_width":100,"text_width":0,"height":"auto","min_height":0,"size_of_column":"4","visible":"desktop","parallax":"disable","animation_to":"none","animation_from":"none","animation_opacity":"none","animation_text":"none","customization_class":""}}},"block_order":["1586289313748","1586289329527","1586289339594"],"settings":{"default_desktop_title":"title","default_mobile_title":"title","margins_for_columns":"none"}},"collection-body":{"type":"collection-body","settings":{"sort_by_visibility":"desktop","info_visibility":"desktop","view_length_visibility":"desktop","enable_view_length_6":true,"enable_view_length_12":true,"enable_view_length_18":true,"enable_view_length_24":true,"enable_view_length_48":false,"default_view_length":"12","view_grid_visibility":"desktop_n_mobile","show_view_grid_1":true,"show_view_grid_2":true,"show_view_grid_3":true,"show_view_grid_4":true,"show_view_grid_list":true,"view_grid_list_design":"1","enable_grid_tooltip":true,"default_view_grid_xl":"3","default_view_grid_lg":"3","default_view_grid_md":"3","default_view_grid_sm":"2","default_view_grid_xs":"2"}},"carousel-products":{"type":"carousel-products","blocks":{"fe7fe5d9-90a8-4df5-b9ca-660f42bfd97c":{"type":"collection","settings":{"title":"","collection":""}}},"block_order":["fe7fe5d9-90a8-4df5-b9ca-660f42bfd97c"],"settings":{"show_title":false,"container":"boxed","size_of_columns":"4","max_count":6,"autoplay":true,"speed":5,"infinite":true,"arrows":true,"bullets":true}},"product":{"type":"product","settings":{"show_tabs":true,"tabs_type":"tabs","show_tab_description":true,"show_tab_reviews":false}},"carousel-related-products":{"type":"carousel-related-products","settings":{"type":"related","title":"Related Products","size_of_columns":"4","max_count":6,"autoplay":true,"speed":5,"infinite":true,"arrows":true,"bullets":true}},"product-fixed-sizebar":{"type":"product-fixed-sizebar","blocks":{"1586291806417":{"type":"text_line","settings":{"icon":"","text":"","min_value":"200","max_value":"500"}},"1586291808135":{"type":"text_line","settings":{"icon":"","text":"","min_value":"30","max_value":"100"}},"1586291810188":{"type":"text_line","settings":{"icon":"","text":"","min_value":"100","max_value":"200"}}},"block_order":["1586291806417","1586291808135","1586291810188"],"settings":{}},"list-collections":{"type":"list-collections","blocks":{"6e95b7b0-ff85-4a27-8c80-59deb2b039f3":{"type":"collection","settings":{"for_collection":"","text_line_1":"","text_line_2":"","button_1":""}},"b6c423f8-9adc-4852-950e-4a84ebba9dac":{"type":"collection","settings":{"for_collection":"all-cylinder-hair-extensions","text_line_1":"","text_line_2":"","button_1":""}},"4bdf7d49-2c53-4c6d-be29-bc713686fe9f":{"type":"collection","settings":{"for_collection":"poly-hair-extensions","text_line_1":"","text_line_2":"","button_1":""}},"ee65b699-d00d-4e86-9573-c15fe1f4491f":{"type":"collection","disabled":true,"settings":{"for_collection":"curly-hair","text_line_1":"","text_line_2":"","button_1":""}},"87341da4-ecab-4b47-8953-9bc423353939":{"type":"collection","disabled":true,"settings":{"for_collection":"extra-body-wave","text_line_1":"","text_line_2":"","button_1":""}},"3ffcf9f3-a15e-4855-81eb-41cef226af38":{"type":"collection","settings":{"for_collection":"special-hair-extensions","image":"shopify:\/\/shop_images\/Untitled_design_41.png","text_line_1":"","text_line_2":"","button_1":""}},"14c26b8d-69b5-4c47-9a00-fb412d2aa165":{"type":"collection","settings":{"for_collection":"hand-tied-weft-extensions","text_line_1":"","text_line_2":"","button_1":""}},"d0aafdae-378e-449f-b8df-1ef7c37a0d95":{"type":"collection","settings":{"for_collection":"other-products","image":"shopify:\/\/shop_images\/swatchset.jpg","text_line_1":"","text_line_2":"","button_1":""}},"350dc0be-9e58-4d8f-b842-6a09372a0b8e":{"type":"collection","settings":{"for_collection":"all","text_line_1":"ALL Products","text_line_2":"","button_1":""}},"902affc8-904d-430c-b2db-6a9a728c5481":{"type":"collection","settings":{"for_collection":"","text_line_1":"","text_line_2":"","button_1":""}}},"block_order":["6e95b7b0-ff85-4a27-8c80-59deb2b039f3","b6c423f8-9adc-4852-950e-4a84ebba9dac","4bdf7d49-2c53-4c6d-be29-bc713686fe9f","ee65b699-d00d-4e86-9573-c15fe1f4491f","87341da4-ecab-4b47-8953-9bc423353939","3ffcf9f3-a15e-4855-81eb-41cef226af38","14c26b8d-69b5-4c47-9a00-fb412d2aa165","d0aafdae-378e-449f-b8df-1ef7c37a0d95","350dc0be-9e58-4d8f-b842-6a09372a0b8e","902affc8-904d-430c-b2db-6a9a728c5481"],"settings":{"display_type":"selected","show_products_count":false,"size_of_columns":"3","type":"list-collections-2","style":"0","masonry_enable":false,"height":"auto","image_size":400,"format_pjpg":true,"animation_to":"none","animation_from":"none","animation_opacity":"none"}},"blog-sidebar":{"type":"blog-sidebar","blocks":{"a1a06c83-64e6-4dac-afaa-8fcfc87b8cfa":{"type":"categories","settings":{"title":"CATEGORIES","menu":"blogs","show_border":true}},"750a9496-0cf5-47eb-ab91-b1427935761b":{"type":"tags","disabled":true,"settings":{"title":"TAGS","show_border":true}},"6f2f8a45-ad2d-4e48-85c6-64e8879988a3":{"type":"recents","settings":{"title":"RELATED POSTS","menu":"blogs","show_border":true}}},"block_order":["a1a06c83-64e6-4dac-afaa-8fcfc87b8cfa","750a9496-0cf5-47eb-ab91-b1427935761b","6f2f8a45-ad2d-4e48-85c6-64e8879988a3"],"settings":{}},"blog-body":{"type":"blog-body","settings":{"show_title":true,"type":"6","masonry_enable":true,"max_posts":24,"show_image":true,"show_information":false,"show_tags":false,"show_content":true,"show_button":true,"show_comments":false,"show_empty_comments":false,"max_post_content_length":30}},"article-body":{"type":"article-body","blocks":{"1541433718854":{"type":"slide","settings":{"for_article":"news\/how-to-layer-sweaters-for-extra-warmth-style","title":"Collection 2019"}},"1541433806550":{"type":"slide","settings":{"for_article":"news\/how-to-layer-sweaters-for-extra-warmth-style","title":"Sale 70% Off"}},"1541434047934":{"type":"slide","settings":{"for_article":"news\/how-to-layer-sweaters-for-extra-warmth-style","title":"Title for image"}}},"block_order":["1541433718854","1541433806550","1541434047934"],"settings":{"show_information":true,"show_image":true,"show_content":true,"show_tags":true,"show_social_share_buttons":false,"social_share_buttons_type":"1","show_navigation":true,"show_comments":true,"autoplay":true,"speed":5,"infinite":true}},"faqs":{"type":"faqs","blocks":{"1586292266168":{"type":"section","settings":{"question":"WHAT ARE SHIPPING TIMES AND COSTS?","page_content":"","answer":"","is_open":true}},"1586292269155":{"type":"section","settings":{"question":"WHAT PAYMENT METHODS CAN I USE?","page_content":"","answer":"","is_open":true}},"1586292270787":{"type":"section","settings":{"question":"WHAT IS YOUR EXCHANGES, RETURNS AND REFUNDS POLICY?","page_content":"","answer":"","is_open":true}}},"block_order":["1586292266168","1586292269155","1586292270787"],"settings":{}},"contact-map":{"type":"contact-map","settings":{"code":"<iframe width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" src=\"https:\/\/www.google.com\/maps\/embed\/v1\/place?key=AIzaSyBwY_0PWuwH_A5y4iwNAqpaUbUjRPySkFc%0A%20%20%20%20&q=7563%20St.%20Vicent%20Place,%20Glasgow\" allowfullscreen=\"\"><\/iframe>"}},"gallery":{"type":"gallery","blocks":{"1538751452219":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_40f41c4c-8f4e-4ffb-8d8d-08c9c17f44a5.jpg","image_size":1000,"text_line_01":"11A\/12B Blend","text_line_02":"50% 11 Ash, 50% 12 Bleach side by side"}},"1538751410356":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_8abc56da-8bef-4089-adbd-a49805ce8334.jpg","image_size":1000,"text_line_01":"10B\/12B Blend","text_line_02":"50% 10 Bleach, 50% 12 Bleach side by side"}},"1538751390330":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_54c2f51d-affe-417d-839d-7eedbce12267.jpg","image_size":1000,"text_line_01":"9A\/11A Blend","text_line_02":"50% 9 Ash, 50% 11 Ash side by side"}},"1538751381554":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_59b39121-e6ab-4dd1-af1c-d155326ae282.jpg","image_size":1000,"text_line_01":"8N\/11A Blend","text_line_02":"50% 8 Natural, 50% 11 Ash side by side"}},"1538751341984":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_18db8c4a-c700-4a81-85d4-f128ad57d286.jpg","image_size":1000,"text_line_01":"7G\/10N Blend","text_line_02":"50% 7 Gold, 50% 10 Natural side by side (AVAILABLE IN CURLY)"}},"1538750989796":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_bed4cafe-895b-4032-874b-974864aaf55e.jpg","image_size":1000,"text_line_01":"6N\/9N Blend","text_line_02":"50% 6 Natural, 50% 9 Natural side by side (AVAILABLE IN CURLY)"}},"d512514d-bc48-4a4e-b68e-f958763fe84e":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_31960931-9671-47af-9094-d683cb6c79a2.jpg","image_size":1000,"text_line_01":"7A\/11A Rooted","text_line_02":"1-2\" Root 7 Ash fading down 4-6\" to 11 Ash"}},"00d7663d-7f74-47c0-986b-6e80c4de923c":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_5241c83f-ae81-4d47-bdea-3faa065f221e.jpg","image_size":1000,"text_line_01":"7N\/11B Rooted","text_line_02":"1-2\" Root 7 Natural fading down 4-6\" to 11 Bleach"}},"2ecd38ca-a661-4dfa-be31-830a2f1dedde":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_8651bb44-931d-4e61-bb6b-e5df362c3ed8.jpg","image_size":1000,"text_line_01":"6N\/10N Rooted","text_line_02":"1-2\" Root 6 Natural fading down 4-6\" to 10 Natural"}},"9299ebf7-087e-4d1a-86d3-b80a59cd888e":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_30211ca7-af6f-4e91-9b94-6f231106ec30.jpg","image_size":1000,"text_line_01":"4N\/7G Rooted","text_line_02":"1-2\" Root 4 Natural fading down 4-6\" to 7 Gold (AVAILABLE IN CURLY)"}},"56fa517d-e2e7-4132-8bed-57f0eef887c0":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_93f3f5c8-9451-45bf-abc9-ebd111b0520b.jpg","image_size":1000,"text_line_01":"2N\/4B Rooted","text_line_02":"1-2\" Root 2 Natural fading down 4-6\" to 4 Bleach (AVAILABLE IN CURLY)"}},"7c5de567-d87b-468e-9c0f-769cae01e1b7":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_bd4649d6-c14f-4905-8dae-537a10ab2856.jpg","image_size":1000,"text_line_01":"12B","text_line_02":"Level 12 Bleach Blonde"}},"fbca9451-661c-4cd9-9484-7e42040774de":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_a11a57ee-8f39-40b5-b732-a7e3c3fd71e5.jpg","image_size":1000,"text_line_01":"12N","text_line_02":"Level 12 Natural Blonde"}},"576dc78b-a051-44eb-9ec3-a3febebe7c6e":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_a38808ac-2a53-405c-8345-bc700e479dd0.jpg","image_size":1000,"text_line_01":"11B","text_line_02":"Level 11 Bleach Blonde"}},"1fa44278-2679-4b62-a396-7f9d39049750":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_ff4b2e68-dbe2-456f-b64e-4f6522b5e6e1.jpg","image_size":1000,"text_line_01":"11A","text_line_02":"Level 11 Ash Blonde"}},"9912b327-0c47-42de-9cac-5e7633f0edcb":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_1bcb297f-7e56-4da4-b1bf-781f8f747a22.jpg","image_size":1000,"text_line_01":"10N","text_line_02":"Level 10 Natural Blonde"}},"c57321ea-4ff4-4b0b-b4b8-3c8b19403945":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_5dffd66d-e550-4f67-bee9-adb1bf6786eb.jpg","image_size":1000,"text_line_01":"10B","text_line_02":"Level 10 Bleach Blonde (AVAILABLE IN CURLY)"}},"7f450193-1946-431d-8d83-cad114886e25":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_ac62845d-4af2-4e28-853c-44d26b5a646d.jpg","image_size":1000,"text_line_01":"9N","text_line_02":"Level 9 Natural Blonde"}},"43bfbc1b-d80e-466f-aa04-e0fc02f81f39":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_374dc0a5-e391-4ce6-b469-6ef57e4b12e6.jpg","image_size":1000,"text_line_01":"9B","text_line_02":"Level 9 Bleach Blonde"}},"57bbe4d5-dc86-4a4e-87da-f023ffce5e85":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_2772aaf0-6e7e-4f25-adc0-0b06303d2c4a.jpg","image_size":1000,"text_line_01":"9A","text_line_02":"Level 9 Ash Blonde"}},"64e90551-2118-4a24-bf02-f22323b289e3":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_bdd8ab20-5d7f-4bf7-888f-9d11104a3266.jpg","image_size":1000,"text_line_01":"8N","text_line_02":"Level 8 Natural Blonde"}},"f62799fe-f5d8-427d-b572-9176dd4ea319":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_162ec538-1897-460e-96e2-5d2148e85c5c.jpg","image_size":1000,"text_line_01":"8B","text_line_02":"Level 8 Bleach Dark Copper Blonde"}},"6c8a7bb1-09df-489e-983a-939746b9ed43":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_b8581f24-c79c-4c2e-ab10-ce7d68cb3aa9.jpg","image_size":1000,"text_line_01":"8A","text_line_02":"Level 8 Ash Blonde"}},"9f9ede6a-b0f0-4d73-9d85-8637d9566f59":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/7red_res.jpg","image_size":1000,"text_line_01":"7R","text_line_02":"Level 7 Light Copper Red"}},"a09dfabc-747d-45ec-a96d-ae01455f0f22":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/7n_res.jpg","image_size":1000,"text_line_01":"7N","text_line_02":"Level 7 Natural Dark Blonde"}},"a6e0562a-36e4-41b7-8c7c-63bb06d87fc3":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_9b6cf79f-8bff-452f-95ed-68c0ea3e4012.jpg","image_size":1000,"text_line_01":"7G","text_line_02":"Level 7 Gold Dark Blonde"}},"f32521dd-5deb-48cd-bdb8-457298627652":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/7ash_ress_2.jpg","image_size":1000,"text_line_01":"7A","text_line_02":"Level 7 Ash Dark Blonde"}},"330cfe66-9953-4a3c-94ad-2e402e156324":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/6_red_res.jpg","image_size":1000,"text_line_01":"6R","text_line_02":"Level 6 Copper Chestnut Red (AVAILABLE IN CURLY)"}},"df8de878-9465-4a5d-a511-b6f97cabd812":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/6n_res.jpg","image_size":1000,"text_line_01":"6N","text_line_02":"Level 6 Natural Light Brown"}},"f22c9a65-c7f9-4196-8389-a8793e96d5e7":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/6ash_res.jpg","image_size":1000,"text_line_01":"6A","text_line_02":"Level 6 Ash Light Brown"}},"adcb71f7-b0f0-419d-a767-00e63607a20e":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/5_red_res.jpg","image_size":1000,"text_line_01":"5R","text_line_02":"Level 5 Cherry Red (AVAILABLE IN CURLY)"}},"e26e07ac-7d2c-4b0c-90a9-d6d415b472e9":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/5n_res.jpg","image_size":1000,"text_line_01":"5N","text_line_02":"Level 5 Natural Brown (AVAILABLE IN CURLY)"}},"4cdabf34-772b-408a-809c-fc03d618252d":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/5ash_res.jpg","image_size":1000,"text_line_01":"5A","text_line_02":"Level 5 Ash Brown"}},"89d54581-0ba3-4d12-a28d-ff0694002a71":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/4red_res.jpg","image_size":1000,"text_line_01":"4R","text_line_02":"Level 4 Auburn Red Brown"}},"f0f615ba-e75c-45d4-9361-0a9513b70d93":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/4n_res.jpg","image_size":1000,"text_line_01":"4N","text_line_02":"Level 4 Natural Chocolate Brown (AVAILABLE IN CURLY)"}},"a52e0b16-d7a8-4ee7-9a2b-e40f5d514b0e":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/4bres.jpg","image_size":1000,"text_line_01":"4B","text_line_02":"Level 4 Warm Medium Brown"}},"e044086a-5a94-4b6d-bdd2-b4c84acd5ba0":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/4ash_res.jpg","image_size":1000,"text_line_01":"4A","text_line_02":"Level 4 Ash Brown"}},"5f596ae8-5b4e-42fe-b535-942344c5ed45":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/3_red_res.jpg","image_size":1000,"text_line_01":"3R","text_line_02":"Level 3 Burgundy Red"}},"549b9268-85e8-46f3-9a94-48d6e54106a3":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/3b_res.jpg","image_size":1000,"text_line_01":"3B","text_line_02":"Level 3 Warm Brown (AVAILABLE IN CURLY)"}},"6448a245-5887-4dfe-a243-6cc06052b1fd":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/3ash_re.jpg","image_size":1000,"text_line_01":"3A","text_line_02":"Level 3 Ash Brown"}},"73914cf8-cb8f-4c3e-8226-31c823a18a27":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/2res_res.jpg","image_size":1000,"text_line_01":"2R","text_line_02":"Level 2 Ruby Red"}},"d8df6952-5476-4cf9-8e76-63bb9f426752":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/2n_res.jpg","image_size":1000,"text_line_01":"2N","text_line_02":"Level 2 Natural Brown (AVAILABLE IN CURLY)"}},"d575874f-b72e-40e1-9fd8-7ef7f9254204":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/2ash_res.jpg","image_size":1000,"text_line_01":"2A","text_line_02":"Level 2 Ash Brown (AVAILABLE IN CURLY)"}},"ae1b39e5-a934-4246-ba3c-7a33295cec58":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/1n_res.jpg","image_size":1000,"text_line_01":"1N","text_line_02":"Level 1 Natural Black (AVAILABLE IN CURLY)"}},"aa1e606a-feaa-485f-bb9f-2f46ec435dbc":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/custom_resized_0a6f4f64-3501-47a8-8b70-65329803a532_1.jpg","image_size":1000,"text_line_01":"Grey\/White","text_line_02":"Special Batch"}},"f046ce1e-22ff-4f6e-b575-66599d13b974":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/1_Natural_Curlyyy.png","image_size":500,"text_line_01":"1 Natural Curly","text_line_02":"Level 1 Natural Black"}},"6bd34f96-e26d-465e-a4e7-2a8b8a6ec2f1":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/2_Ash_Curly_resize.png","image_size":500,"text_line_01":"2 Ash Curly","text_line_02":"Level 2 Ash Brown"}},"2f1453f8-5a17-4de8-af4c-23769cc87d3c":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/2_Natural_curly_resize.png","image_size":500,"text_line_01":"2 Natural Curly","text_line_02":"Level 2 Natural Brown"}},"8f730862-3093-4bb8-8693-a71e69019b5d":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/2N4B_curly_resiz.png","image_size":500,"text_line_01":"2N\/4B Rooted Curly","text_line_02":"1-2\" Root 2 Natural fading down 4-6\" to 4 Bleach"}},"400bc1f8-2a95-4a8a-8a69-fd0a8c99b42f":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/3_Ash_Curly_res.png","image_size":500,"text_line_01":"3 Ash Curly","text_line_02":"Level 3 Ash Brown"}},"fa264de8-95c2-4643-be3c-786db868b2ba":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/3_Bleach_Curly_resiz.png","image_size":500,"text_line_01":"3 Bleach Curly","text_line_02":"Level 3 Warm Brown"}},"1bd55fb8-e4bd-43cd-8fc3-1476129ead72":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/4_Ash_Curly_res.png","image_size":500,"text_line_01":"4 Ash Curly","text_line_02":"Level 4 Ash Brown"}},"ae609f42-8968-4097-9f80-bb5383030c7e":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/4_Bleach_curly_res.png","image_size":500,"text_line_01":"4 Bleach Curly","text_line_02":"Level 4 Warm Medium Brown"}},"a800591a-7771-43e6-9a0a-4fccdb13bd8d":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/4_nat_res_res.png","image_size":500,"text_line_01":"4 Natural Curly","text_line_02":"Level 4 Natural Chocolate Brown"}},"919c081f-7a45-4f3c-9021-2b94f792df06":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/4n_7g_res.png","image_size":500,"text_line_01":"4N\/7G Rooted Curly","text_line_02":"1-2\" Root 4 Natural fading down 4-6\" to 7 Gold"}},"c9e23e30-8620-4842-9d14-f9bb27e8834a":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/5_Ash_Curly_res.png","image_size":500,"text_line_01":"5 Ash Curly","text_line_02":"Level 5 Ash Brown"}},"aa57e122-8aa3-4107-a860-7a5d8e920f19":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/5_Natural_res.png","image_size":500,"text_line_01":"5 Natural Curly","text_line_02":"Level 5 Natural Brown"}},"d6aff554-4943-46e5-a842-0195a07b1fea":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/5_Red_Curly_res.png","image_size":500,"text_line_01":"5 Red Curly","text_line_02":"Level 5 Cherry Red"}},"61b79e4c-c6b1-43b5-94d0-a12371219682":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/6_Ash_Curly.png","image_size":500,"text_line_01":"6 Ash Curly","text_line_02":"Level 6 Ash Light Brown"}},"6bf42d5b-8085-49d5-bd74-bdfee896c6da":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/6_Natural_Curly_res.png","image_size":500,"text_line_01":"6 Natural Curly","text_line_02":"Level 6 Natural Light Brown"}},"b45d0989-fdd0-4495-93be-58d0740a9294":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/6_red_resize_curly.png","image_size":500,"text_line_01":"6 Red Curly","text_line_02":"Level 6 Copper Chestnut Red"}},"ef250e61-23da-4fa8-9ea0-cc162357c033":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/6n9n_blend_mx_es.png","image_size":500,"text_line_01":"6N\/9N Blend Curly","text_line_02":"50% 6 Natural, 50% 9 Natural side by side"}},"2f271921-8842-46c6-8ad7-b7a3afd90a7f":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/6N_10N_ombre_curlt_res.png","image_size":500,"text_line_01":"6N\/10N Rooted Curly","text_line_02":"1-2\" Root 6 Natural fading down 4-6\" to 10 Natural"}},"218e3471-bec7-462a-9755-455d8f92176a":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/7_Ash_curly_re.png","image_size":500,"text_line_01":"7 Ash Curly","text_line_02":"Level 7 Ash Dark Blonde"}},"9952a9dc-8f0b-485f-9487-c2e1d8194ed3":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/7G_10_N_ombre_res.png","image_size":500,"text_line_01":"7G\/10N Blend Curly","text_line_02":"50% 7 Gold, 50% 10 Natural side by side"}},"36da32b4-2d5e-48c2-b57a-a185775aaea8":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/7_G_resize.png","image_size":500,"text_line_01":"7 Gold Curly","text_line_02":"Level 7 Gold Dark Blonde"}},"684770b9-0180-4112-8f11-31a5d84923de":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/7_Natural_res.png","image_size":500,"text_line_01":"7 Natural Curly","text_line_02":"Level 7 Natural Dark Blonde"}},"a86dfc5a-6570-44ff-834e-0d8f000e128a":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/8_Ash_curly_res.png","image_size":500,"text_line_01":"8 Ash Curly","text_line_02":"Level 8 Ash Blonde"}},"f167ac10-0895-4857-ab19-5cb7c507ec96":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/8_Bleach_curly_res.png","image_size":500,"text_line_01":"8 Bleach Curly","text_line_02":"Level 8 Bleach Dark Copper Blonde"}},"e0c12a11-489f-4c93-a08b-8b79487da802":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/8_natural_res.png","image_size":500,"text_line_01":"8 Natural Color","text_line_02":"Level 8 Natural Blonde"}},"1db459aa-1b38-435a-b9d1-b10ecdc86de4":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/9_Ash_res.png","image_size":500,"text_line_01":"9 Ash Curly","text_line_02":"Level 9 Ash Blonde"}},"5380d3bf-c326-43a8-aa55-fab303e35980":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/9_Bleach_Curl_res.png","image_size":500,"text_line_01":"9 Bleach Curly","text_line_02":"Level 9 Bleach Blonde"}},"66e5841b-ab53-41de-981e-a975ea869aeb":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/9_natu_ral_res.png","image_size":500,"text_line_01":"9 Natural Curly","text_line_02":"Level 9 Natural Blonde"}},"37d0211e-1bfe-45b5-bcc3-644443aa1f41":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/9a10b_curly_only_res.jpg","image_size":1000,"text_line_01":"9A\/10B Blend Curly","text_line_02":"50% 9 Ash, 50% 10 Bleach side by side"}},"ee84f2de-125b-428a-ba60-a871ed27242d":{"type":"item","settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/10_bleach_blonde_res.png","image_size":500,"text_line_01":"10 Bleach Curly","text_line_02":"Level 10 Bleach Blonde"}},"11abdb34-8079-4ec9-a72f-bae8694f9ae8":{"type":"item","disabled":true,"settings":{"page_name":"","grid":2,"image":"shopify:\/\/shop_images\/Curly_Color_chart_resiz_2.png","image_size":500,"text_line_01":"Grey White Curly","text_line_02":""}}},"block_order":["1538751452219","1538751410356","1538751390330","1538751381554","1538751341984","1538750989796","d512514d-bc48-4a4e-b68e-f958763fe84e","00d7663d-7f74-47c0-986b-6e80c4de923c","2ecd38ca-a661-4dfa-be31-830a2f1dedde","9299ebf7-087e-4d1a-86d3-b80a59cd888e","56fa517d-e2e7-4132-8bed-57f0eef887c0","7c5de567-d87b-468e-9c0f-769cae01e1b7","fbca9451-661c-4cd9-9484-7e42040774de","576dc78b-a051-44eb-9ec3-a3febebe7c6e","1fa44278-2679-4b62-a396-7f9d39049750","9912b327-0c47-42de-9cac-5e7633f0edcb","c57321ea-4ff4-4b0b-b4b8-3c8b19403945","7f450193-1946-431d-8d83-cad114886e25","43bfbc1b-d80e-466f-aa04-e0fc02f81f39","57bbe4d5-dc86-4a4e-87da-f023ffce5e85","64e90551-2118-4a24-bf02-f22323b289e3","f62799fe-f5d8-427d-b572-9176dd4ea319","6c8a7bb1-09df-489e-983a-939746b9ed43","9f9ede6a-b0f0-4d73-9d85-8637d9566f59","a09dfabc-747d-45ec-a96d-ae01455f0f22","a6e0562a-36e4-41b7-8c7c-63bb06d87fc3","f32521dd-5deb-48cd-bdb8-457298627652","330cfe66-9953-4a3c-94ad-2e402e156324","df8de878-9465-4a5d-a511-b6f97cabd812","f22c9a65-c7f9-4196-8389-a8793e96d5e7","adcb71f7-b0f0-419d-a767-00e63607a20e","e26e07ac-7d2c-4b0c-90a9-d6d415b472e9","4cdabf34-772b-408a-809c-fc03d618252d","89d54581-0ba3-4d12-a28d-ff0694002a71","f0f615ba-e75c-45d4-9361-0a9513b70d93","a52e0b16-d7a8-4ee7-9a2b-e40f5d514b0e","e044086a-5a94-4b6d-bdd2-b4c84acd5ba0","5f596ae8-5b4e-42fe-b535-942344c5ed45","549b9268-85e8-46f3-9a94-48d6e54106a3","6448a245-5887-4dfe-a243-6cc06052b1fd","73914cf8-cb8f-4c3e-8226-31c823a18a27","d8df6952-5476-4cf9-8e76-63bb9f426752","d575874f-b72e-40e1-9fd8-7ef7f9254204","ae1b39e5-a934-4246-ba3c-7a33295cec58","aa1e606a-feaa-485f-bb9f-2f46ec435dbc","f046ce1e-22ff-4f6e-b575-66599d13b974","6bd34f96-e26d-465e-a4e7-2a8b8a6ec2f1","2f1453f8-5a17-4de8-af4c-23769cc87d3c","8f730862-3093-4bb8-8693-a71e69019b5d","400bc1f8-2a95-4a8a-8a69-fd0a8c99b42f","fa264de8-95c2-4643-be3c-786db868b2ba","1bd55fb8-e4bd-43cd-8fc3-1476129ead72","ae609f42-8968-4097-9f80-bb5383030c7e","a800591a-7771-43e6-9a0a-4fccdb13bd8d","919c081f-7a45-4f3c-9021-2b94f792df06","c9e23e30-8620-4842-9d14-f9bb27e8834a","aa57e122-8aa3-4107-a860-7a5d8e920f19","d6aff554-4943-46e5-a842-0195a07b1fea","61b79e4c-c6b1-43b5-94d0-a12371219682","6bf42d5b-8085-49d5-bd74-bdfee896c6da","b45d0989-fdd0-4495-93be-58d0740a9294","ef250e61-23da-4fa8-9ea0-cc162357c033","2f271921-8842-46c6-8ad7-b7a3afd90a7f","218e3471-bec7-462a-9755-455d8f92176a","9952a9dc-8f0b-485f-9487-c2e1d8194ed3","36da32b4-2d5e-48c2-b57a-a185775aaea8","684770b9-0180-4112-8f11-31a5d84923de","a86dfc5a-6570-44ff-834e-0d8f000e128a","f167ac10-0895-4857-ab19-5cb7c507ec96","e0c12a11-489f-4c93-a08b-8b79487da802","1db459aa-1b38-435a-b9d1-b10ecdc86de4","5380d3bf-c326-43a8-aa55-fab303e35980","66e5841b-ab53-41de-981e-a975ea869aeb","37d0211e-1bfe-45b5-bcc3-644443aa1f41","ee84f2de-125b-428a-ba60-a871ed27242d","11abdb34-8079-4ec9-a72f-bae8694f9ae8"],"settings":{"container":"fullwidth","masonry_enable":true}},"home-builder":{"type":"home-builder","settings":{"title":"","container":"boxed","size_of_columns":"1","margins_for_columns":"none","align_of_columns":"top_center","disable_column_paddings":false,"precedence":"","customization_class":""}},"lookbook":{"type":"lookbook","blocks":{"1542384287656":{"type":"image","settings":{"page_name":"","name":"Image #1","image":"shopify:\/\/shop_images\/1937547927_2_3_1.jpg"}},"1542384329087":{"type":"product","settings":{"for_name":"Image #1","product":"copy-of-floppy-hat","horizontal_position":60,"vertical_position":42}},"1542384456250":{"type":"product","settings":{"for_name":"Image #1","product":"copy-of-cotton-off-the-shoulder-tee","horizontal_position":28,"vertical_position":80}},"1542384593282":{"type":"image","settings":{"page_name":"","name":"Image #2","image":"shopify:\/\/shop_images\/2605987800_1_1_1.jpg"}},"1542385389127":{"type":"product","settings":{"for_name":"Image #2","product":"meizu-usb-type-c-metal-data-cable","horizontal_position":57,"vertical_position":23}},"1542385469823":{"type":"product","settings":{"for_name":"Image #2","product":"copy-of-cotton-off-the-shoulder-tee","horizontal_position":64,"vertical_position":91}},"1542385530191":{"type":"image","settings":{"page_name":"","name":"Image #3","image":"shopify:\/\/shop_images\/0047628527_1_1_1.jpg"}},"1542385552624":{"type":"product","settings":{"for_name":"Image #3","product":"copy-of-flared-trousers","horizontal_position":48,"vertical_position":42}},"1542385639752":{"type":"product","settings":{"for_name":"Image #3","product":"beats-pro","horizontal_position":66,"vertical_position":66}},"1542385876463":{"type":"image","settings":{"page_name":"","name":"Image #4","image":"shopify:\/\/shop_images\/0051019141_2_3_1_8223d91e-cd86-42d2-b066-6740d13c97da.jpg"}},"1542385895396":{"type":"product","settings":{"for_name":"Image #4","product":"copy-of-drawstring-sweater","horizontal_position":54,"vertical_position":47}},"1542385994777":{"type":"product","settings":{"for_name":"Image #4","product":"skinny-mid-rise-trousers","horizontal_position":34,"vertical_position":71}},"1542386125065":{"type":"image","settings":{"page_name":"","name":"Image #5","image":"shopify:\/\/shop_images\/1938617800_2_3_1.jpg"}},"1542386146183":{"type":"product","settings":{"for_name":"Image #5","product":"copy-of-mini-tweed-backpack","horizontal_position":55,"vertical_position":53}},"1542386237758":{"type":"image","settings":{"page_name":"","name":"Image #6","image":"shopify:\/\/shop_images\/0047628627_2_3_1.jpg"}},"1542386264335":{"type":"product","settings":{"for_name":"Image #6","product":"beats-pro","horizontal_position":40,"vertical_position":65}}},"block_order":["1542384287656","1542384329087","1542384456250","1542384593282","1542385389127","1542385469823","1542385530191","1542385552624","1542385639752","1542385876463","1542385895396","1542385994777","1542386125065","1542386146183","1542386237758","1542386264335"],"settings":{"show_title":false,"layout":"1","grid":"3","grid_responsive":"","image_size":600}},"1586567788223":{"type":"spacer","settings":{"margin_top":60,"margin_bottom":0,"margin_top_mobile":50,"margin_bottom_mobile":0,"container":"boxed","show_separator":false,"title":""}},"1610410899173dda8e":{"type":"carousel-articles","disabled":true,"settings":{"title":"Our Blogs","blog":"ordering","layout":"1","max_symbols_count":200,"show_details":true,"button_text":"READ & SHOP","size_of_columns":"2","max_items_count":10,"autoplay":true,"speed":5,"infinite":true,"arrows":true,"bullets":true}},"16104113279c202730":{"type":"carousel-reviews","blocks":{"44bddeb7-848b-44bb-823b-605c825ed307":{"type":"slide","settings":{"title":"\"Blown away by the hair quality...\"","stars":5,"paragraph":"<a href=\"https:\/\/www.haircompounds.com\/pages\/reviews?promo_name=review_1&promo_id=41&promo_position=Homepage_body\">Tracy here from Guilford CT level 3 NBR certified and only been using Hair Compounds for a couple months now but completely blown away by the hair quality and the customer service! Thank you for saving us from the silicone hair and having CONSISTENCY in your quality, it's the only way our clients will continue to be happy with their hair and trust us so.... HALLELUJAH!! ❤️❤️❤️ P.S. been wearing your custom curly in my hair since Tuesday and holy shit!!! The thickest, most beautiful hair I've ever had and I've been wearing extensions for over 10 years. And the texture is a perfect match. Ssssooooo happy. <\/a>","user_image":"shopify:\/\/shop_images\/tracy-lynn-htl-styling-hair-extensionist.jpg","user_text_line_1":"<a href=\"https:\/\/www.haircompounds.com\/pages\/reviews?promo_name=review_1&promo_id=41&promo_position=Homepage_body\">Tracy Lynn Riccio <\/a>","user_text_line_2":"customer since 2018"}},"adae20c6-4fdf-4073-adad-59823df23067":{"type":"slide","settings":{"title":"\"I'm obsessed...\"","stars":5,"paragraph":"<a href=\"https:\/\/www.haircompounds.com\/pages\/reviews?promo_name=review_2&promo_id=42&promo_position=Homepage_body\">I’m in Phoenix, AZ, level 3 NBR stylist and have been using H&C since March! I’m obsessed and love the quality and commitment that HC stands for. I also love that it’s ethically sourced and that they’re standards are high. Thank you for having amazing hair that our clients and ourselves can use. I love HC’s customer service, honestly they go above and beyond for us and it’s amazing. <\/a>","user_image":"shopify:\/\/shop_images\/nicole-bencurik-master-extensionist.jpg","user_text_line_1":"<a href=\"https:\/\/www.haircompounds.com\/pages\/reviews?promo_name=review_2&promo_id=42&promo_position=Homepage_body\">Nicole Bencurik <\/a>","user_text_line_2":"customer since 2018"}},"9ecda825-f10e-4b61-b8bf-c1f3389bd06d":{"type":"slide","settings":{"title":"\"My installs are way cleaner looking and faster\"","stars":5,"paragraph":"<a href=\"https:\/\/www.haircompounds.com\/pages\/reviews?promo_name=review_3&promo_id=43&promo_position=Homepage_body\">I’m in absolute LOVE with hair compounds hair, I’ve been using it since April 2018 and I’ve never been happier with the quality of the hair.\n\nI love that the texture is very natural, fluffy, and wavy. I do not have to fight against shiny silicone. I notice my installs are way cleaner looking and faster. The hair holds color really well. <\/a>","user_image":"shopify:\/\/shop_images\/shaina-campbell-hand-tied-wefts-extensions-master.jpg","user_text_line_1":"<a href=\"https:\/\/www.haircompounds.com\/pages\/reviews?promo_name=review_3&promo_id=43&promo_position=Homepage_body\">Shaina Campbell <\/a>","user_text_line_2":"customer since 2018"}}},"block_order":["44bddeb7-848b-44bb-823b-605c825ed307","adae20c6-4fdf-4073-adad-59823df23067","9ecda825-f10e-4b61-b8bf-c1f3389bd06d"],"settings":{"title":"What Some of Our Customers Are Saying","type":"2","style":"3","size_of_columns":"3","autoplay":true,"speed":5,"arrows":true}},"161049059944f80394":{"type":"information-line","blocks":{"161049059944f80394-0":{"type":"content","settings":{"icon":"theme-159","title":"<b>Free Delivery<\/b>","paragraph":"Options Available","url":"https:\/\/www.haircompounds.com\/pages\/store-policy"}},"161049059944f80394-2":{"type":"content","settings":{"icon":"theme-010","title":"<b>Easy Returns & Refunds<\/b>","paragraph":"Within 30 Days","url":"https:\/\/www.haircompounds.com\/pages\/store-policy"}},"1bbf9ee9-3121-4475-a0a7-0694c11c3100":{"type":"content","settings":{"icon":"theme-042","title":"<b>Virtual Visit<\/b>","paragraph":"Supply House Tour & Color Matching","url":"https:\/\/form.typeform.com\/to\/oQGaEqlC?promo_name=virtual_visit&promo_id=40&promo_position=Homepage_body"}},"161049059944f80394-1":{"type":"content","settings":{"icon":"theme-197","title":"<b>Instant Customer Service<\/b>","paragraph":"Speak To One Of Our Team Members","url":"https:\/\/www.haircompounds.com\/pages\/contact-hc"}}},"block_order":["161049059944f80394-0","161049059944f80394-2","1bbf9ee9-3121-4475-a0a7-0694c11c3100","161049059944f80394-1"],"settings":{"title":"","type":"2","style":"1"}},"1610491624c6132145":{"type":"spacer","settings":{"margin_top":60,"margin_bottom":0,"margin_top_mobile":0,"margin_bottom_mobile":0,"container":"boxed","show_separator":false,"title":""}},"16186146830fbf36aa":{"type":"spacer","settings":{"margin_top":60,"margin_bottom":0,"margin_top_mobile":0,"margin_bottom_mobile":0,"container":"boxed","show_separator":false,"title":""}},"16212662133fdd16c5":{"type":"spacer","settings":{"margin_top":15,"margin_bottom":0,"margin_top_mobile":0,"margin_bottom_mobile":0,"container":"boxed","show_separator":false,"title":""}},"16230890219cbb0460":{"type":"information-line","blocks":{"16230890219cbb0460-0":{"type":"content","settings":{"icon":"","title":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0570\/2057\/files\/4.jpg\" width=\"40\" height=\"40\" alt=\"Tried & Tested\"><b> Tried & Tested<\/b>","paragraph":"<p class=\"big\">All our hand-made hair extensions go through a rigorous review for quality, performance, and longevity.<\/p>","url":""}},"16230890219cbb0460-1":{"type":"content","settings":{"icon":"","title":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0570\/2057\/files\/3.jpg\" width=\"40\" height=\"40\" alt=\"Straight from the Source\"><b> Straight from the Source<\/b>","paragraph":"<p class=\"big\">We source, produce, and supply 100% real Remy human hair extensions to licensed hair professionals.<\/p>","url":""}}},"block_order":["16230890219cbb0460-0","16230890219cbb0460-1"],"settings":{"title":"","type":"2","style":"2"}},"1623089111e6afabf8":{"type":"information-line","blocks":{"1623089111e6afabf8-0":{"type":"content","settings":{"icon":"","title":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0570\/2057\/files\/1.jpg?v=1651209556\" width=\"40\" height=\"40\" alt=\"Stylist Driven\"> <b> Stylist-Driven<\/b>","paragraph":"<p class=\"big\">By consistently placing our stylists' feedback at the intersection of our production and supply process for nearly 25 years, we’re able to create a one-of-a-kind product. <\/p>","url":""}},"1623089111e6afabf8-1":{"type":"content","settings":{"icon":"","title":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0570\/2057\/files\/2.jpg\" width=\"40\" height=\"40\" alt=\"Real Remy Human Hair\"><b> Real Remy Human Hair<\/b>","paragraph":"<p class=\"big\">Our hair extensions are real human hair with the cuticles intact and root aligned.  All the hair is smooth yet durable, has consistency from root to tip. <\/p>","url":""}}},"block_order":["1623089111e6afabf8-0","1623089111e6afabf8-1"],"settings":{"title":"<div>Why Choose H&C?<\/div>","type":"2","style":"3"}},"16230891835a2d143c":{"type":"spacer","settings":{"margin_top":60,"margin_bottom":0,"margin_top_mobile":0,"margin_bottom_mobile":0,"container":"boxed","show_separator":false,"title":""}},"fac04855-e975-4d09-a92c-ddf78ec937ea":{"type":"spacer","settings":{"margin_top":60,"margin_bottom":0,"margin_top_mobile":0,"margin_bottom_mobile":0,"container":"boxed","show_separator":false,"title":""}},"f77bd9a4-66ae-4665-83d7-b3a9c9a06f0c":{"type":"spacer","settings":{"margin_top":60,"margin_bottom":0,"margin_top_mobile":0,"margin_bottom_mobile":0,"container":"boxed","show_separator":false,"title":""}}},"content_for_index":["1586279708879","f77bd9a4-66ae-4665-83d7-b3a9c9a06f0c","161049059944f80394","16230891835a2d143c","1586280453180","fac04855-e975-4d09-a92c-ddf78ec937ea","1623089111e6afabf8","16230890219cbb0460","16212662133fdd16c5","1586283433745","16186146830fbf36aa","1586282852274","1586284059940","1586567788223","1610410899173dda8e","16104113279c202730","1610491624c6132145"],"blocks":{"16256948136948485038":{"type":"shopify:\/\/apps\/upcharge-surcharges\/blocks\/app-embed-block\/3660e544-1847-4d53-9b3b-f0cb50c2d9f7","disabled":false,"settings":{}}}}}
+{
+  "current": {
+    "purchase_code": "acf9e35e-1063-477a-beb2-92febcd7bff4",
+    "presentation_enable": false,
+    "logo_types": "image",
+    "logo_svg_file": "",
+    "logo_image": "shopify:\/\/shop_images\/web_logo_2.png",
+    "logo_width": 70,
+    "logo_mobile_svg_file": "svg-logo-mobile",
+    "logo_mobile_image": "shopify:\/\/shop_images\/HAIR__COMPOUND_LOGO_MH01_1000x1000_CROPED_DOWN.png",
+    "logo_mobile_width": 152,
+    "logo_sticky_svg_file": "svg-logo-sticky",
+    "logo_sticky_image": "shopify:\/\/shop_images\/HC_Logo_Small_Cropped_22ae09f4-034f-4fdc-b7de-57fe506b7c8f.jpg",
+    "logo_sticky_width": 42,
+    "logo_footer_svg_file": "",
+    "logo_footer_image": "",
+    "logo_footer_width": 64,
+    "logo_footer_mobile_svg_file": "",
+    "logo_footer_mobile_image": "",
+    "logo_footer_mobile_width": 64,
+    "favicon": "shopify:\/\/shop_images\/HC_Logo_Small_Cropped_22ae09f4-034f-4fdc-b7de-57fe506b7c8f.jpg",
+    "layout_container": "fullwidth",
+    "layout_show_breadcrumbs": true,
+    "layout_pagination_type": "infinite_scroll",
+    "layout_enable_rtl": false,
+    "layout_images_lazyload": true,
+    "layout_settings_file": "home-18",
+    "layout_age_confirmation": false,
+    "layout_age_confirmation_image": "",
+    "layout_age_confirmation_image_width": 600,
+    "layout_age_confirmation_checkbox": true,
+    "color_skin": "home-18",
+    "color_theme_primary": "",
+    "color_theme_body": "",
+    "color_theme_popups_bg": "rgba(0,0,0,0)",
+    "color_theme_c": "rgba(0,0,0,0)",
+    "color_theme_paragraph_c": "",
+    "color_theme_head_c": "",
+    "color_theme_link_c": "",
+    "color_theme_link_act_c": "",
+    "color_theme": "",
+    "color_theme2": "",
+    "color_theme3": "",
+    "color_theme4": "",
+    "color_theme5": "",
+    "color_theme6": "",
+    "color_theme7": "",
+    "color_theme8": "",
+    "color_theme9": "",
+    "color_theme10": "",
+    "color_theme11": "",
+    "color_theme12": "",
+    "typography_skin": "default",
+    "font_base": "basic_commercial_n4",
+    "font_base_apply_to_all": true,
+    "font_base_type": "none",
+    "font_size_body": 13,
+    "font_heading": "basic_commercial_n4",
+    "font_heading_type": "none",
+    "font_size_h1": 44,
+    "font_size_h2": 32,
+    "font_size_h3": 24,
+    "font_size_h4": 18,
+    "font_size_h5": 15,
+    "font_size_h6": 13,
+    "font_button": "basic_commercial_n4",
+    "font_size_button": 13,
+    "font_size_input": 13,
+    "font_menu": "basic_commercial_n4",
+    "font_size_menu": 13,
+    "font_size_menu_list": 13,
+    "font_size_menu_title": 15,
+    "font_size_menu_mobile": 15,
+    "font_load_alternative": false,
+    "font_alternative": "basic_commercial_n4",
+    "font_alternative_type": "none",
+    "collection_show_sidebar": "desktop_and_mobile",
+    "collection_sidebar_position": "left",
+    "collection_enable_sticky": true,
+    "collection_tag_filters_logic": "and",
+    "collection_only_available": false,
+    "collection_enable_fullwidth_head_section": false,
+    "collection_enable_product_carousel_section": true,
+    "collection_builder_mode": "",
+    "product_format_pjpg": true,
+    "product_show_review_loading": false,
+    "product_cursor": "",
+    "product_show_custom_options": true,
+    "product_enable_variants_section": true,
+    "product_hide_options_without_availability_variants": false,
+    "product_variant_auto_select": "enable",
+    "product_auto_selected_options": "",
+    "product_variant_change_on_hover": false,
+    "product_options_listing_visibility": "all",
+    "product_options_type_circle_color": "",
+    "product_options_type_circle_image": "",
+    "product_options_type_square_color": "",
+    "product_options_type_square_image": "Material 2",
+    "product_options_type_select": "Select|Color|Text",
+    "product_options_type_large_text": "Size",
+    "product_collection_image_height_percent": 128,
+    "product_collection_image_size": "contain",
+    "product_collection_image_border_radius": 0,
+    "product_replace_images_hover": true,
+    "product_collection_show_label_in_stock": false,
+    "product_collection_show_label_pre_order": true,
+    "product_collection_show_label_out_stock": true,
+    "product_collection_show_label_sale": false,
+    "product_collection_show_label_new": true,
+    "product_collection_show_label_hot": true,
+    "product_collection_centered_info": true,
+    "product_collection_more_info_type": "hide",
+    "product_collection_show_title": true,
+    "product_collection_show_price": true,
+    "product_collection_show_button_quick_view": false,
+    "product_collection_show_countdown": true,
+    "product_collection_show_images_navigation": true,
+    "product_collection_show_options": true,
+    "product_collection_show_quantity": true,
+    "product_collection_show_button_add_to_cart": true,
+    "product_collection_show_button_add_to_wishlist": false,
+    "product_collection_show_button_add_to_compare": false,
+    "product_collection_show_reviews": false,
+    "product_collection_hide_reviews_counter": true,
+    "product_collection_hide_reviews_mobile_counter": true,
+    "product_collection_hide_empty_reviews": true,
+    "product_collection_show_sku": false,
+    "product_collection_show_barcode": false,
+    "product_collection_show_availability": true,
+    "product_collection_show_type": true,
+    "product_collection_show_vendor": false,
+    "product_collection_show_description": true,
+    "product_collection_list_show_quantity": true,
+    "product_info_layout": "1",
+    "product_info_show_arrows": true,
+    "product_info_show_btn_fullscreen": true,
+    "product_info_show_btn_video": true,
+    "product_info_video_autoplay": true,
+    "product_info_enable_zoom": true,
+    "product_info_gallery_height_percent": 128,
+    "product_info_show_label_in_stock": true,
+    "product_info_show_label_pre_order": true,
+    "product_info_show_label_out_stock": true,
+    "product_info_show_label_sale": false,
+    "product_info_show_label_new": false,
+    "product_info_show_label_hot": false,
+    "product_info_show_collections": false,
+    "product_info_show_title": true,
+    "product_info_description_place": "tabs",
+    "product_info_show_price": true,
+    "product_info_show_sale_details": true,
+    "product_info_show_taxes": false,
+    "product_info_show_sku": false,
+    "product_info_show_barcode": false,
+    "product_info_show_availability": false,
+    "product_info_show_type": false,
+    "product_info_show_vendor": false,
+    "product_info_show_reviews": false,
+    "product_info_hide_reviews_counter": false,
+    "product_info_hide_empty_reviews": true,
+    "product_info_show_countdown": false,
+    "product_info_show_options": true,
+    "product_info_show_notes": true,
+    "product_info_show_size_guide": false,
+    "product_info_size_guide_page_content": "",
+    "product_info_show_delivery_return": false,
+    "product_info_delivery_return_page_content": "return-policy",
+    "product_info_show_message": false,
+    "product_info_show_quantity": true,
+    "product_info_button_layout": "3",
+    "product_info_show_button_add_to_cart": true,
+    "product_button_addtocart_size": "default",
+    "product_info_show_button_add_to_wishlist": false,
+    "product_info_show_button_add_to_compare": false,
+    "product_info_show_payments": true,
+    "product_info_show_social_share_buttons": false,
+    "product_info_social_share_buttons_type": "1",
+    "product_info_page_enable_sticky_gallery": true,
+    "product_info_page_show_button_dynamic_checkout": false,
+    "product_info_page_show_dynamic_checkout_confirmation": false,
+    "product_info_page_styled_dynamic_checkout": false,
+    "product_info_page_show_related_products": true,
+    "product_info_page_show_usage_info_sidebar": true,
+    "product_info_page_sidebar": "off",
+    "product_info_page_enable_sticky_sidebar": true,
+    "product_footbar_enable": true,
+    "product_footbar_show_title": true,
+    "product_footbar_show_price": true,
+    "product_footbar_show_reviews": true,
+    "product_footbar_show_options": true,
+    "product_footbar_show_quantity": true,
+    "product_footbar_show_button_add_to_cart": true,
+    "product_info_quick_show_full_details": true,
+    "product_info_show_stock_countdown": true,
+    "product_info_show_stock_countdown_range": false,
+    "product_stock_countdown_min": 10,
+    "product_info_show_text_countdown": false,
+    "product_text_countdown_reset_time": 2,
+    "product_text_countdown_delivery_time": 3,
+    "product_text_countdown_delivery_format": "Day DD\/MM\/YYYY",
+    "product_text_countdown_delivery_excludes": "Saturday, Sunday",
+    "product_info_show_visitors": false,
+    "product_visitors_min": 10,
+    "product_visitors_max": 25,
+    "product_visitors_stroke": 4,
+    "product_visitors_interval_min": 2,
+    "product_visitors_interval_max": 6,
+    "search_show": true,
+    "search_show_only_products": false,
+    "search_ajax": true,
+    "price_show_sale_separator": false,
+    "show_multiple_currencies": false,
+    "currency_format": "money_with_currency_format",
+    "supported_currencies": "USD EUR GBP",
+    "supported_currencies_short_names": "US($)|UE(€)|BP(£)",
+    "supported_currencies_full_names": "USD - US Dollar|EUR - Euro|GBP - British Pound",
+    "default_currency": "USD",
+    "cart_show_header_button": true,
+    "cart_popup_enable": true,
+    "cart_ajax": true,
+    "cart_icon": "",
+    "cart_show_vendor": false,
+    "cart_show_notes": true,
+    "cart_show_free_shipping": false,
+    "cart_free_shipping_value": "",
+    "shipping_calculator": "Disabled",
+    "shipping_calculator_default_country": "United States",
+    "wishlist_type": "disable",
+    "compare_type": "disable",
+    "compare_show_description": true,
+    "compare_show_collection": true,
+    "compare_show_availability": true,
+    "compare_show_product_type": true,
+    "compare_show_vendor": true,
+    "compare_show_sku": true,
+    "compare_show_barcode": true,
+    "compare_show_options": true,
+    "compare_description_max_size": 100,
+    "social_share_image": "shopify:\/\/shop_images\/Frame_7.1_2.png",
+    "social_facebook": "https:\/\/www.facebook.com\/haircompounds",
+    "social_twitter": "",
+    "social_instagram": "https:\/\/instagram.com\/haircompounds",
+    "social_pinterest": "https:\/\/www.pinterest.com\/HairCompounds",
+    "social_youtube": "https:\/\/www.youtube.com\/channel\/UCcdj-Xp-W5yMS7KZhXXx3ow?sub_confirmation=1",
+    "social_behance": "https:\/\/behance.net\/mpthemes01c0",
+    "social_skype": "https:\/\/dribbble.com\/mpithemes",
+    "social_share_enable_facebook": true,
+    "social_share_enable_twitter": true,
+    "social_share_enable_pinterest": true,
+    "social_share_enable_linkedin": true,
+    "social_share_enable_buffer": true,
+    "social_share_enable_reddit": true,
+    "subscription_method": "mailchimp",
+    "subscription_mailchimp_form_action": "https:\/\/haircompounds.us8.list-manage.com\/subscribe\/post?u=0dfee384974796751857215bd&amp;id=4db02877ef",
+    "subscription_popup_enable": false,
+    "subscription_popup_layout": "4",
+    "subscription_popup_show_icon": true,
+    "subscription_popup_text_line_01": "Heyyy there...  <br><b> Hair and Compounds is very happy to welcome back in person shopping!<\/b>",
+    "subscription_popup_text_line_02": "",
+    "subscription_popup_text_line_03": "All of our local state clients who would like to purchase in person may now schedule!",
+    "subscription_popup_text_line_04": "<iframe width=\"328\" height=\"270\" src=\"https:\/\/www.youtube.com\/embed\/NsuIAuNru88\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+    "subscription_popup_show_form": false,
+    "subscription_popup_text_input_placeholder": "Enter Please Your Email Address",
+    "subscription_popup_text_submit_button_text": "SUBSCRIBE!",
+    "subscription_popup_text_button": "Order NOW",
+    "subscription_popup_text_dont_show_again": "Don't show again",
+    "subscription_popup_text_close": "Close Window",
+    "subscription_popup_image_width": 600,
+    "subscription_popup_image_format_pjpg": false,
+    "subscription_popup_insert_image_width": 200,
+    "subscription_popup_insert_image_format_pjpg": false,
+    "subscription_popup_link": "shopify:\/\/collections",
+    "subscription_popup_show_once": "false",
+    "subscription_popup_delay": 2,
+    "subscription_popup_cookies_life": "7",
+    "subscription_confirmation_popup_enable": true,
+    "subscription_confirmation_popup_success_message": "Thanks for subscribing!",
+    "subscription_confirmation_popup_success_button": "Continue shopping",
+    "blog_show_sidebar": "desktop_and_mobile",
+    "blog_sidebar_position": "right",
+    "blog_enable_sticky": true,
+    "article_show_sidebar": "desktop_and_mobile",
+    "article_sidebar_position": "right",
+    "article_enable_sticky": true,
+    "account_show_header_button": true,
+    "account_popup_enable": true,
+    "account_popup_sign_up_info_page_content": "",
+    "account_popup_show_subscription": false,
+    "account_page_sing_up_page_content": "create-an-account",
+    "account_growave_social_login_enable": false,
+    "services_show_header_button": false,
+    "services_popup_enable": true,
+    "services_popup_page_content": "shipping-returns",
+    "javascript_loader_jquery_first": false,
+    "app_language": "links_list",
+    "app_language_link_list": "languages",
+    "button_border_radius": 0,
+    "input_border_radius": 0,
+    "promobox_image_border_radius": 0,
+    "promobox_format_pjpg": true,
+    "notification_cookies_enable": false,
+    "notification_cookies_button_information_link": "",
+    "notification_cookies_delay": 0,
+    "notification_cookies_show_once": false,
+    "notification_cookies_cookies_life": "1",
+    "notification_products_enable": true,
+    "notification_products_collection": "featured",
+    "notification_products_range_min": 2,
+    "notification_products_range_max": 20,
+    "notification_products_delay": 8,
+    "notification_products_interval_min": 10,
+    "notification_products_interval_max": 18,
+    "notification_products_time_life": 14,
+    "layout_enable_preloader": false,
+    "layout_preloader_image": "",
+    "layout_preloader_image_size": 100,
+    "layout_preloader_opacity": 0.8,
+    "promobox_animation_duration": 0.5,
+    "tooltips_enable": true,
+    "tooltips_animation_type": "scale",
+    "header_animation_sticky_opacity": 0.9,
+    "header_tape_animation_duration": 0,
+    "product_hover_animation_type": "fade",
+    "buttons_animation_icon_enable": true,
+    "dev_enable_custom_css": true,
+    "dev_enable_custom_js": true,
+    "dev_enable_content_for_header": true,
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "product_info_payments_type": "dark",
+    "wishlist_enable": true,
+    "compare_enable": true,
+    "payment_footer_sequence": "1,2,3,4,5,6,7,8,9",
+    "payment_product_sequence": "10,11,12,1,2,3,4,5,6,7,8,9",
+    "payment_icon_1_show": true,
+    "payment_icon_1_code": "",
+    "payment_icon_1_image": "",
+    "payment_icon_1_url": "",
+    "payment_icon_1_tooltip": "",
+    "payment_icon_2_show": true,
+    "payment_icon_2_code": "",
+    "payment_icon_2_image": "",
+    "payment_icon_2_url": "",
+    "payment_icon_2_tooltip": "",
+    "payment_icon_3_show": true,
+    "payment_icon_3_code": "",
+    "payment_icon_3_image": "",
+    "payment_icon_3_url": "",
+    "payment_icon_3_tooltip": "",
+    "payment_icon_4_show": true,
+    "payment_icon_4_code": "",
+    "payment_icon_4_image": "",
+    "payment_icon_4_url": "",
+    "payment_icon_4_tooltip": "",
+    "payment_icon_5_show": true,
+    "payment_icon_5_code": "",
+    "payment_icon_5_image": "",
+    "payment_icon_5_url": "",
+    "payment_icon_5_tooltip": "",
+    "payment_icon_6_show": true,
+    "payment_icon_6_code": "",
+    "payment_icon_6_image": "",
+    "payment_icon_6_url": "",
+    "payment_icon_6_tooltip": "",
+    "payment_icon_7_show": true,
+    "payment_icon_7_code": "",
+    "payment_icon_7_image": "",
+    "payment_icon_7_url": "",
+    "payment_icon_7_tooltip": "",
+    "payment_icon_8_show": true,
+    "payment_icon_8_code": "",
+    "payment_icon_8_image": "",
+    "payment_icon_8_url": "",
+    "payment_icon_8_tooltip": "",
+    "payment_icon_9_show": true,
+    "payment_icon_9_code": "",
+    "payment_icon_9_image": "",
+    "payment_icon_9_url": "",
+    "payment_icon_9_tooltip": "",
+    "payment_icon_10_show": true,
+    "payment_icon_10_code": "",
+    "payment_icon_10_image": "",
+    "payment_icon_10_url": "",
+    "payment_icon_10_tooltip": "",
+    "payment_icon_11_show": true,
+    "payment_icon_11_code": "",
+    "payment_icon_11_image": "",
+    "payment_icon_11_url": "",
+    "payment_icon_11_tooltip": "",
+    "payment_icon_12_show": true,
+    "payment_icon_12_code": "",
+    "payment_icon_12_image": "",
+    "payment_icon_12_url": "",
+    "payment_icon_12_tooltip": "",
+    "social_share_facebook": "#",
+    "social_share_twitter": "#",
+    "social_share_pinterest": "#",
+    "social_share_linkedin": "#",
+    "social_share_buffer": "#",
+    "social_share_reddit": "#",
+    "subscription_confirmation_popup_button_type": "1",
+    "product_info_show_free_shipping": true,
+    "show_free_shipping": true,
+    "social_google": "",
+    "sections": {
+      "product-variants": {
+        "type": "product-variants",
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "blocks": {
+          "854a06f2-d3b3-430f-9c26-8675e6aae1ba": {
+            "type": "tape",
+            "settings": {
+              "style": "1",
+              "content": "<small><b>SAME DAY SHIPPING CUT OFF TIME: 1PM PST ( 2PM MST, 3PM CST, 4PM EST )   ~BUSINESS HOURS: MON - FRI 8AM - 5PM PST~<\/b><\/small>"
+            }
+          },
+          "4223dea4-7aae-4dc3-95c3-70d0131693bf": {
+            "type": "info_line",
+            "settings": {
+              "style": "1",
+              "page_content": "",
+              "show_social_media": true,
+              "show_facebook": true,
+              "show_twitter": false,
+              "show_instagram": true,
+              "show_pinterest": true,
+              "show_youtube": true,
+              "show_behance": false,
+              "show_skype": false
+            }
+          }
+        },
+        "block_order": [
+          "854a06f2-d3b3-430f-9c26-8675e6aae1ba",
+          "4223dea4-7aae-4dc3-95c3-70d0131693bf"
+        ],
+        "settings": {
+          "type": "3",
+          "style": "3",
+          "menu": "",
+          "show_menu_arrows": true,
+          "show_menu_hover_underline": true,
+          "vertical_menu": "",
+          "fixed_vertical_menu": false,
+          "additional_line_info_page_content": "",
+          "sticky": "desktop_and_mobile",
+          "desktop_sticky_type": "slim"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "17593b72-0c0f-435d-8714-710389a4286c": {
+            "type": "social_media",
+            "settings": {
+              "title": "Follow us",
+              "show_facebook": true,
+              "show_twitter": true,
+              "show_instagram": true,
+              "show_pinterest": true,
+              "show_youtube": true,
+              "show_behance": false,
+              "show_skype": false
+            }
+          },
+          "5fb4d16d-dded-4306-a551-b2ad186062a2": {
+            "type": "menu",
+            "settings": {
+              "title": "",
+              "show_title_on_desktop": true,
+              "menu": "",
+              "size": 5,
+              "rows_limit": 0
+            }
+          },
+          "7ada4a8f-6fdf-4444-9f70-d64895f595ec": {
+            "type": "menu",
+            "settings": {
+              "title": "More",
+              "show_title_on_desktop": true,
+              "menu": "",
+              "size": 5,
+              "rows_limit": 0
+            }
+          }
+        },
+        "block_order": [
+          "17593b72-0c0f-435d-8714-710389a4286c",
+          "5fb4d16d-dded-4306-a551-b2ad186062a2",
+          "7ada4a8f-6fdf-4444-9f70-d64895f595ec"
+        ],
+        "settings": {
+          "type": "1",
+          "style": "1",
+          "show_logo": true,
+          "show_button_back_to_top": true,
+          "enable_fixed": true
+        }
+      },
+      "1586279708879": {
+        "type": "home-builder",
+        "blocks": {
+          "66f81e9e-7f62-430f-adf9-3cda613df81a": {
+            "type": "slick_slider",
+            "settings": {
+              "height": "preset_1",
+              "min_height": 0,
+              "size_of_column": "auto",
+              "arrows": false,
+              "bullets": true,
+              "speed": 7
+            }
+          },
+          "d8ffe1eb-85c8-41ff-81ce-5f664b25ed3e": {
+            "type": "slick_slide",
+            "disabled": true,
+            "settings": {
+              "url": "",
+              "image_size": 700,
+              "image_mobile_size": 200,
+              "image_position_x": 50,
+              "color_image_mask": "",
+              "image_mask_opacity": 0.5,
+              "text_line_1": "For Over 25 Years",
+              "text_line_2": "Stylist-Driven Innovators",
+              "text_line_3": "",
+              "style": "2",
+              "button_1": "Apply for Pro-Access",
+              "button_1_url": "https:\/\/www.haircompounds.com\/pages\/create-an-account?promo_name=banner_1&promo_id=1&promo_position=Top_banner",
+              "color_button_type_1": "secondary",
+              "button_2": "Button #2 text Shop Now",
+              "button_2_url": "",
+              "color_button_type_2": "default",
+              "custom_html": "",
+              "video_external_url": "",
+              "video_mp4_url": "",
+              "video_autoplay": false,
+              "video_controls": false,
+              "type": "type-1",
+              "content_position": "bottom_left",
+              "content_align": "center",
+              "add_container": false,
+              "content_width": 100,
+              "text_width": 0,
+              "animation_text": "none",
+              "customization_class": ""
+            }
+          },
+          "ad2b9799-914f-4106-a7a8-565b04542a5c": {
+            "type": "slick_slide",
+            "disabled": true,
+            "settings": {
+              "url": "",
+              "image_size": 700,
+              "image_mobile_size": 200,
+              "image_position_x": 50,
+              "color_image_mask": "rgba(0,0,0,0)",
+              "image_mask_opacity": 0.1,
+              "text_line_1": "<b>For Your Clients Imagination<\/b>",
+              "text_line_2": "Create Stunning Customized Looks",
+              "text_line_3": "Straight From Our Production House",
+              "style": "4",
+              "button_1": "Get Inspiration",
+              "button_1_url": "https:\/\/www.haircompounds.com\/pages\/how-to-custom-order-hair-extensions?promo_name=banner_2&promo_id=2&promo_position=Top_banner",
+              "color_button_type_1": "default",
+              "button_2": "Button #2 text",
+              "button_2_url": "",
+              "color_button_type_2": "default",
+              "custom_html": "",
+              "video_external_url": "",
+              "video_mp4_url": "",
+              "video_autoplay": false,
+              "video_controls": false,
+              "type": "type-1",
+              "content_position": "bottom_left",
+              "content_align": "center",
+              "add_container": false,
+              "content_width": 100,
+              "text_width": 0,
+              "animation_text": "scale-out",
+              "customization_class": ""
+            }
+          },
+          "1f24f8b9-f05b-45a9-932f-d18e4b81d886": {
+            "type": "slick_slide",
+            "settings": {
+              "url": "",
+              "image_size": 700,
+              "image_mobile_size": 200,
+              "image_position_x": 50,
+              "color_image_mask": "",
+              "image_mask_opacity": 0.5,
+              "text_line_1": "",
+              "text_line_2": "Real Hair, Real Textures",
+              "text_line_3": "",
+              "style": "5",
+              "button_1": "ALL INFORMATION BEGINS HERE",
+              "button_1_url": "shopify:\/\/pages\/explore",
+              "color_button_type_1": "clean",
+              "button_2": "Button #2 text",
+              "button_2_url": "",
+              "color_button_type_2": "default",
+              "custom_html": "",
+              "video_external_url": "",
+              "video_mp4_url": "",
+              "video_autoplay": true,
+              "video_controls": false,
+              "type": "type-1",
+              "content_position": "center",
+              "content_align": "center",
+              "add_container": false,
+              "content_width": 100,
+              "text_width": 0,
+              "animation_text": "none",
+              "customization_class": ""
+            }
+          }
+        },
+        "block_order": [
+          "66f81e9e-7f62-430f-adf9-3cda613df81a",
+          "d8ffe1eb-85c8-41ff-81ce-5f664b25ed3e",
+          "ad2b9799-914f-4106-a7a8-565b04542a5c",
+          "1f24f8b9-f05b-45a9-932f-d18e4b81d886"
+        ],
+        "settings": {
+          "title": "",
+          "container": "fullwidth",
+          "size_of_columns": "1",
+          "margins_for_columns": "none",
+          "align_of_columns": "center",
+          "disable_column_paddings": false,
+          "precedence": "",
+          "customization_class": ""
+        }
+      },
+      "1586280453180": {
+        "type": "home-builder",
+        "blocks": {
+          "1586280489479": {
+            "type": "promobox",
+            "settings": {
+              "url": "shopify:\/\/collections\/curly-hair",
+              "image_size": 400,
+              "image_mobile_size": 200,
+              "image_position_x": 50,
+              "color_image_mask": "",
+              "image_mask_opacity": 0.3,
+              "text_line_1": "NATURALLY CURLY",
+              "text_line_2": "",
+              "text_line_3": "Text line #3",
+              "style": "5",
+              "button_1": "",
+              "button_1_url": "",
+              "color_button_type_1": "clean",
+              "button_2": "Button #2 text",
+              "button_2_url": "",
+              "color_button_type_2": "default",
+              "list_1": "list-for-promobox",
+              "custom_html": "",
+              "video_external_url": "",
+              "video_mp4_url": "",
+              "video_autoplay": true,
+              "video_controls": false,
+              "type": "type-1-curtain-2",
+              "content_position": "center",
+              "content_align": "center",
+              "add_container": false,
+              "content_width": 100,
+              "text_width": 0,
+              "height": "auto",
+              "min_height": 0,
+              "size_of_column": "auto",
+              "visible": "desktop_mobile",
+              "parallax": "disable",
+              "animation_to": "center",
+              "animation_from": "none",
+              "animation_opacity": "none",
+              "animation_text": "none",
+              "customization_class": ""
+            }
+          },
+          "1586280492143": {
+            "type": "promobox",
+            "settings": {
+              "url": "shopify:\/\/collections\/extra-body-wave",
+              "image_size": 650,
+              "image_mobile_size": 200,
+              "image_position_x": 50,
+              "color_image_mask": "",
+              "image_mask_opacity": 0.5,
+              "text_line_1": "EXTRA BODY WAVE",
+              "text_line_2": "",
+              "text_line_3": "Text line #3",
+              "style": "5",
+              "button_1": "",
+              "button_1_url": "",
+              "color_button_type_1": "clean",
+              "button_2": "Button #2 text",
+              "button_2_url": "",
+              "color_button_type_2": "default-transparent",
+              "list_1": "include-promo-box-list-mens",
+              "custom_html": "",
+              "video_external_url": "",
+              "video_mp4_url": "",
+              "video_autoplay": true,
+              "video_controls": false,
+              "type": "type-1-curtain-2",
+              "content_position": "center",
+              "content_align": "center",
+              "add_container": false,
+              "content_width": 100,
+              "text_width": 0,
+              "height": "auto",
+              "min_height": 0,
+              "size_of_column": "auto",
+              "visible": "desktop_mobile",
+              "parallax": "disable",
+              "animation_to": "center",
+              "animation_from": "none",
+              "animation_opacity": "none",
+              "animation_text": "none",
+              "customization_class": ""
+            }
+          },
+          "1586280494368": {
+            "type": "promobox",
+            "settings": {
+              "url": "shopify:\/\/collections\/finish-layered",
+              "image_size": 400,
+              "image_mobile_size": 200,
+              "image_position_x": 50,
+              "color_image_mask": "",
+              "image_mask_opacity": 0.5,
+              "text_line_1": "LAYERED NATURAL WAVE",
+              "text_line_2": "",
+              "text_line_3": "Text line #3",
+              "style": "5",
+              "button_1": "",
+              "button_1_url": "",
+              "color_button_type_1": "clean",
+              "button_2": "Button #2 text",
+              "button_2_url": "",
+              "color_button_type_2": "default-transparent",
+              "list_1": "include-promo-box-list-accessories",
+              "custom_html": "",
+              "video_external_url": "",
+              "video_mp4_url": "",
+              "video_autoplay": true,
+              "video_controls": false,
+              "type": "type-1-curtain-2",
+              "content_position": "center",
+              "content_align": "center",
+              "add_container": false,
+              "content_width": 100,
+              "text_width": 0,
+              "height": "auto",
+              "min_height": 0,
+              "size_of_column": "auto",
+              "visible": "desktop_mobile",
+              "parallax": "disable",
+              "animation_to": "center",
+              "animation_from": "none",
+              "animation_opacity": "none",
+              "animation_text": "none",
+              "customization_class": ""
+            }
+          },
+          "6eaea413-3ab7-465b-8660-a417e03ebf6f": {
+            "type": "promobox",
+            "settings": {
+              "url": "shopify:\/\/collections\/finish-premium",
+              "image_size": 1450,
+              "image_mobile_size": 550,
+              "image_position_x": 50,
+              "color_image_mask": "",
+              "image_mask_opacity": 0.5,
+              "text_line_1": "PREMIUM NATURAL WAVE",
+              "text_line_2": "",
+              "text_line_3": "Text line #3",
+              "style": "5",
+              "button_1": "",
+              "button_1_url": "",
+              "color_button_type_1": "clean",
+              "button_2": "Button #2 text",
+              "button_2_url": "",
+              "color_button_type_2": "default-transparent",
+              "list_1": "",
+              "custom_html": "",
+              "video_external_url": "",
+              "video_mp4_url": "",
+              "video_autoplay": false,
+              "video_controls": false,
+              "type": "type-1-curtain-2",
+              "content_position": "center",
+              "content_align": "center",
+              "add_container": false,
+              "content_width": 100,
+              "text_width": 0,
+              "height": "auto",
+              "min_height": 0,
+              "size_of_column": "auto",
+              "visible": "desktop_mobile",
+              "parallax": "disable",
+              "animation_to": "center",
+              "animation_from": "none",
+              "animation_opacity": "none",
+              "animation_text": "none",
+              "customization_class": ""
+            }
+          }
+        },
+        "block_order": [
+          "1586280489479",
+          "1586280492143",
+          "1586280494368",
+          "6eaea413-3ab7-465b-8660-a417e03ebf6f"
+        ],
+        "settings": {
+          "title": "<p><strong>SELECT AND DESIGN BY TEXTURE AND FINISH<\/strong><\/p>",
+          "container": "fullwidth",
+          "size_of_columns": "4",
+          "margins_for_columns": "preset_1",
+          "align_of_columns": "top_center",
+          "disable_column_paddings": false,
+          "precedence": "",
+          "customization_class": ""
+        }
+      },
+      "1586282852274": {
+        "type": "spacer",
+        "settings": {
+          "margin_top": 20,
+          "margin_bottom": 0,
+          "margin_top_mobile": 10,
+          "margin_bottom_mobile": 0,
+          "container": "boxed",
+          "show_separator": false,
+          "title": ""
+        }
+      },
+      "1586283433745": {
+        "type": "carousel-brands",
+        "disabled": true,
+        "blocks": {
+          "1586283438841": {
+            "type": "brand",
+            "settings": {
+              "link": "\/collections\/all?q=vd_:calvin-klein"
+            }
+          },
+          "1586283440593": {
+            "type": "brand",
+            "settings": {
+              "link": "\/collections\/all?q=vd_:chanel"
+            }
+          }
+        },
+        "block_order": [
+          "1586283438841",
+          "1586283440593"
+        ],
+        "settings": {
+          "title": "",
+          "layout": "slider",
+          "size_of_columns": "6",
+          "image_max_width": 0,
+          "bordered_links": true,
+          "border_radius": "",
+          "autoplay": true,
+          "speed": 5,
+          "infinite": true,
+          "arrows": true,
+          "bullets": false
+        }
+      },
+      "1586284059940": {
+        "type": "home-builder",
+        "blocks": {
+          "1586284065628": {
+            "type": "instagram",
+            "settings": {
+              "user_name": "haircompounds",
+              "tag": "@haircompounds",
+              "show_post_details": true,
+              "limit": 12,
+              "size_of_images": "6",
+              "inner_disable_paddings": true,
+              "fixed_height": 100,
+              "disable_lazyload": false,
+              "size_of_column": "auto"
+            }
+          },
+          "1586284075152": {
+            "type": "instagram_block",
+            "settings": {
+              "image_size": 195,
+              "format_pjpg": true,
+              "disable_lazyload": false,
+              "url": "https:\/\/www.instagram.com\/p\/CGYpJ0SnBLv\/?utm_source=ig_web_copy_link",
+              "likes": "2708",
+              "comments": "26"
+            }
+          },
+          "1586284077419": {
+            "type": "instagram_block",
+            "settings": {
+              "image_size": 195,
+              "format_pjpg": true,
+              "disable_lazyload": false,
+              "url": "https:\/\/www.instagram.com\/p\/CCZvEGAnHd2\/?utm_source=ig_web_copy_link",
+              "likes": "90",
+              "comments": "21"
+            }
+          },
+          "1586284080852": {
+            "type": "instagram_block",
+            "settings": {
+              "image_size": 195,
+              "format_pjpg": true,
+              "disable_lazyload": false,
+              "url": "https:\/\/www.instagram.com\/p\/CIW07I4L6zj\/?utm_source=ig_web_copy_link",
+              "likes": "178",
+              "comments": "4"
+            }
+          },
+          "1586284083626": {
+            "type": "instagram_block",
+            "settings": {
+              "image_size": 195,
+              "format_pjpg": true,
+              "disable_lazyload": false,
+              "url": "https:\/\/www.instagram.com\/p\/CI4T7kcnPMm\/?utm_source=ig_web_copy_link",
+              "likes": "55",
+              "comments": "10"
+            }
+          },
+          "1586284086290": {
+            "type": "instagram_block",
+            "settings": {
+              "image_size": 195,
+              "format_pjpg": true,
+              "disable_lazyload": false,
+              "url": "https:\/\/www.instagram.com\/p\/CHrD9mArDz9\/?utm_source=ig_web_copy_link",
+              "likes": "200",
+              "comments": "14"
+            }
+          },
+          "1586284088787": {
+            "type": "instagram_block",
+            "settings": {
+              "image_size": 195,
+              "format_pjpg": true,
+              "disable_lazyload": false,
+              "url": "https:\/\/www.instagram.com\/p\/CD5M3oljiqs\/?utm_source=ig_web_copy_link",
+              "likes": "109",
+              "comments": "16"
+            }
+          },
+          "1586366161062": {
+            "type": "instagram_block",
+            "settings": {
+              "image_size": 195,
+              "format_pjpg": true,
+              "disable_lazyload": false,
+              "url": "https:\/\/www.instagram.com\/p\/CCUlgP0Ib2X\/?utm_source=ig_web_copy_link",
+              "likes": "164",
+              "comments": "10"
+            }
+          },
+          "1586366165951": {
+            "type": "instagram_block",
+            "settings": {
+              "image_size": 195,
+              "format_pjpg": true,
+              "disable_lazyload": false,
+              "url": "https:\/\/www.instagram.com\/p\/CDuwr5ylsF0\/?utm_source=ig_web_copy_link",
+              "likes": "86",
+              "comments": "6"
+            }
+          },
+          "1586366171436": {
+            "type": "instagram_block",
+            "settings": {
+              "image_size": 195,
+              "format_pjpg": true,
+              "disable_lazyload": false,
+              "url": "https:\/\/www.instagram.com\/p\/CDz7_N_IqLB\/?utm_source=ig_web_copy_link",
+              "likes": "124",
+              "comments": "5"
+            }
+          },
+          "1586366174420": {
+            "type": "instagram_block",
+            "settings": {
+              "image_size": 195,
+              "format_pjpg": true,
+              "disable_lazyload": false,
+              "url": "https:\/\/www.instagram.com\/p\/CEncH97Dm2-\/?utm_source=ig_web_copy_link",
+              "likes": "102",
+              "comments": "6"
+            }
+          },
+          "1586366163574": {
+            "type": "instagram_block",
+            "settings": {
+              "image_size": 195,
+              "format_pjpg": true,
+              "disable_lazyload": false,
+              "url": "https:\/\/www.instagram.com\/p\/CFI5iN6p8c3\/?utm_source=ig_web_copy_link",
+              "likes": "123",
+              "comments": "5"
+            }
+          },
+          "1586366177575": {
+            "type": "instagram_block",
+            "settings": {
+              "image_size": 195,
+              "format_pjpg": true,
+              "disable_lazyload": false,
+              "url": "https:\/\/www.instagram.com\/p\/CEDZIA5jKsG\/?utm_source=ig_web_copy_link",
+              "likes": "243",
+              "comments": "13"
+            }
+          }
+        },
+        "block_order": [
+          "1586284065628",
+          "1586284075152",
+          "1586284077419",
+          "1586284080852",
+          "1586284083626",
+          "1586284086290",
+          "1586284088787",
+          "1586366161062",
+          "1586366165951",
+          "1586366171436",
+          "1586366174420",
+          "1586366163574",
+          "1586366177575"
+        ],
+        "settings": {
+          "title": "<p>Follow us on IG <a href=\"https:\/\/www.instagram.com\/haircompounds\/\" title=\"@haircompounds\" target=\"_blank\">@haircompounds<\/a> <\/p>",
+          "container": "boxed",
+          "size_of_columns": "1",
+          "margins_for_columns": "none",
+          "align_of_columns": "top_center",
+          "disable_column_paddings": false,
+          "precedence": "",
+          "customization_class": ""
+        }
+      },
+      "collection-sidebar": {
+        "type": "collection-sidebar",
+        "blocks": {
+          "1530696013571": {
+            "type": "current_filters",
+            "settings": {
+              "title": "CURRENT FILTERS",
+              "default_state": "open",
+              "show_border": true
+            }
+          },
+          "1530696164711": {
+            "type": "collections",
+            "settings": {
+              "title": "APPLICATION",
+              "default_state": "open",
+              "show_border": true,
+              "menu": "application-type",
+              "collection_tags_select": "checkbox"
+            }
+          },
+          "1530696190431": {
+            "type": "filters",
+            "settings": {
+              "title": "TIP SIZE",
+              "default_state": "close",
+              "show_border": true,
+              "type": "tags",
+              "items": "Large|Small",
+              "show_all_from_collection": false,
+              "direction": "rows",
+              "max_column_size": 0,
+              "columns": "2",
+              "for_collections": ""
+            }
+          },
+          "1530696245149": {
+            "type": "filters",
+            "settings": {
+              "title": "LENGTH",
+              "default_state": "close",
+              "show_border": true,
+              "type": "tags",
+              "items": "14\"|16\"|18\"|20\"|22\"|",
+              "show_all_from_collection": false,
+              "direction": "rows",
+              "max_column_size": 8,
+              "columns": "3",
+              "for_collections": ""
+            }
+          },
+          "1573803477486": {
+            "type": "filters",
+            "settings": {
+              "title": "FINISH",
+              "default_state": "close",
+              "show_border": true,
+              "type": "tags",
+              "items": "Layered|Premium|Curly|EBW",
+              "show_all_from_collection": false,
+              "direction": "rows",
+              "max_column_size": 0,
+              "columns": "2",
+              "for_collections": ""
+            }
+          },
+          "53a72eb1-0a21-4dca-896e-c55a57484fc7": {
+            "type": "filters",
+            "disabled": true,
+            "settings": {
+              "title": "TEXTURE",
+              "default_state": "close",
+              "show_border": true,
+              "type": "tags",
+              "items": "Texture: Curly Hair|Texture: Extra Body Wave",
+              "show_all_from_collection": false,
+              "direction": "rows",
+              "max_column_size": 0,
+              "columns": "2",
+              "for_collections": ""
+            }
+          },
+          "3fb7f323-f1c3-4491-9ce7-88e3b9a790fc": {
+            "type": "custom_html",
+            "disabled": true,
+            "settings": {
+              "title": "COLOR CHART",
+              "default_state": "fixed",
+              "show_border": false,
+              "page_content": "our-hair-colors-2"
+            }
+          }
+        },
+        "block_order": [
+          "1530696013571",
+          "1530696164711",
+          "1530696190431",
+          "1530696245149",
+          "1573803477486",
+          "53a72eb1-0a21-4dca-896e-c55a57484fc7",
+          "3fb7f323-f1c3-4491-9ce7-88e3b9a790fc"
+        ],
+        "settings": {
+          "hide_blocks_without_filters": false
+        }
+      },
+      "collection-head": {
+        "type": "collection-head",
+        "blocks": {
+          "1586289313748": {
+            "type": "promobox",
+            "settings": {
+              "for_collection": "womens",
+              "url": "\/collections\/womens",
+              "image_size": 900,
+              "image_mobile_size": 900,
+              "image_position_x": 50,
+              "color_image_mask": "",
+              "image_mask_opacity": 0.5,
+              "text_line_1": "",
+              "text_line_2": "FINAL CLEARANCE",
+              "text_line_3": "Take 20% off ‘Sale Must-Haves'",
+              "style": "2",
+              "button_1": "",
+              "button_1_url": "",
+              "color_button_type_1": "default-transparent",
+              "button_2": "",
+              "button_2_url": "",
+              "color_button_type_2": "default-transparent",
+              "list_1": "",
+              "custom_html": "",
+              "video_external_url": "",
+              "video_mp4_url": "",
+              "video_autoplay": true,
+              "video_controls": false,
+              "type": "type-1-3",
+              "content_position": "center",
+              "content_align": "center",
+              "add_container": false,
+              "content_width": 100,
+              "text_width": 0,
+              "height": "auto",
+              "min_height": 0,
+              "size_of_column": "12",
+              "visible": "desktop_mobile",
+              "parallax": "disable",
+              "animation_to": "none",
+              "animation_from": "none",
+              "animation_opacity": "none",
+              "animation_text": "none",
+              "customization_class": ""
+            }
+          },
+          "1586289329527": {
+            "type": "promobox",
+            "settings": {
+              "for_collection": "mens",
+              "url": "\/collections\/mens",
+              "image_size": 900,
+              "image_mobile_size": 900,
+              "image_position_x": 50,
+              "color_image_mask": "",
+              "image_mask_opacity": 0.5,
+              "text_line_1": "NEW-SEASON ACCESSORIES",
+              "text_line_2": "Spring\/Summer 2019 Collection",
+              "text_line_3": "Text line #3",
+              "style": "3",
+              "button_1": "Button #1 text",
+              "button_1_url": "",
+              "color_button_type_1": "default-transparent",
+              "button_2": "Button #2 text",
+              "button_2_url": "",
+              "color_button_type_2": "default-transparent",
+              "list_1": "",
+              "custom_html": "",
+              "video_external_url": "",
+              "video_mp4_url": "",
+              "video_autoplay": true,
+              "video_controls": false,
+              "type": "type-3",
+              "content_position": "center",
+              "content_align": "center",
+              "add_container": false,
+              "content_width": 100,
+              "text_width": 0,
+              "height": "auto",
+              "min_height": 0,
+              "size_of_column": "8",
+              "visible": "desktop",
+              "parallax": "disable",
+              "animation_to": "none",
+              "animation_from": "none",
+              "animation_opacity": "none",
+              "animation_text": "none",
+              "customization_class": ""
+            }
+          },
+          "1586289339594": {
+            "type": "promobox",
+            "settings": {
+              "for_collection": "mens",
+              "url": "\/collections\/mens",
+              "image_size": 900,
+              "image_mobile_size": 900,
+              "image_position_x": 50,
+              "color_image_mask": "",
+              "image_mask_opacity": 0.5,
+              "text_line_1": "SPECIAL OFFERS",
+              "text_line_2": "Get up to 20% off",
+              "text_line_3": "Text line #3",
+              "style": "3",
+              "button_1": "Button #1 text",
+              "button_1_url": "",
+              "color_button_type_1": "default-transparent",
+              "button_2": "Button #2 text",
+              "button_2_url": "",
+              "color_button_type_2": "default-transparent",
+              "list_1": "",
+              "custom_html": "",
+              "video_external_url": "",
+              "video_mp4_url": "",
+              "video_autoplay": true,
+              "video_controls": false,
+              "type": "type-3",
+              "content_position": "center",
+              "content_align": "center",
+              "add_container": false,
+              "content_width": 100,
+              "text_width": 0,
+              "height": "auto",
+              "min_height": 0,
+              "size_of_column": "4",
+              "visible": "desktop",
+              "parallax": "disable",
+              "animation_to": "none",
+              "animation_from": "none",
+              "animation_opacity": "none",
+              "animation_text": "none",
+              "customization_class": ""
+            }
+          }
+        },
+        "block_order": [
+          "1586289313748",
+          "1586289329527",
+          "1586289339594"
+        ],
+        "settings": {
+          "default_desktop_title": "title",
+          "default_mobile_title": "title",
+          "margins_for_columns": "none"
+        }
+      },
+      "collection-body": {
+        "type": "collection-body",
+        "settings": {
+          "sort_by_visibility": "desktop",
+          "info_visibility": "desktop",
+          "view_length_visibility": "desktop",
+          "enable_view_length_6": true,
+          "enable_view_length_12": true,
+          "enable_view_length_18": true,
+          "enable_view_length_24": true,
+          "enable_view_length_48": false,
+          "default_view_length": "12",
+          "view_grid_visibility": "desktop_n_mobile",
+          "show_view_grid_1": true,
+          "show_view_grid_2": true,
+          "show_view_grid_3": true,
+          "show_view_grid_4": true,
+          "show_view_grid_list": true,
+          "view_grid_list_design": "1",
+          "enable_grid_tooltip": true,
+          "default_view_grid_xl": "3",
+          "default_view_grid_lg": "3",
+          "default_view_grid_md": "3",
+          "default_view_grid_sm": "2",
+          "default_view_grid_xs": "2"
+        }
+      },
+      "carousel-products": {
+        "type": "carousel-products",
+        "blocks": {
+          "fe7fe5d9-90a8-4df5-b9ca-660f42bfd97c": {
+            "type": "collection",
+            "settings": {
+              "title": "",
+              "collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "fe7fe5d9-90a8-4df5-b9ca-660f42bfd97c"
+        ],
+        "settings": {
+          "show_title": false,
+          "container": "boxed",
+          "size_of_columns": "4",
+          "max_count": 6,
+          "autoplay": true,
+          "speed": 5,
+          "infinite": true,
+          "arrows": true,
+          "bullets": true
+        }
+      },
+      "product": {
+        "type": "product",
+        "settings": {
+          "show_tabs": true,
+          "tabs_type": "tabs",
+          "show_tab_description": true,
+          "show_tab_reviews": false
+        }
+      },
+      "carousel-related-products": {
+        "type": "carousel-related-products",
+        "settings": {
+          "type": "related",
+          "title": "Related Products",
+          "size_of_columns": "4",
+          "max_count": 6,
+          "autoplay": true,
+          "speed": 5,
+          "infinite": true,
+          "arrows": true,
+          "bullets": true
+        }
+      },
+      "product-fixed-sizebar": {
+        "type": "product-fixed-sizebar",
+        "blocks": {
+          "1586291806417": {
+            "type": "text_line",
+            "settings": {
+              "icon": "",
+              "text": "",
+              "min_value": "200",
+              "max_value": "500"
+            }
+          },
+          "1586291808135": {
+            "type": "text_line",
+            "settings": {
+              "icon": "",
+              "text": "",
+              "min_value": "30",
+              "max_value": "100"
+            }
+          },
+          "1586291810188": {
+            "type": "text_line",
+            "settings": {
+              "icon": "",
+              "text": "",
+              "min_value": "100",
+              "max_value": "200"
+            }
+          }
+        },
+        "block_order": [
+          "1586291806417",
+          "1586291808135",
+          "1586291810188"
+        ],
+        "settings": {
+        }
+      },
+      "list-collections": {
+        "type": "list-collections",
+        "blocks": {
+          "6e95b7b0-ff85-4a27-8c80-59deb2b039f3": {
+            "type": "collection",
+            "settings": {
+              "for_collection": "",
+              "text_line_1": "",
+              "text_line_2": "",
+              "button_1": ""
+            }
+          },
+          "b6c423f8-9adc-4852-950e-4a84ebba9dac": {
+            "type": "collection",
+            "settings": {
+              "for_collection": "all-cylinder-hair-extensions",
+              "text_line_1": "",
+              "text_line_2": "",
+              "button_1": ""
+            }
+          },
+          "4bdf7d49-2c53-4c6d-be29-bc713686fe9f": {
+            "type": "collection",
+            "settings": {
+              "for_collection": "poly-hair-extensions",
+              "text_line_1": "",
+              "text_line_2": "",
+              "button_1": ""
+            }
+          },
+          "ee65b699-d00d-4e86-9573-c15fe1f4491f": {
+            "type": "collection",
+            "disabled": true,
+            "settings": {
+              "for_collection": "curly-hair",
+              "text_line_1": "",
+              "text_line_2": "",
+              "button_1": ""
+            }
+          },
+          "87341da4-ecab-4b47-8953-9bc423353939": {
+            "type": "collection",
+            "disabled": true,
+            "settings": {
+              "for_collection": "extra-body-wave",
+              "text_line_1": "",
+              "text_line_2": "",
+              "button_1": ""
+            }
+          },
+          "3ffcf9f3-a15e-4855-81eb-41cef226af38": {
+            "type": "collection",
+            "settings": {
+              "for_collection": "special-hair-extensions",
+              "image": "shopify:\/\/shop_images\/Untitled_design_41.png",
+              "text_line_1": "",
+              "text_line_2": "",
+              "button_1": ""
+            }
+          },
+          "14c26b8d-69b5-4c47-9a00-fb412d2aa165": {
+            "type": "collection",
+            "settings": {
+              "for_collection": "hand-tied-weft-extensions",
+              "text_line_1": "",
+              "text_line_2": "",
+              "button_1": ""
+            }
+          },
+          "d0aafdae-378e-449f-b8df-1ef7c37a0d95": {
+            "type": "collection",
+            "settings": {
+              "for_collection": "other-products",
+              "image": "shopify:\/\/shop_images\/swatchset.jpg",
+              "text_line_1": "",
+              "text_line_2": "",
+              "button_1": ""
+            }
+          },
+          "350dc0be-9e58-4d8f-b842-6a09372a0b8e": {
+            "type": "collection",
+            "settings": {
+              "for_collection": "all",
+              "text_line_1": "ALL Products",
+              "text_line_2": "",
+              "button_1": ""
+            }
+          },
+          "902affc8-904d-430c-b2db-6a9a728c5481": {
+            "type": "collection",
+            "settings": {
+              "for_collection": "",
+              "text_line_1": "",
+              "text_line_2": "",
+              "button_1": ""
+            }
+          }
+        },
+        "block_order": [
+          "6e95b7b0-ff85-4a27-8c80-59deb2b039f3",
+          "b6c423f8-9adc-4852-950e-4a84ebba9dac",
+          "4bdf7d49-2c53-4c6d-be29-bc713686fe9f",
+          "ee65b699-d00d-4e86-9573-c15fe1f4491f",
+          "87341da4-ecab-4b47-8953-9bc423353939",
+          "3ffcf9f3-a15e-4855-81eb-41cef226af38",
+          "14c26b8d-69b5-4c47-9a00-fb412d2aa165",
+          "d0aafdae-378e-449f-b8df-1ef7c37a0d95",
+          "350dc0be-9e58-4d8f-b842-6a09372a0b8e",
+          "902affc8-904d-430c-b2db-6a9a728c5481"
+        ],
+        "settings": {
+          "display_type": "selected",
+          "show_products_count": false,
+          "size_of_columns": "3",
+          "type": "list-collections-2",
+          "style": "0",
+          "masonry_enable": false,
+          "height": "auto",
+          "image_size": 400,
+          "format_pjpg": true,
+          "animation_to": "none",
+          "animation_from": "none",
+          "animation_opacity": "none"
+        }
+      },
+      "blog-sidebar": {
+        "type": "blog-sidebar",
+        "blocks": {
+          "a1a06c83-64e6-4dac-afaa-8fcfc87b8cfa": {
+            "type": "categories",
+            "settings": {
+              "title": "CATEGORIES",
+              "menu": "blogs",
+              "show_border": true
+            }
+          },
+          "750a9496-0cf5-47eb-ab91-b1427935761b": {
+            "type": "tags",
+            "disabled": true,
+            "settings": {
+              "title": "TAGS",
+              "show_border": true
+            }
+          },
+          "6f2f8a45-ad2d-4e48-85c6-64e8879988a3": {
+            "type": "recents",
+            "settings": {
+              "title": "RELATED POSTS",
+              "menu": "blogs",
+              "show_border": true
+            }
+          }
+        },
+        "block_order": [
+          "a1a06c83-64e6-4dac-afaa-8fcfc87b8cfa",
+          "750a9496-0cf5-47eb-ab91-b1427935761b",
+          "6f2f8a45-ad2d-4e48-85c6-64e8879988a3"
+        ],
+        "settings": {
+        }
+      },
+      "blog-body": {
+        "type": "blog-body",
+        "settings": {
+          "show_title": true,
+          "type": "6",
+          "masonry_enable": true,
+          "max_posts": 24,
+          "show_image": true,
+          "show_information": false,
+          "show_tags": false,
+          "show_content": true,
+          "show_button": true,
+          "show_comments": false,
+          "show_empty_comments": false,
+          "max_post_content_length": 30
+        }
+      },
+      "article-body": {
+        "type": "article-body",
+        "blocks": {
+          "1541433718854": {
+            "type": "slide",
+            "settings": {
+              "for_article": "news\/how-to-layer-sweaters-for-extra-warmth-style",
+              "title": "Collection 2019"
+            }
+          },
+          "1541433806550": {
+            "type": "slide",
+            "settings": {
+              "for_article": "news\/how-to-layer-sweaters-for-extra-warmth-style",
+              "title": "Sale 70% Off"
+            }
+          },
+          "1541434047934": {
+            "type": "slide",
+            "settings": {
+              "for_article": "news\/how-to-layer-sweaters-for-extra-warmth-style",
+              "title": "Title for image"
+            }
+          }
+        },
+        "block_order": [
+          "1541433718854",
+          "1541433806550",
+          "1541434047934"
+        ],
+        "settings": {
+          "show_information": true,
+          "show_image": true,
+          "show_content": true,
+          "show_tags": true,
+          "show_social_share_buttons": false,
+          "social_share_buttons_type": "1",
+          "show_navigation": true,
+          "show_comments": true,
+          "autoplay": true,
+          "speed": 5,
+          "infinite": true
+        }
+      },
+      "faqs": {
+        "type": "faqs",
+        "blocks": {
+          "1586292266168": {
+            "type": "section",
+            "settings": {
+              "question": "WHAT ARE SHIPPING TIMES AND COSTS?",
+              "page_content": "",
+              "answer": "",
+              "is_open": true
+            }
+          },
+          "1586292269155": {
+            "type": "section",
+            "settings": {
+              "question": "WHAT PAYMENT METHODS CAN I USE?",
+              "page_content": "",
+              "answer": "",
+              "is_open": true
+            }
+          },
+          "1586292270787": {
+            "type": "section",
+            "settings": {
+              "question": "WHAT IS YOUR EXCHANGES, RETURNS AND REFUNDS POLICY?",
+              "page_content": "",
+              "answer": "",
+              "is_open": true
+            }
+          }
+        },
+        "block_order": [
+          "1586292266168",
+          "1586292269155",
+          "1586292270787"
+        ],
+        "settings": {
+        }
+      },
+      "contact-map": {
+        "type": "contact-map",
+        "settings": {
+          "code": "<iframe width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" src=\"https:\/\/www.google.com\/maps\/embed\/v1\/place?key=AIzaSyBwY_0PWuwH_A5y4iwNAqpaUbUjRPySkFc%0A%20%20%20%20&q=7563%20St.%20Vicent%20Place,%20Glasgow\" allowfullscreen=\"\"><\/iframe>"
+        }
+      },
+      "gallery": {
+        "type": "gallery",
+        "blocks": {
+          "1538751452219": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_40f41c4c-8f4e-4ffb-8d8d-08c9c17f44a5.jpg",
+              "image_size": 1000,
+              "text_line_01": "11A\/12B Blend",
+              "text_line_02": "50% 11 Ash, 50% 12 Bleach side by side"
+            }
+          },
+          "1538751410356": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_8abc56da-8bef-4089-adbd-a49805ce8334.jpg",
+              "image_size": 1000,
+              "text_line_01": "10B\/12B Blend",
+              "text_line_02": "50% 10 Bleach, 50% 12 Bleach side by side"
+            }
+          },
+          "1538751390330": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_54c2f51d-affe-417d-839d-7eedbce12267.jpg",
+              "image_size": 1000,
+              "text_line_01": "9A\/11A Blend",
+              "text_line_02": "50% 9 Ash, 50% 11 Ash side by side"
+            }
+          },
+          "1538751381554": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_59b39121-e6ab-4dd1-af1c-d155326ae282.jpg",
+              "image_size": 1000,
+              "text_line_01": "8N\/11A Blend",
+              "text_line_02": "50% 8 Natural, 50% 11 Ash side by side"
+            }
+          },
+          "1538751341984": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_18db8c4a-c700-4a81-85d4-f128ad57d286.jpg",
+              "image_size": 1000,
+              "text_line_01": "7G\/10N Blend",
+              "text_line_02": "50% 7 Gold, 50% 10 Natural side by side (AVAILABLE IN CURLY)"
+            }
+          },
+          "1538750989796": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_bed4cafe-895b-4032-874b-974864aaf55e.jpg",
+              "image_size": 1000,
+              "text_line_01": "6N\/9N Blend",
+              "text_line_02": "50% 6 Natural, 50% 9 Natural side by side (AVAILABLE IN CURLY)"
+            }
+          },
+          "d512514d-bc48-4a4e-b68e-f958763fe84e": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_31960931-9671-47af-9094-d683cb6c79a2.jpg",
+              "image_size": 1000,
+              "text_line_01": "7A\/11A Rooted",
+              "text_line_02": "1-2\" Root 7 Ash fading down 4-6\" to 11 Ash"
+            }
+          },
+          "00d7663d-7f74-47c0-986b-6e80c4de923c": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_5241c83f-ae81-4d47-bdea-3faa065f221e.jpg",
+              "image_size": 1000,
+              "text_line_01": "7N\/11B Rooted",
+              "text_line_02": "1-2\" Root 7 Natural fading down 4-6\" to 11 Bleach"
+            }
+          },
+          "2ecd38ca-a661-4dfa-be31-830a2f1dedde": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_8651bb44-931d-4e61-bb6b-e5df362c3ed8.jpg",
+              "image_size": 1000,
+              "text_line_01": "6N\/10N Rooted",
+              "text_line_02": "1-2\" Root 6 Natural fading down 4-6\" to 10 Natural"
+            }
+          },
+          "9299ebf7-087e-4d1a-86d3-b80a59cd888e": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_30211ca7-af6f-4e91-9b94-6f231106ec30.jpg",
+              "image_size": 1000,
+              "text_line_01": "4N\/7G Rooted",
+              "text_line_02": "1-2\" Root 4 Natural fading down 4-6\" to 7 Gold (AVAILABLE IN CURLY)"
+            }
+          },
+          "56fa517d-e2e7-4132-8bed-57f0eef887c0": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_93f3f5c8-9451-45bf-abc9-ebd111b0520b.jpg",
+              "image_size": 1000,
+              "text_line_01": "2N\/4B Rooted",
+              "text_line_02": "1-2\" Root 2 Natural fading down 4-6\" to 4 Bleach (AVAILABLE IN CURLY)"
+            }
+          },
+          "7c5de567-d87b-468e-9c0f-769cae01e1b7": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_bd4649d6-c14f-4905-8dae-537a10ab2856.jpg",
+              "image_size": 1000,
+              "text_line_01": "12B",
+              "text_line_02": "Level 12 Bleach Blonde"
+            }
+          },
+          "fbca9451-661c-4cd9-9484-7e42040774de": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_a11a57ee-8f39-40b5-b732-a7e3c3fd71e5.jpg",
+              "image_size": 1000,
+              "text_line_01": "12N",
+              "text_line_02": "Level 12 Natural Blonde"
+            }
+          },
+          "576dc78b-a051-44eb-9ec3-a3febebe7c6e": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_a38808ac-2a53-405c-8345-bc700e479dd0.jpg",
+              "image_size": 1000,
+              "text_line_01": "11B",
+              "text_line_02": "Level 11 Bleach Blonde"
+            }
+          },
+          "1fa44278-2679-4b62-a396-7f9d39049750": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_ff4b2e68-dbe2-456f-b64e-4f6522b5e6e1.jpg",
+              "image_size": 1000,
+              "text_line_01": "11A",
+              "text_line_02": "Level 11 Ash Blonde"
+            }
+          },
+          "9912b327-0c47-42de-9cac-5e7633f0edcb": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_1bcb297f-7e56-4da4-b1bf-781f8f747a22.jpg",
+              "image_size": 1000,
+              "text_line_01": "10N",
+              "text_line_02": "Level 10 Natural Blonde"
+            }
+          },
+          "c57321ea-4ff4-4b0b-b4b8-3c8b19403945": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_5dffd66d-e550-4f67-bee9-adb1bf6786eb.jpg",
+              "image_size": 1000,
+              "text_line_01": "10B",
+              "text_line_02": "Level 10 Bleach Blonde (AVAILABLE IN CURLY)"
+            }
+          },
+          "7f450193-1946-431d-8d83-cad114886e25": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_ac62845d-4af2-4e28-853c-44d26b5a646d.jpg",
+              "image_size": 1000,
+              "text_line_01": "9N",
+              "text_line_02": "Level 9 Natural Blonde"
+            }
+          },
+          "43bfbc1b-d80e-466f-aa04-e0fc02f81f39": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_374dc0a5-e391-4ce6-b469-6ef57e4b12e6.jpg",
+              "image_size": 1000,
+              "text_line_01": "9B",
+              "text_line_02": "Level 9 Bleach Blonde"
+            }
+          },
+          "57bbe4d5-dc86-4a4e-87da-f023ffce5e85": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_2772aaf0-6e7e-4f25-adc0-0b06303d2c4a.jpg",
+              "image_size": 1000,
+              "text_line_01": "9A",
+              "text_line_02": "Level 9 Ash Blonde"
+            }
+          },
+          "64e90551-2118-4a24-bf02-f22323b289e3": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_bdd8ab20-5d7f-4bf7-888f-9d11104a3266.jpg",
+              "image_size": 1000,
+              "text_line_01": "8N",
+              "text_line_02": "Level 8 Natural Blonde"
+            }
+          },
+          "f62799fe-f5d8-427d-b572-9176dd4ea319": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_162ec538-1897-460e-96e2-5d2148e85c5c.jpg",
+              "image_size": 1000,
+              "text_line_01": "8B",
+              "text_line_02": "Level 8 Bleach Dark Copper Blonde"
+            }
+          },
+          "6c8a7bb1-09df-489e-983a-939746b9ed43": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_b8581f24-c79c-4c2e-ab10-ce7d68cb3aa9.jpg",
+              "image_size": 1000,
+              "text_line_01": "8A",
+              "text_line_02": "Level 8 Ash Blonde"
+            }
+          },
+          "9f9ede6a-b0f0-4d73-9d85-8637d9566f59": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/7red_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "7R",
+              "text_line_02": "Level 7 Light Copper Red"
+            }
+          },
+          "a09dfabc-747d-45ec-a96d-ae01455f0f22": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/7n_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "7N",
+              "text_line_02": "Level 7 Natural Dark Blonde"
+            }
+          },
+          "a6e0562a-36e4-41b7-8c7c-63bb06d87fc3": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_9b6cf79f-8bff-452f-95ed-68c0ea3e4012.jpg",
+              "image_size": 1000,
+              "text_line_01": "7G",
+              "text_line_02": "Level 7 Gold Dark Blonde"
+            }
+          },
+          "f32521dd-5deb-48cd-bdb8-457298627652": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/7ash_ress_2.jpg",
+              "image_size": 1000,
+              "text_line_01": "7A",
+              "text_line_02": "Level 7 Ash Dark Blonde"
+            }
+          },
+          "330cfe66-9953-4a3c-94ad-2e402e156324": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/6_red_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "6R",
+              "text_line_02": "Level 6 Copper Chestnut Red (AVAILABLE IN CURLY)"
+            }
+          },
+          "df8de878-9465-4a5d-a511-b6f97cabd812": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/6n_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "6N",
+              "text_line_02": "Level 6 Natural Light Brown"
+            }
+          },
+          "f22c9a65-c7f9-4196-8389-a8793e96d5e7": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/6ash_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "6A",
+              "text_line_02": "Level 6 Ash Light Brown"
+            }
+          },
+          "adcb71f7-b0f0-419d-a767-00e63607a20e": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/5_red_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "5R",
+              "text_line_02": "Level 5 Cherry Red (AVAILABLE IN CURLY)"
+            }
+          },
+          "e26e07ac-7d2c-4b0c-90a9-d6d415b472e9": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/5n_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "5N",
+              "text_line_02": "Level 5 Natural Brown (AVAILABLE IN CURLY)"
+            }
+          },
+          "4cdabf34-772b-408a-809c-fc03d618252d": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/5ash_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "5A",
+              "text_line_02": "Level 5 Ash Brown"
+            }
+          },
+          "89d54581-0ba3-4d12-a28d-ff0694002a71": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/4red_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "4R",
+              "text_line_02": "Level 4 Auburn Red Brown"
+            }
+          },
+          "f0f615ba-e75c-45d4-9361-0a9513b70d93": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/4n_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "4N",
+              "text_line_02": "Level 4 Natural Chocolate Brown (AVAILABLE IN CURLY)"
+            }
+          },
+          "a52e0b16-d7a8-4ee7-9a2b-e40f5d514b0e": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/4bres.jpg",
+              "image_size": 1000,
+              "text_line_01": "4B",
+              "text_line_02": "Level 4 Warm Medium Brown"
+            }
+          },
+          "e044086a-5a94-4b6d-bdd2-b4c84acd5ba0": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/4ash_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "4A",
+              "text_line_02": "Level 4 Ash Brown"
+            }
+          },
+          "5f596ae8-5b4e-42fe-b535-942344c5ed45": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/3_red_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "3R",
+              "text_line_02": "Level 3 Burgundy Red"
+            }
+          },
+          "549b9268-85e8-46f3-9a94-48d6e54106a3": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/3b_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "3B",
+              "text_line_02": "Level 3 Warm Brown (AVAILABLE IN CURLY)"
+            }
+          },
+          "6448a245-5887-4dfe-a243-6cc06052b1fd": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/3ash_re.jpg",
+              "image_size": 1000,
+              "text_line_01": "3A",
+              "text_line_02": "Level 3 Ash Brown"
+            }
+          },
+          "73914cf8-cb8f-4c3e-8226-31c823a18a27": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/2res_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "2R",
+              "text_line_02": "Level 2 Ruby Red"
+            }
+          },
+          "d8df6952-5476-4cf9-8e76-63bb9f426752": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/2n_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "2N",
+              "text_line_02": "Level 2 Natural Brown (AVAILABLE IN CURLY)"
+            }
+          },
+          "d575874f-b72e-40e1-9fd8-7ef7f9254204": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/2ash_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "2A",
+              "text_line_02": "Level 2 Ash Brown (AVAILABLE IN CURLY)"
+            }
+          },
+          "ae1b39e5-a934-4246-ba3c-7a33295cec58": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/1n_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "1N",
+              "text_line_02": "Level 1 Natural Black (AVAILABLE IN CURLY)"
+            }
+          },
+          "aa1e606a-feaa-485f-bb9f-2f46ec435dbc": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/custom_resized_0a6f4f64-3501-47a8-8b70-65329803a532_1.jpg",
+              "image_size": 1000,
+              "text_line_01": "Grey\/White",
+              "text_line_02": "Special Batch"
+            }
+          },
+          "f046ce1e-22ff-4f6e-b575-66599d13b974": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/1_Natural_Curlyyy.png",
+              "image_size": 500,
+              "text_line_01": "1 Natural Curly",
+              "text_line_02": "Level 1 Natural Black"
+            }
+          },
+          "6bd34f96-e26d-465e-a4e7-2a8b8a6ec2f1": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/2_Ash_Curly_resize.png",
+              "image_size": 500,
+              "text_line_01": "2 Ash Curly",
+              "text_line_02": "Level 2 Ash Brown"
+            }
+          },
+          "2f1453f8-5a17-4de8-af4c-23769cc87d3c": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/2_Natural_curly_resize.png",
+              "image_size": 500,
+              "text_line_01": "2 Natural Curly",
+              "text_line_02": "Level 2 Natural Brown"
+            }
+          },
+          "8f730862-3093-4bb8-8693-a71e69019b5d": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/2N4B_curly_resiz.png",
+              "image_size": 500,
+              "text_line_01": "2N\/4B Rooted Curly",
+              "text_line_02": "1-2\" Root 2 Natural fading down 4-6\" to 4 Bleach"
+            }
+          },
+          "400bc1f8-2a95-4a8a-8a69-fd0a8c99b42f": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/3_Ash_Curly_res.png",
+              "image_size": 500,
+              "text_line_01": "3 Ash Curly",
+              "text_line_02": "Level 3 Ash Brown"
+            }
+          },
+          "fa264de8-95c2-4643-be3c-786db868b2ba": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/3_Bleach_Curly_resiz.png",
+              "image_size": 500,
+              "text_line_01": "3 Bleach Curly",
+              "text_line_02": "Level 3 Warm Brown"
+            }
+          },
+          "1bd55fb8-e4bd-43cd-8fc3-1476129ead72": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/4_Ash_Curly_res.png",
+              "image_size": 500,
+              "text_line_01": "4 Ash Curly",
+              "text_line_02": "Level 4 Ash Brown"
+            }
+          },
+          "ae609f42-8968-4097-9f80-bb5383030c7e": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/4_Bleach_curly_res.png",
+              "image_size": 500,
+              "text_line_01": "4 Bleach Curly",
+              "text_line_02": "Level 4 Warm Medium Brown"
+            }
+          },
+          "a800591a-7771-43e6-9a0a-4fccdb13bd8d": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/4_nat_res_res.png",
+              "image_size": 500,
+              "text_line_01": "4 Natural Curly",
+              "text_line_02": "Level 4 Natural Chocolate Brown"
+            }
+          },
+          "919c081f-7a45-4f3c-9021-2b94f792df06": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/4n_7g_res.png",
+              "image_size": 500,
+              "text_line_01": "4N\/7G Rooted Curly",
+              "text_line_02": "1-2\" Root 4 Natural fading down 4-6\" to 7 Gold"
+            }
+          },
+          "c9e23e30-8620-4842-9d14-f9bb27e8834a": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/5_Ash_Curly_res.png",
+              "image_size": 500,
+              "text_line_01": "5 Ash Curly",
+              "text_line_02": "Level 5 Ash Brown"
+            }
+          },
+          "aa57e122-8aa3-4107-a860-7a5d8e920f19": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/5_Natural_res.png",
+              "image_size": 500,
+              "text_line_01": "5 Natural Curly",
+              "text_line_02": "Level 5 Natural Brown"
+            }
+          },
+          "d6aff554-4943-46e5-a842-0195a07b1fea": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/5_Red_Curly_res.png",
+              "image_size": 500,
+              "text_line_01": "5 Red Curly",
+              "text_line_02": "Level 5 Cherry Red"
+            }
+          },
+          "61b79e4c-c6b1-43b5-94d0-a12371219682": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/6_Ash_Curly.png",
+              "image_size": 500,
+              "text_line_01": "6 Ash Curly",
+              "text_line_02": "Level 6 Ash Light Brown"
+            }
+          },
+          "6bf42d5b-8085-49d5-bd74-bdfee896c6da": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/6_Natural_Curly_res.png",
+              "image_size": 500,
+              "text_line_01": "6 Natural Curly",
+              "text_line_02": "Level 6 Natural Light Brown"
+            }
+          },
+          "b45d0989-fdd0-4495-93be-58d0740a9294": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/6_red_resize_curly.png",
+              "image_size": 500,
+              "text_line_01": "6 Red Curly",
+              "text_line_02": "Level 6 Copper Chestnut Red"
+            }
+          },
+          "ef250e61-23da-4fa8-9ea0-cc162357c033": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/6n9n_blend_mx_es.png",
+              "image_size": 500,
+              "text_line_01": "6N\/9N Blend Curly",
+              "text_line_02": "50% 6 Natural, 50% 9 Natural side by side"
+            }
+          },
+          "2f271921-8842-46c6-8ad7-b7a3afd90a7f": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/6N_10N_ombre_curlt_res.png",
+              "image_size": 500,
+              "text_line_01": "6N\/10N Rooted Curly",
+              "text_line_02": "1-2\" Root 6 Natural fading down 4-6\" to 10 Natural"
+            }
+          },
+          "218e3471-bec7-462a-9755-455d8f92176a": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/7_Ash_curly_re.png",
+              "image_size": 500,
+              "text_line_01": "7 Ash Curly",
+              "text_line_02": "Level 7 Ash Dark Blonde"
+            }
+          },
+          "9952a9dc-8f0b-485f-9487-c2e1d8194ed3": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/7G_10_N_ombre_res.png",
+              "image_size": 500,
+              "text_line_01": "7G\/10N Blend Curly",
+              "text_line_02": "50% 7 Gold, 50% 10 Natural side by side"
+            }
+          },
+          "36da32b4-2d5e-48c2-b57a-a185775aaea8": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/7_G_resize.png",
+              "image_size": 500,
+              "text_line_01": "7 Gold Curly",
+              "text_line_02": "Level 7 Gold Dark Blonde"
+            }
+          },
+          "684770b9-0180-4112-8f11-31a5d84923de": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/7_Natural_res.png",
+              "image_size": 500,
+              "text_line_01": "7 Natural Curly",
+              "text_line_02": "Level 7 Natural Dark Blonde"
+            }
+          },
+          "a86dfc5a-6570-44ff-834e-0d8f000e128a": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/8_Ash_curly_res.png",
+              "image_size": 500,
+              "text_line_01": "8 Ash Curly",
+              "text_line_02": "Level 8 Ash Blonde"
+            }
+          },
+          "f167ac10-0895-4857-ab19-5cb7c507ec96": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/8_Bleach_curly_res.png",
+              "image_size": 500,
+              "text_line_01": "8 Bleach Curly",
+              "text_line_02": "Level 8 Bleach Dark Copper Blonde"
+            }
+          },
+          "e0c12a11-489f-4c93-a08b-8b79487da802": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/8_natural_res.png",
+              "image_size": 500,
+              "text_line_01": "8 Natural Color",
+              "text_line_02": "Level 8 Natural Blonde"
+            }
+          },
+          "1db459aa-1b38-435a-b9d1-b10ecdc86de4": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/9_Ash_res.png",
+              "image_size": 500,
+              "text_line_01": "9 Ash Curly",
+              "text_line_02": "Level 9 Ash Blonde"
+            }
+          },
+          "5380d3bf-c326-43a8-aa55-fab303e35980": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/9_Bleach_Curl_res.png",
+              "image_size": 500,
+              "text_line_01": "9 Bleach Curly",
+              "text_line_02": "Level 9 Bleach Blonde"
+            }
+          },
+          "66e5841b-ab53-41de-981e-a975ea869aeb": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/9_natu_ral_res.png",
+              "image_size": 500,
+              "text_line_01": "9 Natural Curly",
+              "text_line_02": "Level 9 Natural Blonde"
+            }
+          },
+          "37d0211e-1bfe-45b5-bcc3-644443aa1f41": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/9a10b_curly_only_res.jpg",
+              "image_size": 1000,
+              "text_line_01": "9A\/10B Blend Curly",
+              "text_line_02": "50% 9 Ash, 50% 10 Bleach side by side"
+            }
+          },
+          "ee84f2de-125b-428a-ba60-a871ed27242d": {
+            "type": "item",
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/10_bleach_blonde_res.png",
+              "image_size": 500,
+              "text_line_01": "10 Bleach Curly",
+              "text_line_02": "Level 10 Bleach Blonde"
+            }
+          },
+          "11abdb34-8079-4ec9-a72f-bae8694f9ae8": {
+            "type": "item",
+            "disabled": true,
+            "settings": {
+              "page_name": "",
+              "grid": 2,
+              "image": "shopify:\/\/shop_images\/Curly_Color_chart_resiz_2.png",
+              "image_size": 500,
+              "text_line_01": "Grey White Curly",
+              "text_line_02": ""
+            }
+          }
+        },
+        "block_order": [
+          "1538751452219",
+          "1538751410356",
+          "1538751390330",
+          "1538751381554",
+          "1538751341984",
+          "1538750989796",
+          "d512514d-bc48-4a4e-b68e-f958763fe84e",
+          "00d7663d-7f74-47c0-986b-6e80c4de923c",
+          "2ecd38ca-a661-4dfa-be31-830a2f1dedde",
+          "9299ebf7-087e-4d1a-86d3-b80a59cd888e",
+          "56fa517d-e2e7-4132-8bed-57f0eef887c0",
+          "7c5de567-d87b-468e-9c0f-769cae01e1b7",
+          "fbca9451-661c-4cd9-9484-7e42040774de",
+          "576dc78b-a051-44eb-9ec3-a3febebe7c6e",
+          "1fa44278-2679-4b62-a396-7f9d39049750",
+          "9912b327-0c47-42de-9cac-5e7633f0edcb",
+          "c57321ea-4ff4-4b0b-b4b8-3c8b19403945",
+          "7f450193-1946-431d-8d83-cad114886e25",
+          "43bfbc1b-d80e-466f-aa04-e0fc02f81f39",
+          "57bbe4d5-dc86-4a4e-87da-f023ffce5e85",
+          "64e90551-2118-4a24-bf02-f22323b289e3",
+          "f62799fe-f5d8-427d-b572-9176dd4ea319",
+          "6c8a7bb1-09df-489e-983a-939746b9ed43",
+          "9f9ede6a-b0f0-4d73-9d85-8637d9566f59",
+          "a09dfabc-747d-45ec-a96d-ae01455f0f22",
+          "a6e0562a-36e4-41b7-8c7c-63bb06d87fc3",
+          "f32521dd-5deb-48cd-bdb8-457298627652",
+          "330cfe66-9953-4a3c-94ad-2e402e156324",
+          "df8de878-9465-4a5d-a511-b6f97cabd812",
+          "f22c9a65-c7f9-4196-8389-a8793e96d5e7",
+          "adcb71f7-b0f0-419d-a767-00e63607a20e",
+          "e26e07ac-7d2c-4b0c-90a9-d6d415b472e9",
+          "4cdabf34-772b-408a-809c-fc03d618252d",
+          "89d54581-0ba3-4d12-a28d-ff0694002a71",
+          "f0f615ba-e75c-45d4-9361-0a9513b70d93",
+          "a52e0b16-d7a8-4ee7-9a2b-e40f5d514b0e",
+          "e044086a-5a94-4b6d-bdd2-b4c84acd5ba0",
+          "5f596ae8-5b4e-42fe-b535-942344c5ed45",
+          "549b9268-85e8-46f3-9a94-48d6e54106a3",
+          "6448a245-5887-4dfe-a243-6cc06052b1fd",
+          "73914cf8-cb8f-4c3e-8226-31c823a18a27",
+          "d8df6952-5476-4cf9-8e76-63bb9f426752",
+          "d575874f-b72e-40e1-9fd8-7ef7f9254204",
+          "ae1b39e5-a934-4246-ba3c-7a33295cec58",
+          "aa1e606a-feaa-485f-bb9f-2f46ec435dbc",
+          "f046ce1e-22ff-4f6e-b575-66599d13b974",
+          "6bd34f96-e26d-465e-a4e7-2a8b8a6ec2f1",
+          "2f1453f8-5a17-4de8-af4c-23769cc87d3c",
+          "8f730862-3093-4bb8-8693-a71e69019b5d",
+          "400bc1f8-2a95-4a8a-8a69-fd0a8c99b42f",
+          "fa264de8-95c2-4643-be3c-786db868b2ba",
+          "1bd55fb8-e4bd-43cd-8fc3-1476129ead72",
+          "ae609f42-8968-4097-9f80-bb5383030c7e",
+          "a800591a-7771-43e6-9a0a-4fccdb13bd8d",
+          "919c081f-7a45-4f3c-9021-2b94f792df06",
+          "c9e23e30-8620-4842-9d14-f9bb27e8834a",
+          "aa57e122-8aa3-4107-a860-7a5d8e920f19",
+          "d6aff554-4943-46e5-a842-0195a07b1fea",
+          "61b79e4c-c6b1-43b5-94d0-a12371219682",
+          "6bf42d5b-8085-49d5-bd74-bdfee896c6da",
+          "b45d0989-fdd0-4495-93be-58d0740a9294",
+          "ef250e61-23da-4fa8-9ea0-cc162357c033",
+          "2f271921-8842-46c6-8ad7-b7a3afd90a7f",
+          "218e3471-bec7-462a-9755-455d8f92176a",
+          "9952a9dc-8f0b-485f-9487-c2e1d8194ed3",
+          "36da32b4-2d5e-48c2-b57a-a185775aaea8",
+          "684770b9-0180-4112-8f11-31a5d84923de",
+          "a86dfc5a-6570-44ff-834e-0d8f000e128a",
+          "f167ac10-0895-4857-ab19-5cb7c507ec96",
+          "e0c12a11-489f-4c93-a08b-8b79487da802",
+          "1db459aa-1b38-435a-b9d1-b10ecdc86de4",
+          "5380d3bf-c326-43a8-aa55-fab303e35980",
+          "66e5841b-ab53-41de-981e-a975ea869aeb",
+          "37d0211e-1bfe-45b5-bcc3-644443aa1f41",
+          "ee84f2de-125b-428a-ba60-a871ed27242d",
+          "11abdb34-8079-4ec9-a72f-bae8694f9ae8"
+        ],
+        "settings": {
+          "container": "fullwidth",
+          "masonry_enable": true
+        }
+      },
+      "home-builder": {
+        "type": "home-builder",
+        "settings": {
+          "title": "",
+          "container": "boxed",
+          "size_of_columns": "1",
+          "margins_for_columns": "none",
+          "align_of_columns": "top_center",
+          "disable_column_paddings": false,
+          "precedence": "",
+          "customization_class": ""
+        }
+      },
+      "lookbook": {
+        "type": "lookbook",
+        "blocks": {
+          "1542384287656": {
+            "type": "image",
+            "settings": {
+              "page_name": "",
+              "name": "Image #1",
+              "image": "shopify:\/\/shop_images\/1937547927_2_3_1.jpg"
+            }
+          },
+          "1542384329087": {
+            "type": "product",
+            "settings": {
+              "for_name": "Image #1",
+              "product": "copy-of-floppy-hat",
+              "horizontal_position": 60,
+              "vertical_position": 42
+            }
+          },
+          "1542384456250": {
+            "type": "product",
+            "settings": {
+              "for_name": "Image #1",
+              "product": "copy-of-cotton-off-the-shoulder-tee",
+              "horizontal_position": 28,
+              "vertical_position": 80
+            }
+          },
+          "1542384593282": {
+            "type": "image",
+            "settings": {
+              "page_name": "",
+              "name": "Image #2",
+              "image": "shopify:\/\/shop_images\/2605987800_1_1_1.jpg"
+            }
+          },
+          "1542385389127": {
+            "type": "product",
+            "settings": {
+              "for_name": "Image #2",
+              "product": "meizu-usb-type-c-metal-data-cable",
+              "horizontal_position": 57,
+              "vertical_position": 23
+            }
+          },
+          "1542385469823": {
+            "type": "product",
+            "settings": {
+              "for_name": "Image #2",
+              "product": "copy-of-cotton-off-the-shoulder-tee",
+              "horizontal_position": 64,
+              "vertical_position": 91
+            }
+          },
+          "1542385530191": {
+            "type": "image",
+            "settings": {
+              "page_name": "",
+              "name": "Image #3",
+              "image": "shopify:\/\/shop_images\/0047628527_1_1_1.jpg"
+            }
+          },
+          "1542385552624": {
+            "type": "product",
+            "settings": {
+              "for_name": "Image #3",
+              "product": "copy-of-flared-trousers",
+              "horizontal_position": 48,
+              "vertical_position": 42
+            }
+          },
+          "1542385639752": {
+            "type": "product",
+            "settings": {
+              "for_name": "Image #3",
+              "product": "beats-pro",
+              "horizontal_position": 66,
+              "vertical_position": 66
+            }
+          },
+          "1542385876463": {
+            "type": "image",
+            "settings": {
+              "page_name": "",
+              "name": "Image #4",
+              "image": "shopify:\/\/shop_images\/0051019141_2_3_1_8223d91e-cd86-42d2-b066-6740d13c97da.jpg"
+            }
+          },
+          "1542385895396": {
+            "type": "product",
+            "settings": {
+              "for_name": "Image #4",
+              "product": "copy-of-drawstring-sweater",
+              "horizontal_position": 54,
+              "vertical_position": 47
+            }
+          },
+          "1542385994777": {
+            "type": "product",
+            "settings": {
+              "for_name": "Image #4",
+              "product": "skinny-mid-rise-trousers",
+              "horizontal_position": 34,
+              "vertical_position": 71
+            }
+          },
+          "1542386125065": {
+            "type": "image",
+            "settings": {
+              "page_name": "",
+              "name": "Image #5",
+              "image": "shopify:\/\/shop_images\/1938617800_2_3_1.jpg"
+            }
+          },
+          "1542386146183": {
+            "type": "product",
+            "settings": {
+              "for_name": "Image #5",
+              "product": "copy-of-mini-tweed-backpack",
+              "horizontal_position": 55,
+              "vertical_position": 53
+            }
+          },
+          "1542386237758": {
+            "type": "image",
+            "settings": {
+              "page_name": "",
+              "name": "Image #6",
+              "image": "shopify:\/\/shop_images\/0047628627_2_3_1.jpg"
+            }
+          },
+          "1542386264335": {
+            "type": "product",
+            "settings": {
+              "for_name": "Image #6",
+              "product": "beats-pro",
+              "horizontal_position": 40,
+              "vertical_position": 65
+            }
+          }
+        },
+        "block_order": [
+          "1542384287656",
+          "1542384329087",
+          "1542384456250",
+          "1542384593282",
+          "1542385389127",
+          "1542385469823",
+          "1542385530191",
+          "1542385552624",
+          "1542385639752",
+          "1542385876463",
+          "1542385895396",
+          "1542385994777",
+          "1542386125065",
+          "1542386146183",
+          "1542386237758",
+          "1542386264335"
+        ],
+        "settings": {
+          "show_title": false,
+          "layout": "1",
+          "grid": "3",
+          "grid_responsive": "",
+          "image_size": 600
+        }
+      },
+      "1586567788223": {
+        "type": "spacer",
+        "settings": {
+          "margin_top": 60,
+          "margin_bottom": 0,
+          "margin_top_mobile": 50,
+          "margin_bottom_mobile": 0,
+          "container": "boxed",
+          "show_separator": false,
+          "title": ""
+        }
+      },
+      "1610410899173dda8e": {
+        "type": "carousel-articles",
+        "disabled": true,
+        "settings": {
+          "title": "Our Blogs",
+          "blog": "ordering",
+          "layout": "1",
+          "max_symbols_count": 200,
+          "show_details": true,
+          "button_text": "READ & SHOP",
+          "size_of_columns": "2",
+          "max_items_count": 10,
+          "autoplay": true,
+          "speed": 5,
+          "infinite": true,
+          "arrows": true,
+          "bullets": true
+        }
+      },
+      "16104113279c202730": {
+        "type": "carousel-reviews",
+        "blocks": {
+          "44bddeb7-848b-44bb-823b-605c825ed307": {
+            "type": "slide",
+            "settings": {
+              "title": "\"Blown away by the hair quality...\"",
+              "stars": 5,
+              "paragraph": "<a href=\"https:\/\/www.haircompounds.com\/pages\/reviews?promo_name=review_1&promo_id=41&promo_position=Homepage_body\">Tracy here from Guilford CT level 3 NBR certified and only been using Hair Compounds for a couple months now but completely blown away by the hair quality and the customer service! Thank you for saving us from the silicone hair and having CONSISTENCY in your quality, it's the only way our clients will continue to be happy with their hair and trust us so.... HALLELUJAH!! ❤️❤️❤️ P.S. been wearing your custom curly in my hair since Tuesday and holy shit!!! The thickest, most beautiful hair I've ever had and I've been wearing extensions for over 10 years. And the texture is a perfect match. Ssssooooo happy. <\/a>",
+              "user_text_line_1": "<a href=\"https:\/\/www.haircompounds.com\/pages\/reviews?promo_name=review_1&promo_id=41&promo_position=Homepage_body\">Tracy Lynn Riccio <\/a>",
+              "user_text_line_2": "customer since 2018"
+            }
+          },
+          "adae20c6-4fdf-4073-adad-59823df23067": {
+            "type": "slide",
+            "settings": {
+              "title": "\"I'm obsessed...\"",
+              "stars": 5,
+              "paragraph": "<a href=\"https:\/\/www.haircompounds.com\/pages\/reviews?promo_name=review_2&promo_id=42&promo_position=Homepage_body\">I’m in Phoenix, AZ, level 3 NBR stylist and have been using H&C since March! I’m obsessed and love the quality and commitment that HC stands for. I also love that it’s ethically sourced and that they’re standards are high. Thank you for having amazing hair that our clients and ourselves can use. I love HC’s customer service, honestly they go above and beyond for us and it’s amazing. <\/a>",
+              "user_text_line_1": "<a href=\"https:\/\/www.haircompounds.com\/pages\/reviews?promo_name=review_2&promo_id=42&promo_position=Homepage_body\">Nicole Bencurik <\/a>",
+              "user_text_line_2": "customer since 2018"
+            }
+          },
+          "9ecda825-f10e-4b61-b8bf-c1f3389bd06d": {
+            "type": "slide",
+            "settings": {
+              "title": "\"My installs are way cleaner looking and faster\"",
+              "stars": 5,
+              "paragraph": "<a href=\"https:\/\/www.haircompounds.com\/pages\/reviews?promo_name=review_3&promo_id=43&promo_position=Homepage_body\">I’m in absolute LOVE with hair compounds hair, I’ve been using it since April 2018 and I’ve never been happier with the quality of the hair.\n\nI love that the texture is very natural, fluffy, and wavy. I do not have to fight against shiny silicone. I notice my installs are way cleaner looking and faster. The hair holds color really well. <\/a>",
+              "user_text_line_1": "<a href=\"https:\/\/www.haircompounds.com\/pages\/reviews?promo_name=review_3&promo_id=43&promo_position=Homepage_body\">Shaina Campbell <\/a>",
+              "user_text_line_2": "customer since 2018"
+            }
+          }
+        },
+        "block_order": [
+          "44bddeb7-848b-44bb-823b-605c825ed307",
+          "adae20c6-4fdf-4073-adad-59823df23067",
+          "9ecda825-f10e-4b61-b8bf-c1f3389bd06d"
+        ],
+        "settings": {
+          "title": "What Some of Our Customers Are Saying",
+          "type": "2",
+          "style": "3",
+          "size_of_columns": "3",
+          "autoplay": true,
+          "speed": 5,
+          "arrows": true
+        }
+      },
+      "161049059944f80394": {
+        "type": "information-line",
+        "blocks": {
+          "161049059944f80394-0": {
+            "type": "content",
+            "disabled": true,
+            "settings": {
+              "icon": "theme-159",
+              "title": "<b>Free Delivery<\/b>",
+              "paragraph": "Options Available",
+              "url": "https:\/\/www.haircompounds.com\/pages\/store-policy"
+            }
+          },
+          "161049059944f80394-2": {
+            "type": "content",
+            "settings": {
+              "icon": "theme-010",
+              "title": "<b>Easy Returns & Refunds<\/b>",
+              "paragraph": "Within 30 Days",
+              "url": "https:\/\/www.haircompounds.com\/pages\/store-policy"
+            }
+          },
+          "1bbf9ee9-3121-4475-a0a7-0694c11c3100": {
+            "type": "content",
+            "settings": {
+              "icon": "theme-042",
+              "title": "<b>Virtual Visit<\/b>",
+              "paragraph": "Supply House Tour & Color Matching",
+              "url": "https:\/\/form.typeform.com\/to\/oQGaEqlC?promo_name=virtual_visit&promo_id=40&promo_position=Homepage_body"
+            }
+          },
+          "161049059944f80394-1": {
+            "type": "content",
+            "settings": {
+              "icon": "theme-197",
+              "title": "<b>Instant Customer Service<\/b>",
+              "paragraph": "Speak To One Of Our Team Members",
+              "url": "https:\/\/www.haircompounds.com\/pages\/contact-hc"
+            }
+          }
+        },
+        "block_order": [
+          "161049059944f80394-0",
+          "161049059944f80394-2",
+          "1bbf9ee9-3121-4475-a0a7-0694c11c3100",
+          "161049059944f80394-1"
+        ],
+        "settings": {
+          "title": "",
+          "type": "2",
+          "style": "1"
+        }
+      },
+      "1610491624c6132145": {
+        "type": "spacer",
+        "settings": {
+          "margin_top": 60,
+          "margin_bottom": 0,
+          "margin_top_mobile": 0,
+          "margin_bottom_mobile": 0,
+          "container": "boxed",
+          "show_separator": false,
+          "title": ""
+        }
+      },
+      "16186146830fbf36aa": {
+        "type": "spacer",
+        "settings": {
+          "margin_top": 60,
+          "margin_bottom": 0,
+          "margin_top_mobile": 0,
+          "margin_bottom_mobile": 0,
+          "container": "boxed",
+          "show_separator": false,
+          "title": ""
+        }
+      },
+      "16212662133fdd16c5": {
+        "type": "spacer",
+        "settings": {
+          "margin_top": 15,
+          "margin_bottom": 0,
+          "margin_top_mobile": 0,
+          "margin_bottom_mobile": 0,
+          "container": "boxed",
+          "show_separator": false,
+          "title": ""
+        }
+      },
+      "16230890219cbb0460": {
+        "type": "information-line",
+        "blocks": {
+          "16230890219cbb0460-0": {
+            "type": "content",
+            "settings": {
+              "icon": "",
+              "title": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0570\/2057\/files\/4.jpg\" width=\"40\" height=\"40\" alt=\"Tried & Tested\"><b> Tried & Tested<\/b>",
+              "paragraph": "<p class=\"big\">All our hand-made hair extensions go through a rigorous review for quality, performance, and longevity.<\/p>",
+              "url": ""
+            }
+          },
+          "16230890219cbb0460-1": {
+            "type": "content",
+            "settings": {
+              "icon": "",
+              "title": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0570\/2057\/files\/3.jpg\" width=\"40\" height=\"40\" alt=\"Straight from the Source\"><b> Straight from the Source<\/b>",
+              "paragraph": "<p class=\"big\">We source, produce, and supply 100% real Remy human hair extensions to licensed hair professionals.<\/p>",
+              "url": ""
+            }
+          }
+        },
+        "block_order": [
+          "16230890219cbb0460-0",
+          "16230890219cbb0460-1"
+        ],
+        "settings": {
+          "title": "",
+          "type": "2",
+          "style": "2"
+        }
+      },
+      "1623089111e6afabf8": {
+        "type": "information-line",
+        "blocks": {
+          "1623089111e6afabf8-0": {
+            "type": "content",
+            "settings": {
+              "icon": "",
+              "title": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0570\/2057\/files\/1.jpg?v=1651209556\" width=\"40\" height=\"40\" alt=\"Stylist Driven\"> <b> Stylist-Driven<\/b>",
+              "paragraph": "<p class=\"big\">By consistently placing our stylists' feedback at the intersection of our production and supply process for nearly 25 years, we’re able to create a one-of-a-kind product. <\/p>",
+              "url": ""
+            }
+          },
+          "1623089111e6afabf8-1": {
+            "type": "content",
+            "settings": {
+              "icon": "",
+              "title": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0570\/2057\/files\/2.jpg\" width=\"40\" height=\"40\" alt=\"Real Remy Human Hair\"><b> Real Remy Human Hair<\/b>",
+              "paragraph": "<p class=\"big\">Our hair extensions are real human hair with the cuticles intact and root aligned.  All the hair is smooth yet durable, has consistency from root to tip. <\/p>",
+              "url": ""
+            }
+          }
+        },
+        "block_order": [
+          "1623089111e6afabf8-0",
+          "1623089111e6afabf8-1"
+        ],
+        "settings": {
+          "title": "<div>Why Choose H&C?<\/div>",
+          "type": "2",
+          "style": "3"
+        }
+      },
+      "16230891835a2d143c": {
+        "type": "spacer",
+        "settings": {
+          "margin_top": 60,
+          "margin_bottom": 0,
+          "margin_top_mobile": 0,
+          "margin_bottom_mobile": 0,
+          "container": "boxed",
+          "show_separator": false,
+          "title": ""
+        }
+      },
+      "fac04855-e975-4d09-a92c-ddf78ec937ea": {
+        "type": "spacer",
+        "settings": {
+          "margin_top": 60,
+          "margin_bottom": 0,
+          "margin_top_mobile": 0,
+          "margin_bottom_mobile": 0,
+          "container": "boxed",
+          "show_separator": false,
+          "title": ""
+        }
+      },
+      "f77bd9a4-66ae-4665-83d7-b3a9c9a06f0c": {
+        "type": "spacer",
+        "settings": {
+          "margin_top": 60,
+          "margin_bottom": 0,
+          "margin_top_mobile": 0,
+          "margin_bottom_mobile": 0,
+          "container": "boxed",
+          "show_separator": false,
+          "title": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "1586279708879",
+      "f77bd9a4-66ae-4665-83d7-b3a9c9a06f0c",
+      "161049059944f80394",
+      "16230891835a2d143c",
+      "1586280453180",
+      "fac04855-e975-4d09-a92c-ddf78ec937ea",
+      "1623089111e6afabf8",
+      "16230890219cbb0460",
+      "16212662133fdd16c5",
+      "1586283433745",
+      "16186146830fbf36aa",
+      "1586282852274",
+      "1586284059940",
+      "1586567788223",
+      "1610410899173dda8e",
+      "16104113279c202730",
+      "1610491624c6132145"
+    ]
+  }
+}
